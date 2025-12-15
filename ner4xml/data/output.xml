@@ -1,0 +1,2042 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">H. P. Lovecraft: Astronomical Observations (<persName>H. P. Lovecraft</persName>: Astronomical Observations (NAME)<PER_name>H. P. Lovecraft</PER_name>: Astronomical Observations (NAME)<ORG_name>NAME</ORG_name>)</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher><ORG_name>TRP</ORG_name> document creator: fabian.etling@cedis.fu-berlin.de</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<charDecl>
+				<glyph xml:id="hpl-and-sign">
+					<desc><ORG_name>HPL</ORG_name> uses a plus-like and sign to represent the conjunction "and".</desc>
+					<mapping>&amp;</mapping>
+				</glyph>
+			</charDecl>
+		</encodingDesc>
+	</teiHeader>
+	<facsimile xml:id="facs_1">
+		<surface ulx="0" uly="0" lrx="1904" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_001.tif" width="1904px" height="3000px" />
+			<zone points="418,532 418,2833 1640,2837 1640,536" rendition="TextRegion" xml:id="facs_1_tr_1">
+				<zone points="499,607 751,630 807,610 910,644 1002,605 1188,626 1185,524 781,545 611,514 498,568" rendition="Line" xml:id="facs_1_tr_1_tl_1" />
+				<zone points="680,763 1231,760 1231,703 1136,704 1078,664 923,688 797,655 721,670 680,655" rendition="Line" xml:id="facs_1_tr_1_tl_2" />
+				<zone points="824,896 879,900 895,890 968,908 1001,893 1036,903 1104,894 1100,830 1090,827 1044,817 978,839 901,808 820,826" rendition="Line" xml:id="facs_1_tr_1_tl_3" />
+				<zone points="1133,1126 1154,1116 1184,1121 1204,1129 1231,1135 1264,1135 1324,1131 1297,1018 1195,1005 1128,1029" rendition="Line" xml:id="facs_1_tr_1_tl_4" />
+				<zone points="435,1353 879,1357 1013,1435 1230,1370 1227,1260 1201,1248 934,1288 718,1235 432,1229" rendition="Line" xml:id="facs_1_tr_1_tl_5" />
+				<zone points="634,1534 943,1539 1037,1593 1358,1524 1520,1574 1515,1401 1148,1459 977,1415 631,1409" rendition="Line" xml:id="facs_1_tr_1_tl_6" />
+				<zone points="843,1677 955,1707 1025,1682 1177,1687 1236,1719 1299,1691 1424,1735 1456,1727 1453,1637 1268,1643 1194,1598 1117,1641 1068,1639 990,1620 899,1557 838,1562" rendition="Line" xml:id="facs_1_tr_1_tl_7" />
+				<zone points="1127,1872 1147,1880 1245,1849 1267,1858 1280,1846 1381,1840 1384,1745 1352,1751 1309,1741 1283,1751 1245,1743 1229,1751 1170,1732 1130,1744" rendition="Line" xml:id="facs_1_tr_1_tl_8" />
+				<zone points="1228,1972 1346,1984 1456,1971 1488,1988 1563,1978 1584,1992 1594,1915 1564,1906 1546,1918 1487,1885 1444,1903 1392,1886 1347,1896 1317,1878 1284,1893 1228,1886" rendition="Line" xml:id="facs_1_tr_1_tl_9" />
+				<zone points="716,2126 752,2106 808,2109 846,2085 894,2088 932,2105 960,2082 993,2083 988,2018 957,2004 914,2003 886,1986 847,1997 794,1983 763,2001 706,1989" rendition="Line" xml:id="facs_1_tr_1_tl_10" />
+				<zone points="498,2202 531,2199 558,2215 594,2203 619,2218 659,2202 706,2225 760,2216 760,2119 679,2117 646,2102 572,2127 558,2119 498,2136" rendition="Line" xml:id="facs_1_tr_1_tl_11" />
+				<zone points="466,2345 512,2341 600,2297 652,2317 690,2310 711,2322 736,2311 739,2225 692,2214 656,2236 610,2212 590,2225 568,2205 546,2219 525,2215 495,2239 470,2238" rendition="Line" xml:id="facs_1_tr_1_tl_12" />
+				<zone points="460,2402 490,2399 524,2429 579,2416 621,2420 644,2415 676,2416 697,2409 695,2309 642,2325 607,2325 582,2311 534,2333 458,2317" rendition="Line" xml:id="facs_1_tr_1_tl_13" />
+				<zone points="435,2549 475,2534 510,2540 527,2527 541,2541 568,2535 596,2546 627,2532 658,2549 693,2551 693,2442 660,2433 527,2456 487,2441 472,2451 435,2444" rendition="Line" xml:id="facs_1_tr_1_tl_14" />
+				<zone points="433,2626 486,2627 527,2653 576,2634 615,2643 655,2636 652,2529 615,2532 596,2546 568,2535 535,2537 502,2553 475,2534 444,2553 431,2550" rendition="Line" xml:id="facs_1_line_1729682369118_14" />
+				<zone points="422,2721 460,2735 567,2717 600,2732 617,2723 631,2729 627,2640 610,2646 599,2636 560,2633 527,2654 485,2627 463,2633 418,2618" rendition="Line" xml:id="facs_1_line_1729682376789_19" />
+				<zone points="412,2811 430,2805 452,2821 462,2816 576,2822 649,2812 660,2723 577,2722 567,2730 552,2723 533,2733 501,2722 481,2729 411,2720" rendition="Line" xml:id="facs_1_tr_1_tl_15" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_2">
+		<surface ulx="0" uly="0" lrx="1805" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_002.tif" width="1805px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_3">
+		<surface ulx="0" uly="0" lrx="1810" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_003.tif" width="1810px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_4">
+		<surface ulx="0" uly="0" lrx="1864" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_004.tif" width="1864px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_5">
+		<surface ulx="0" uly="0" lrx="1882" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_005.tif" width="1882px" height="3000px" />
+			<zone points="136,290 1689,283 1689,432 136,432" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_5_TextRegion_1735839731810_49">
+				<zone points="125,402 346,450 918,413 1120,446 1487,380 1550,438 1668,417 1670,305 1381,361 1062,277 744,348 561,284 313,346 125,325" rendition="Line" xml:id="facs_5_tr_1_tl_1" />
+			</zone>
+			<zone points="136,432 1689,432 1689,584 136,584" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_5_TextRegion_1735839731810_48">
+				<zone points="140,519 471,571 849,528 978,592 1245,511 1447,598 1629,546 1629,467 1456,482 1310,421 851,423 626,492 500,436 304,461 140,409" rendition="Line" xml:id="facs_5_tr_1_tl_2" />
+			</zone>
+			<zone points="136,1926 1689,1926 1689,2055 136,2055" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_5_TextRegion_1735839719108_40">
+				<zone points="136,2044 242,2083 300,2040 473,2062 599,2021 674,2060 1422,2031 1422,1960 1316,1983 1037,1929 396,1988 215,1931 136,1964" rendition="Line" xml:id="facs_5_tr_1_tl_3" />
+			</zone>
+			<zone points="136,2055 1689,2055 1689,2152 136,2159" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_5_TextRegion_1735839713892_36">
+				<zone points="148,2206 640,2211 876,2135 1322,2150 1308,2056 1216,2085 707,2038 644,2098 567,2044 438,2100 148,2044" rendition="Line" xml:id="facs_5_tr_1_tl_6" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_6">
+		<surface ulx="0" uly="0" lrx="1888" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_006.tif" width="1888px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_7">
+		<surface ulx="0" uly="0" lrx="1877" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_007.tif" width="1877px" height="3000px" />
+			<zone points="146,1050 1663,1047 1660,1187 143,1187" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_7_TextRegion_1735840180243_100">
+				<zone points="164,1197 1146,1175 1496,1219 1595,1177 1597,1095 1440,1128 1201,1082 951,1099 788,1035 639,1075 166,1038" rendition="Line" xml:id="facs_7_tr_1_tl_1" />
+			</zone>
+			<zone points="143,1187 1660,1187 1659,1307 142,1310" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_7_TextRegion_1735840180243_99">
+				<zone points="131,1319 460,1338 622,1301 1221,1350 1332,1301 1599,1305 1570,1175 1467,1234 1392,1197 1281,1228 641,1175 131,1190" rendition="Line" xml:id="facs_7_tr_1_tl_2" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_8">
+		<surface ulx="0" uly="0" lrx="1859" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_008.tif" width="1859px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_9">
+		<surface ulx="0" uly="0" lrx="1899" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_009.tif" width="1899px" height="3000px" />
+			<zone points="183,1366 1660,1369 1657,1511 179,1511" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_9_TextRegion_1735840305168_133">
+				<zone points="180,1505 388,1535 568,1494 701,1575 935,1499 1049,1532 1227,1492 1339,1528 1445,1477 1505,1523 1608,1506 1608,1412 1165,1418 927,1365 499,1447 330,1374 182,1374" rendition="Line" xml:id="facs_9_tr_1_tl_1" />
+			</zone>
+			<zone points="179,1511 1657,1511 1655,1612 177,1612" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_9_TextRegion_1735840305168_132">
+				<zone points="189,1584 316,1628 428,1604 490,1648 662,1606 759,1670 917,1599 1617,1601 1619,1505 1476,1557 815,1517 695,1583 528,1494 388,1535 191,1510" rendition="Line" xml:id="facs_9_tr_1_tl_2" />
+			</zone>
+			<zone points="177,1612 1655,1612 1653,1734 175,1734" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_9_TextRegion_1735840303968_128">
+				<zone points="163,1708 918,1702 1153,1742 1310,1695 1456,1750 1623,1708 1590,1606 1432,1664 971,1603 760,1668 550,1612 495,1648 165,1637" rendition="Line" xml:id="facs_9_tr_1_tl_3" />
+			</zone>
+			<zone points="175,1734 1653,1734 1651,1841 174,1838" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_9_TextRegion_1735840302480_124">
+				<zone points="169,1817 356,1868 786,1806 1069,1859 1212,1820 1359,1864 1612,1831 1588,1717 1457,1751 1209,1715 281,1748 169,1712" rendition="Line" xml:id="facs_9_tr_1_tl_4" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_10">
+		<surface ulx="0" uly="0" lrx="1943" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_010.tif" width="1943px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_11">
+		<surface ulx="0" uly="0" lrx="1878" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_011.tif" width="1878px" height="3000px" />
+			<zone points="132,1164 1719,1171 1719,1330 132,1330" rendition="TextRegion" xml:id="facs_11_TextRegion_1735840857745_186">
+				<zone points="213,1151 356,1235 539,1166 1118,1231 1631,1202 1692,1209 1692,1288 1567,1323 1401,1252 1237,1252 1059,1305 908,1276 800,1330 749,1330 399,1252 195,1248 121,1293 121,1200" rendition="Line" xml:id="facs_11_line_1735840857745_189" />
+			</zone>
+			<zone points="132,2025 1662,2025 1666,2218 132,2212" rendition="TextRegion" xml:id="facs_11_TextRegion_1735840856033_181">
+				<zone points="150,2247 367,2262 467,2178 766,2196 867,2147 1409,2133 1508,2173 1641,2143 1645,2026 1457,2110 1245,2059 951,2044 783,2092 729,2049 678,2089 529,2051 383,2137 152,2135" rendition="Line" xml:id="facs_11_tr_1_tl_2" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_12">
+		<surface ulx="0" uly="0" lrx="1896" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_012.tif" width="1896px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_13">
+		<surface ulx="0" uly="0" lrx="1898" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_013.tif" width="1898px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_14">
+		<surface ulx="0" uly="0" lrx="1889" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_014.tif" width="1889px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_15">
+		<surface ulx="0" uly="0" lrx="1897" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_015.tif" width="1897px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_16">
+		<surface ulx="0" uly="0" lrx="1912" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_016.tif" width="1912px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_17">
+		<surface ulx="0" uly="0" lrx="1902" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_017.tif" width="1902px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_18">
+		<surface ulx="0" uly="0" lrx="1890" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_018.tif" width="1890px" height="3000px" />
+			<zone points="164,132 164,284 302,283 302,131" rendition="TextRegion" subtype="page-number" xml:id="facs_18_tr_1">
+				<zone points="156,249 181,241 195,241 203,249 215,243 229,244 235,238 250,243 274,237 272,173 252,175 240,187 224,192 203,184 181,203 156,210" rendition="Line" xml:id="facs_18_tr_1_tl_1" />
+			</zone>
+			<zone points="178,350 178,1083 1444,1083 1444,350" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_18_tr_2">
+				<zone points="541,445 606,464 772,410 877,438 1154,400 1362,410 1362,362 1225,314 1093,362 935,320 699,357 541,334" rendition="Line" xml:id="facs_18_tr_2_tl_1" />
+				<zone points="654,552 779,527 796,541 861,510 1013,515 1089,543 1138,523 1186,535 1186,427 911,427 835,472 654,424" rendition="Line" xml:id="facs_18_tr_2_tl_2" />
+				<zone points="625,628 724,632 900,696 976,671 1033,687 1164,632 1161,520 1102,546 1045,529 1004,558 918,544 832,580 756,561 717,580 622,549" rendition="Line" xml:id="facs_18_tr_2_tl_3" />
+				<zone points="199,852 1440,860 1440,741 908,776 833,738 628,748 529,798 419,751 199,773" rendition="Line" xml:id="facs_18_tr_2_tl_4" />
+				<zone points="175,991 465,959 566,990 787,949 915,993 1005,954 1198,966 1197,881 982,914 725,838 427,934 274,864 173,886" rendition="Line" xml:id="facs_18_tr_2_tl_5" />
+				<zone points="170,1067 243,1051 405,1082 438,1067 504,1093 540,1064 611,1081 736,1059 736,993 691,971 515,980 475,1002 255,959 170,996" rendition="Line" xml:id="facs_18_tr_2_tl_6" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_19">
+		<surface ulx="0" uly="0" lrx="1929" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_019.tif" width="1929px" height="3000px" />
+			<zone points="1513,143 1816,143 1816,282 1518,287" rendition="TextRegion" subtype="page-number" xml:id="facs_19_TextRegion_1728662210695_193">
+				<zone points="1569,256 1617,258 1633,252 1678,285 1702,277 1692,157 1666,164 1644,153 1631,157 1615,145 1601,158 1591,153 1561,164" rendition="Line" xml:id="facs_19_tr_1_tl_1" />
+			</zone>
+			<zone points="196,143 1513,143 1518,287 1816,282 1816,532 196,532" rendition="TextRegion" subtype="heading" xml:id="facs_19_TextRegion_1728662210695_192">
+				<zone points="418,345 876,329 1153,367 1270,343 1258,248 1145,279 1020,244 937,279 646,236 418,273" rendition="Line" xml:id="facs_19_tr_1_tl_2" />
+				<zone points="495,462 1276,456 1341,489 1339,370 1290,357 939,376 757,343 668,380 493,341" rendition="Line" xml:id="facs_19_tr_1_tl_3" />
+			</zone>
+			<zone points="196,532 1816,532 1816,676 196,676" rendition="TextRegion" subtype="heading" xml:id="facs_19_TextRegion_1728662174513_187">
+				<zone points="711,630 745,646 802,632 836,638 858,624 911,656 957,640 987,646 991,549 975,541 929,561 870,537 856,547 715,539" rendition="Line" xml:id="facs_19_tr_1_tl_4" />
+			</zone>
+			<zone points="196,676 1816,676 1816,918 196,918" rendition="TextRegion" subtype="hpl_ao_note--inline" xml:id="facs_19_TextRegion_1728662174513_186">
+				<zone points="444,886 539,921 854,913 1066,840 1486,888 1486,761 1205,743 1125,775 890,731 745,806 444,729" rendition="Line" xml:id="facs_19_tr_1_tl_7" />
+			</zone>
+			<zone points="196,918 1816,918 1816,1593 196,1593" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_19_TextRegion_1728662288316_208">
+				<zone points="220,1092 513,1094 638,1020 909,1092 995,1060 1555,1084 1629,1034 1629,985 1452,951 1195,1006 997,955 785,995 327,953 220,1004" rendition="Line" xml:id="facs_19_tr_1_tl_9" />
+				<zone points="198,1171 388,1161 553,1248 616,1195 860,1163 1635,1195 1635,1026 1518,1092 1300,1060 1228,1117 1167,1068 999,1058 779,1106 579,1078 523,1123 198,1094" rendition="Line" xml:id="facs_19_tr_1_tl_10" />
+				<zone points="218,1278 1694,1284 1692,1215 1646,1195 1426,1179 1258,1189 1147,1248 1012,1157 919,1201 598,1157 529,1215 216,1189" rendition="Line" xml:id="facs_19_tr_1_tl_12" />
+				<zone points="218,1391 919,1423 1411,1383 1617,1436 1635,1347 1541,1282 1108,1343 991,1296 745,1329 660,1280 569,1333 216,1284" rendition="Line" xml:id="facs_19_tr_1_tl_13" />
+				<zone points="222,1557 309,1591 454,1539 581,1573 691,1514 816,1555 876,1512 1300,1492 1795,1571 1809,1409 1563,1432 1482,1391 1385,1444 1264,1397 804,1436 555,1381 481,1421 315,1383 220,1411" rendition="Line" xml:id="facs_19_tr_1_tl_14" />
+			</zone>
+			<zone points="196,1593 1816,1593 1816,2218 196,2218" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_19_TextRegion_1728662288316_207">
+				<zone points="250,1728 1581,1714 1698,1783 1803,1757 1803,1633 1702,1642 1660,1601 1514,1642 1323,1601 616,1635 321,1617 250,1573" rendition="Line" xml:id="facs_19_tr_1_tl_15" />
+				<zone points="216,1868 388,1817 485,1852 808,1817 931,1878 1064,1819 1167,1852 1226,1817 1363,1852 1672,1823 1672,1734 1619,1728 1238,1763 969,1708 856,1759 487,1732 357,1775 305,1734 216,1767" rendition="Line" xml:id="facs_19_tr_1_tl_17" />
+				<zone points="198,1930 438,1952 628,1914 808,1993 1006,1924 1692,1934 1692,1866 1436,1831 1141,1884 773,1854 713,1896 519,1884 388,1819 198,1874" rendition="Line" xml:id="facs_19_tr_1_tl_18" />
+				<zone points="208,2033 1032,2033 1159,2096 1327,2035 1688,2037 1688,1959 1456,1983 1329,1936 1274,1973 1088,1932 890,1999 662,1926 208,1967" rendition="Line" xml:id="facs_19_tr_1_tl_19" />
+				<zone points="184,2148 408,2132 561,2169 674,2136 769,2160 810,2146 810,2068 745,2074 703,2047 547,2098 428,2068 382,2092 285,2043 184,2074" rendition="Line" xml:id="facs_19_tr_1_tl_20" />
+			</zone>
+			<zone points="196,2218 1816,2218 1816,2370 196,2370" rendition="TextRegion" subtype="heading" xml:id="facs_19_TextRegion_1728662154859_170">
+				<zone points="610,2372 664,2364 697,2379 713,2364 739,2379 761,2362 781,2368 796,2358 812,2368 880,2356 880,2271 864,2265 830,2272 814,2259 775,2263 737,2251 693,2267 662,2245 638,2265 610,2261" rendition="Line" xml:id="facs_19_line_1728662152002_168" />
+			</zone>
+			<zone points="196,2370 1816,2370 1816,2939 196,2939" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_19_TextRegion_1728662152002_164">
+				<zone points="232,2502 448,2538 577,2500 654,2546 753,2488 1302,2477 1561,2520 1561,2417 1296,2354 684,2411 626,2368 458,2403 386,2354 232,2366" rendition="Line" xml:id="facs_19_tr_1_tl_22" />
+				<zone points="240,2619 349,2582 921,2586 1018,2631 1149,2589 1282,2629 1359,2589 1577,2609 1577,2540 1460,2502 1314,2542 1161,2492 979,2528 870,2483 640,2548 577,2500 476,2540 240,2518" rendition="Line" xml:id="facs_19_tr_1_tl_24" />
+				<zone points="254,2691 1749,2722 1765,2609 1617,2599 1549,2641 1454,2588 1407,2631 931,2647 870,2607 787,2649 606,2599 252,2609" rendition="Line" xml:id="facs_19_tr_1_tl_26" />
+				<zone points="265,2801 396,2813 485,2885 620,2805 777,2853 838,2805 945,2833 1078,2796 1407,2831 1551,2800 1633,2839 1631,2704 1256,2704 1191,2752 1094,2702 1016,2740 705,2694 579,2754 430,2706 264,2720" rendition="Line" xml:id="facs_19_tr_1_tl_27" />
+				<zone points="238,2958 1644,2952 1644,2855 1458,2801 993,2821 917,2881 846,2817 765,2861 604,2807 511,2887 329,2825 238,2873" rendition="Line" xml:id="facs_19_tr_1_tl_29" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_20">
+		<surface ulx="0" uly="0" lrx="1926" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_020.tif" width="1926px" height="3000px" />
+			<zone points="176,153 348,153 348,312 176,310" rendition="TextRegion" subtype="page-number" xml:id="facs_20_TextRegion_1729668693157_157">
+				<zone points="193,294 210,296 236,279 267,285 285,276 279,172 249,172 244,176 236,170 220,186 213,183 206,192 190,197" rendition="Line" xml:id="facs_20_tr_1_tl_2" />
+			</zone>
+			<zone points="348,153 1644,153 1644,289 341,319 341,311 348,312" rendition="TextRegion" subtype="hpl_ao_note--margin" xml:id="facs_20_TextRegion_1729668921709_228">
+				<zone points="446,265 566,272 641,233 1186,258 1293,219 1288,61 437,59" rendition="Line" xml:id="facs_20_tr_1_tl_1" />
+			</zone>
+			<zone points="176,310 341,311 341,319 1644,289 1644,1356 176,1356" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_20_TextRegion_1729668921709_227">
+				<zone points="197,437 530,419 674,493 747,437 946,417 1585,423 1585,342 1463,294 1367,342 783,310 432,365 197,310" rendition="Line" xml:id="facs_20_tr_1_tl_3" />
+				<zone points="186,602 294,537 849,562 1426,511 1428,423 987,476 888,425 745,437 641,509 444,432 351,487 190,462" rendition="Line" xml:id="facs_20_tr_1_tl_4" />
+				<zone points="192,647 659,675 1008,627 1512,638 1512,570 1125,519 1026,573 690,545 442,602 285,561 193,596" rendition="Line" xml:id="facs_20_tr_1_tl_6" />
+				<zone points="201,813 278,767 462,751 1171,754 1188,706 1069,639 942,706 688,654 600,682 460,659 202,724" rendition="Line" xml:id="facs_20_tr_1_tl_7" />
+				<zone points="253,894 867,842 940,885 1250,840 1474,871 1528,847 1530,763 1424,745 1256,824 1202,770 1057,747 254,776" rendition="Line" xml:id="facs_20_tr_1_tl_10" />
+				<zone points="244,985 1186,951 1392,1032 1603,964 1605,881 1521,847 1268,883 1023,856 863,910 622,863 360,924 244,903" rendition="Line" xml:id="facs_20_tr_1_tl_11" />
+				<zone points="260,1091 439,1120 602,1068 914,1071 1034,1114 1195,1064 1515,1077 1517,1016 1383,1032 1241,953 1019,955 921,1001 262,992" rendition="Line" xml:id="facs_20_tr_1_tl_12" />
+				<zone points="219,1195 1381,1198 1508,1173 1510,1075 220,1125" rendition="Line" xml:id="facs_20_tr_1_tl_13" />
+				<zone points="211,1345 288,1297 883,1286 1309,1354 1499,1299 1489,1206 1179,1254 992,1195 890,1247 668,1182 552,1249 337,1214 211,1243" rendition="Line" xml:id="facs_20_tr_1_tl_15" />
+			</zone>
+			<zone points="176,1356 1644,1356 1644,2916 176,2916" rendition="TextRegion" subtype="hpl_ao_figure" xml:id="facs_20_TextRegion_1729668853607_195">
+				<zone points="965,1506 1014,1489 1050,1505 1064,1494 1087,1503 1128,1496 1200,1447 1232,1456 1236,1374 1179,1376 1150,1360 1084,1381 964,1361" rendition="Line" xml:id="facs_20_tr_1_tl_16" />
+				<zone points="1283,1990 1308,1981 1338,2003 1352,1990 1379,1992 1397,1976 1438,2004 1465,1995 1492,2003 1494,1911 1442,1897 1410,1870 1363,1884 1345,1875 1338,1883 1315,1865 1286,1865" rendition="Line" xml:id="facs_20_tr_1_tl_17" />
+				<zone points="462,2646 704,2690 890,2655 1102,2712 1245,2647 1415,2651 1415,2604 1238,2592 1023,2587 819,2631 713,2540 462,2535" rendition="Line" xml:id="facs_20_tr_1_tl_19" />
+				<zone points="167,2751 348,2798 588,2751 1566,2775 1566,2687 1526,2676 1322,2719 1037,2671 962,2721 616,2660 573,2694 167,2683" rendition="Line" xml:id="facs_20_tr_1_tl_20" />
+				<zone points="202,2845 1639,2861 1619,2785 1428,2764 1358,2802 914,2769 727,2814 631,2759 545,2810 313,2764 202,2794" rendition="Line" xml:id="facs_20_tr_1_tl_21" />
+				<zone points="222,2948 1071,2968 1236,2939 1222,2846 1112,2875 740,2832 222,2843" rendition="Line" xml:id="facs_20_tr_1_tl_22" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_21">
+		<surface ulx="0" uly="0" lrx="1940" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_021.tif" width="1940px" height="3000px" />
+			<zone points="1551,113 1806,113 1806,339 1551,339" rendition="TextRegion" subtype="page-number" xml:id="facs_21_region_1729668962254_248">
+				<zone points="1733,263 1715,261 1704,269 1677,246 1657,251 1622,244 1622,367 1642,371 1651,362 1661,369 1696,348 1708,358 1733,352" rendition="Line" xml:id="facs_21_line_1729668985752_254" />
+			</zone>
+			<zone points="131,109 915,112 911,944 137,944" rendition="TextRegion" subtype="hpl_ao_figure" xml:id="facs_21_TextRegion_1729669026587_278">
+				<zone points="230,944 340,965 452,951 518,982 665,949 766,967 779,857 675,853 514,799 460,826 286,775 224,789" rendition="Line" xml:id="facs_21_tr_1_tl_4" />
+			</zone>
+			<zone points="919,109 1545,111 1549,344 1829,348 1841,485 1841,944 911,944" rendition="TextRegion" subtype="hpl_ao_figure" xml:id="facs_21_TextRegion_1729669026587_277">
+				<zone points="1042,669 1052,669 1056,673 1067,661 1073,665 1077,661 1081,665 1096,665 1100,661 1112,663 1112,582 1102,582 1089,596 1081,590 1075,596 1067,596 1064,592 1056,599 1042,599" rendition="Line" xml:id="facs_21_tr_1_tl_2" />
+				<zone points="1489,545 1508,545 1516,551 1530,551 1530,454 1518,454 1514,458 1504,460 1501,464 1489,462" rendition="Line" xml:id="facs_21_line_1729669101555_297" />
+				<zone points="1721,524 1740,528 1750,522 1777,534 1789,532 1781,435 1771,435 1764,445 1756,443 1737,458 1729,451 1715,452" rendition="Line" xml:id="facs_21_line_1729669105597_302" />
+				<zone points="1767,739 1777,739 1781,735 1793,743 1800,737 1808,741 1824,739 1824,648 1814,648 1798,659 1795,657 1779,671 1767,671" rendition="Line" xml:id="facs_21_line_1729669109416_307" />
+				<zone points="1054,795 1145,818 1191,791 1334,804 1443,882 1510,857 1561,876 1723,845 1713,698 1646,690 1526,754 1419,744 1348,702 1046,704" rendition="Line" xml:id="facs_21_tr_1_tl_3" />
+				<zone points="998,951 1064,969 1193,955 1216,973 1327,944 1431,969 1427,868 1336,841 1298,849 1274,828 1197,839 1125,882 1085,851 992,851" rendition="Line" xml:id="facs_21_tr_1_tl_5" />
+			</zone>
+			<zone points="238,944 1808,944 1808,1070 238,1070" rendition="TextRegion" subtype="heading" xml:id="facs_21_TextRegion_1729669022242_273">
+				<zone points="679,1075 704,1079 729,1056 770,1071 822,1054 845,1062 934,1050 930,955 905,942 862,946 828,963 787,951 764,967 739,948 675,959" rendition="Line" xml:id="facs_21_line_1729669020367_271" />
+			</zone>
+			<zone points="238,1070 1808,1070 1808,1250 238,1250" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_21_TextRegion_1729669160616_330">
+				<zone points="331,1197 410,1176 512,1197 586,1166 681,1199 803,1168 839,1187 1040,1168 1040,1075 880,1122 646,1058 505,1114 427,1062 331,1093" rendition="Line" xml:id="facs_21_tr_1_tl_7" />
+			</zone>
+			<zone points="238,1250 1808,1250 1808,1392 238,1392" rendition="TextRegion" subtype="heading" xml:id="facs_21_TextRegion_1729669160616_329">
+				<zone points="667,1363 729,1377 756,1398 801,1375 851,1416 872,1396 930,1404 926,1280 882,1269 832,1270 824,1280 789,1263 665,1284" rendition="Line" xml:id="facs_21_tr_1_tl_8" />
+			</zone>
+			<zone points="238,1392 1808,1392 1808,2906 238,2906" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_21_TextRegion_1729669156460_323">
+				<zone points="259,1551 364,1570 677,1487 777,1526 930,1485 1746,1506 1781,1350 1617,1330 1456,1414 1373,1350 1245,1433 1145,1390 1031,1433 261,1371" rendition="Line" xml:id="facs_21_tr_1_tl_11" />
+				<zone points="232,1588 1398,1588 1475,1632 1708,1597 1777,1630 1777,1497 1199,1545 592,1493 364,1572 232,1545" rendition="Line" xml:id="facs_21_tr_1_tl_13" />
+				<zone points="267,1723 634,1694 756,1752 1021,1690 1675,1738 1735,1709 1733,1644 1572,1678 1332,1591 847,1595 764,1642 540,1648 408,1588 265,1630" rendition="Line" xml:id="facs_21_tr_1_tl_14" />
+				<zone points="251,1804 725,1845 1124,1814 1332,1862 1446,1808 1802,1824 1789,1713 1433,1764 1156,1692 965,1700 851,1762 706,1717 596,1760 454,1708 313,1756 251,1731" rendition="Line" xml:id="facs_21_tr_1_tl_16" />
+				<zone points="257,1905 418,1941 650,1911 737,1965 818,1909 1093,1951 1195,1912 1663,1916 1648,1810 1421,1812 1346,1864 657,1816 410,1882 257,1851" rendition="Line" xml:id="facs_21_tr_1_tl_17" />
+				<zone points="271,2019 628,2029 758,2081 930,2015 1613,2027 1613,1969 1456,1916 1151,1922 1048,1982 841,1943 748,1978 652,1930 530,1986 379,1947 271,1990" rendition="Line" xml:id="facs_21_tr_1_tl_18" />
+				<zone points="277,2123 474,2162 516,2131 588,2191 741,2125 1153,2129 1381,2197 1545,2119 1735,2137 1735,2048 1586,2017 1348,2056 1265,2013 1062,2015 760,2085 277,2063" rendition="Line" xml:id="facs_21_tr_1_tl_19" />
+				<zone points="273,2266 719,2241 774,2293 861,2228 1508,2239 1508,2179 1315,2201 1137,2135 911,2181 729,2137 615,2201 507,2135 451,2181 273,2145" rendition="Line" xml:id="facs_21_tr_1_tl_20" />
+				<zone points="273,2359 596,2340 744,2408 930,2336 1259,2334 1371,2394 1512,2334 1742,2340 1723,2237 1659,2278 1417,2228 1112,2284 971,2233 849,2233 775,2293 721,2241 582,2288 273,2266" rendition="Line" xml:id="facs_21_tr_1_tl_21" />
+				<zone points="261,2444 547,2500 785,2450 1065,2444 1124,2481 1205,2446 1249,2477 1729,2450 1729,2338 1649,2379 1489,2338 1398,2398 1141,2344 744,2408 369,2353 261,2409" rendition="Line" xml:id="facs_21_tr_1_tl_22" />
+				<zone points="296,2593 567,2632 714,2553 1040,2587 1197,2549 1750,2558 1750,2506 1547,2500 1400,2442 1240,2504 1098,2454 789,2448 509,2502 298,2458" rendition="Line" xml:id="facs_21_tr_1_tl_23" />
+				<zone points="278,2669 449,2674 549,2740 715,2661 1775,2694 1760,2556 1367,2551 1253,2614 1120,2572 971,2626 278,2620" rendition="Line" xml:id="facs_21_tr_1_tl_24" />
+				<zone points="288,2769 1597,2788 1597,2709 1464,2671 1249,2665 1139,2730 969,2665 907,2698 717,2661 596,2746 394,2690 288,2707" rendition="Line" xml:id="facs_21_tr_1_tl_25" />
+				<zone points="269,2903 1572,2891 1572,2821 1518,2812 1454,2850 1276,2804 810,2821 652,2767 574,2812 269,2825" rendition="Line" xml:id="facs_21_tr_1_tl_26" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_22">
+		<surface ulx="0" uly="0" lrx="1891" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_022.tif" width="1891px" height="3000px" />
+			<zone points="148,145 339,145 329,246 239,311 148,315" rendition="TextRegion" subtype="page-number" xml:id="facs_22_TextRegion_1729669393151_408">
+				<zone points="195,279 210,286 220,281 237,286 282,263 302,267 321,111 309,109 288,124 263,122 254,130 229,115 214,115" rendition="Line" xml:id="facs_22_line_1729669404552_411" />
+			</zone>
+			<zone points="347,72 1683,86 1683,246 329,246" rendition="TextRegion" subtype="hpl_ao_note--margin" xml:id="facs_22_TextRegion_1729669454897_434">
+				<zone points="420,189 546,162 660,206 1252,221 1275,115 1042,94 928,132 842,105 712,132 567,71 416,84" rendition="Line" xml:id="facs_22_tr_1_tl_1" />
+			</zone>
+			<zone points="148,315 239,311 329,246 1773,249 1773,498 148,498" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_22_TextRegion_1730130501206_271">
+				<zone points="174,429 975,399 1159,471 1264,405 1325,450 1424,389 1559,408 1561,263 1374,246 1078,303 807,282 750,324 571,252 477,296 311,286 176,357" rendition="Line" xml:id="facs_22_tr_1_tl_4" />
+			</zone>
+			<zone points="148,498 1773,498 1775,2225 148,2225 148,2211" rendition="TextRegion" subtype="hpl_ao_figure" xml:id="facs_22_TextRegion_1730205974666_439">
+				<zone points="657,743 846,741 1103,659 1168,706 1262,676 1374,704 1376,596 1239,538 943,548 775,636 660,620" rendition="Line" xml:id="facs_22_tr_1_tl_5" />
+				<zone points="380,1140 399,1140 405,1136 412,1143 420,1138 441,1143 447,1138 458,1138 462,1057 441,1059 435,1065 422,1054 393,1065 384,1063" rendition="Line" xml:id="facs_22_tr_1_tl_6" />
+				<zone points="309,1235 376,1239 395,1220 565,1256 578,1246 651,1258 632,1138 601,1151 517,1136 481,1151 376,1134 336,1161 298,1161" rendition="Line" xml:id="facs_22_tr_1_tl_8" />
+				<zone points="292,1307 368,1286 657,1344 714,1336 702,1254 628,1266 576,1246 554,1264 477,1235 443,1256 361,1227 284,1252" rendition="Line" xml:id="facs_22_tr_1_tl_11" />
+				<zone points="254,1363 326,1363 361,1386 428,1365 529,1397 720,1412 762,1397 754,1336 718,1353 475,1302 429,1321 372,1288 246,1311" rendition="Line" xml:id="facs_22_tr_1_tl_13" />
+				<zone points="930,1227 939,1229 947,1225 952,1231 966,1231 970,1235 973,1231 985,1233 996,1224 1006,1227 1017,1113 1002,1111 991,1120 981,1115 973,1122 962,1115 941,1119" rendition="Line" xml:id="facs_22_tr_1_tl_7" />
+				<zone points="1433,1141 1445,1143 1454,1136 1474,1141 1483,1132 1489,1140 1514,1141 1523,1067 1514,1065 1506,1069 1489,1056 1472,1061 1443,1057" rendition="Line" xml:id="facs_22_line_1729682603147_50" />
+				<zone points="1233,1229 1260,1210 1338,1216 1567,1300 1579,1294 1537,1145 1481,1151 1433,1126 1411,1140 1296,1105 1212,1157" rendition="Line" xml:id="facs_22_tr_1_tl_9" />
+				<zone points="1246,1315 1277,1288 1445,1357 1458,1346 1510,1370 1533,1365 1504,1275 1472,1273 1464,1285 1296,1212 1260,1210 1245,1239 1222,1237" rendition="Line" xml:id="facs_22_tr_1_tl_12" />
+				<zone points="1260,1460 1349,1456 1391,1412 1754,1527 1666,1281 1617,1294 1525,1372 1260,1300 1216,1336" rendition="Line" xml:id="facs_22_tr_1_tl_14" />
+				<zone points="399,1535 454,1525 483,1540 519,1521 548,1531 575,1523 605,1531 622,1521 647,1529 643,1449 617,1445 584,1418 552,1430 538,1416 491,1420 460,1441 422,1449 395,1441" rendition="Line" xml:id="facs_22_tr_1_tl_15" />
+				<zone points="361,2189 796,2218 1084,2178 1218,2210 1220,2086 1162,2067 1107,2109 1014,2082 815,2126 683,2084 630,2115 571,2073 363,2100" rendition="Line" xml:id="facs_22_tr_1_tl_17" />
+			</zone>
+			<zone points="148,2225 1775,2225 1776,2509 148,2506" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_22_TextRegion_1730205974666_438">
+				<zone points="187,2407 867,2357 1061,2374 1159,2434 1250,2365 1561,2376 1563,2226 1487,2210 1138,2334 699,2254 468,2294 395,2231 191,2210" rendition="Line" xml:id="facs_22_tr_1_tl_18" />
+				<zone points="137,2499 428,2487 559,2548 668,2487 1117,2518 1203,2487 1325,2544 1390,2500 1453,2535 1672,2489 1672,2374 1500,2409 1451,2369 1256,2367 1157,2434 1040,2371 951,2407 872,2363 779,2428 569,2373 479,2378 420,2437 345,2403 137,2430" rendition="Line" xml:id="facs_22_tr_1_tl_19" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_23">
+		<surface ulx="0" uly="0" lrx="1894" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_023.tif" width="1894px" height="3000px" />
+			<zone points="1769,292 1552,292 1552,93 1769,93" rendition="TextRegion" subtype="page-number" xml:id="facs_23_region_1729669636791_479">
+				<zone points="1588,270 1634,266 1652,282 1682,272 1696,288 1720,276 1726,130 1704,134 1680,106 1650,120 1632,108 1592,118" rendition="Line" xml:id="facs_23_line_1729669642063_482" />
+			</zone>
+			<zone points="146,315 1782,315 1782,882 146,882" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_23_TextRegion_1729669694013_517">
+				<zone points="130,302 220,280 320,272 1147,242 1746,272 1758,431 1538,471 713,465 138,435" rendition="Line" xml:id="facs_23_line_1730132427324_360" />
+				<zone points="204,497 1366,511 1364,439 1288,398 1133,463 957,392 715,467 202,411" rendition="Line" xml:id="facs_23_tr_1_tl_4" />
+				<zone points="262,701 398,613 1045,609 1137,657 1246,611 1588,629 1586,545 1191,565 1117,509 873,545 725,509 559,555 485,495 433,535 338,499 260,525" rendition="Line" xml:id="facs_23_tr_1_tl_5" />
+				<zone points="234,735 541,721 669,779 895,719 1414,737 1412,617 1320,623 1246,687 1039,619 815,669 637,617 515,675 314,603 232,627" rendition="Line" xml:id="facs_23_tr_1_tl_6" />
+				<zone points="184,821 483,823 631,895 713,835 917,819 1396,847 1396,783 1238,721 1149,757 867,723 579,803 433,731 184,745" rendition="Line" xml:id="facs_23_tr_1_tl_7" />
+			</zone>
+			<zone points="146,882 1782,882 1782,1048 146,1048" rendition="TextRegion" subtype="heading" xml:id="facs_23_TextRegion_1729669694013_516">
+				<zone points="597,1049 685,1047 703,1063 729,1047 745,1059 837,1051 835,893 795,885 731,911 715,899 687,911 659,903 643,917 595,899" rendition="Line" xml:id="facs_23_tr_1_tl_9" />
+			</zone>
+			<zone points="146,1048 1782,1048 1782,1226 146,1226" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_23_TextRegion_1729669693128_512">
+				<zone points="334,1159 533,1175 673,1151 757,1179 841,1151 1077,1179 1073,1073 1017,1081 931,1039 883,1073 749,1089 661,1045 561,1077 332,1019" rendition="Line" xml:id="facs_23_tr_1_tl_11" />
+			</zone>
+			<zone points="146,1226 1782,1226 1782,1386 146,1386" rendition="TextRegion" subtype="heading" xml:id="facs_23_TextRegion_1729669692244_508">
+				<zone points="543,1376 567,1368 621,1384 633,1372 647,1380 697,1372 729,1376 763,1398 793,1380 791,1262 763,1276 719,1260 681,1274 659,1260 635,1274 615,1260 579,1284 543,1288" rendition="Line" xml:id="facs_23_line_1729669691295_506" />
+			</zone>
+			<zone points="146,1386 1782,1386 1782,1679 146,1679" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_23_TextRegion_1729669691257_502">
+				<zone points="238,1478 623,1504 677,1544 1065,1498 1318,1536 1470,1488 1756,1542 1766,1394 783,1380 705,1424 507,1368 236,1368" rendition="Line" xml:id="facs_23_tr_1_tl_14" />
+				<zone points="186,1588 298,1610 396,1592 541,1640 667,1622 665,1504 527,1528 386,1482 340,1494 316,1480 268,1520 186,1516" rendition="Line" xml:id="facs_23_tr_1_tl_15" />
+			</zone>
+			<zone points="146,1679 1782,1679 1782,2939 146,2939" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_23_TextRegion_1729669690077_498">
+				<zone points="160,1823 1782,1865 1782,1783 160,1741" rendition="Line" xml:id="facs_23_tr_1_tl_17" />
+				<zone points="182,1932 522,1938 522,1866 182,1860" rendition="Line" xml:id="facs_23_tr_1_tl_18" />
+				<zone points="338,2036 1782,2060 1782,1988 338,1964" rendition="Line" xml:id="facs_23_tr_1_tl_19" />
+				<zone points="178,2151 1652,2163 1652,2088 178,2076" rendition="Line" xml:id="facs_23_tr_1_tl_20" />
+				<zone points="168,2261 1738,2271 1738,2195 168,2185" rendition="Line" xml:id="facs_23_tr_1_tl_21" />
+				<zone points="166,2367 1662,2387 1662,2311 166,2291" rendition="Line" xml:id="facs_23_tr_1_tl_22" />
+				<zone points="166,2474 1550,2496 1550,2418 166,2396" rendition="Line" xml:id="facs_23_tr_1_tl_23" />
+				<zone points="162,2582 426,2596 426,2524 162,2510" rendition="Line" xml:id="facs_23_tr_1_tl_24" />
+				<zone points="198,2690 1533,2680 1530,2597 198,2617" rendition="Line" xml:id="facs_23_tr_1_tl_26" />
+				<zone points="178,2806 1656,2792 1656,2716 1538,2707 183,2697 178,2730" rendition="Line" xml:id="facs_23_tr_1_tl_32" />
+				<zone points="224,2911 1530,2939 1530,2863 1464,2857 224,2835" rendition="Line" xml:id="facs_23_tr_1_tl_34" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_24">
+		<surface ulx="0" uly="0" lrx="1858" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_024.tif" width="1858px" height="3000px" />
+			<zone points="126,104 318,101 316,285 124,285" rendition="TextRegion" subtype="page-number" xml:id="facs_24_TextRegion_1729682796859_141">
+				<zone points="146,197 263,190 266,240 149,247" rendition="Line" xml:id="facs_24_line_1730133630290_447" />
+			</zone>
+			<zone points="321,139 1606,139 1606,259 316,259" rendition="TextRegion" subtype="hpl_ao_note--margin" xml:id="facs_24_TextRegion_1729682841075_153">
+				<zone points="447,306 776,235 977,266 1495,195 1479,156 1339,185 1024,105 816,138 652,85 443,96" rendition="Line" xml:id="facs_24_tr_1_tl_1" />
+			</zone>
+			<zone points="124,285 316,285 316,259 1606,259 1606,582 124,582" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_24_TextRegion_1729682896504_178">
+				<zone points="167,436 358,460 505,409 827,445 1055,395 1520,420 1589,402 1591,286 1307,266 1191,304 758,237 456,320 168,290" rendition="Line" xml:id="facs_24_tr_1_tl_4" />
+				<zone points="114,527 481,518 605,568 773,507 954,581 954,452 767,474 643,458 586,413 476,420 400,465 114,433" rendition="Line" xml:id="facs_24_tr_1_tl_6" />
+			</zone>
+			<zone points="124,582 1606,582 1606,2194 124,2194" rendition="TextRegion" subtype="hpl_ao_figure" xml:id="facs_24_TextRegion_1729682911853_185">
+				<zone points="608,1274 623,1271 634,1280 648,1265 659,1262 673,1274 681,1269 695,1281 708,1281 704,1157 677,1166 670,1162 662,1169 621,1166 605,1173" rendition="Line" xml:id="facs_24_tr_1_tl_7" />
+				<zone points="150,1839 467,1823 691,1899 836,1819 1017,1824 1019,1709 814,1738 646,1694 574,1741 232,1691 152,1725" rendition="Line" xml:id="facs_24_tr_1_tl_10" />
+				<zone points="246,1929 639,1966 880,1920 1493,1935 1495,1828 1461,1819 1162,1852 1095,1814 943,1859 838,1830 691,1902 612,1853 248,1830" rendition="Line" xml:id="facs_24_tr_1_tl_11" />
+				<zone points="125,2058 583,2047 662,2098 829,2031 968,2067 1376,2047 1376,1967 1205,1996 1086,1937 891,1922 599,2007 458,1948 125,1960" rendition="Line" xml:id="facs_24_tr_1_tl_12" />
+				<zone points="145,2181 246,2235 346,2176 471,2152 509,2176 595,2141 635,2167 742,2147 744,2101 693,2118 583,2045 458,2082 147,2060" rendition="Line" xml:id="facs_24_tr_1_tl_13" />
+			</zone>
+			<zone points="124,2194 1606,2194 1606,2613 124,2613" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_24_TextRegion_1729682911853_184">
+				<zone points="129,2364 932,2351 1110,2425 1196,2362 1484,2353 1486,2248 1390,2226 1104,2306 1032,2253 889,2308 713,2246 130,2284" rendition="Line" xml:id="facs_24_tr_1_tl_14" />
+				<zone points="138,2476 288,2527 414,2483 523,2541 655,2472 869,2505 1193,2458 1329,2547 1506,2462 1593,2478 1595,2358 1227,2371 1115,2427 1008,2429 950,2377 780,2429 668,2373 496,2427 311,2386 139,2413" rendition="Line" xml:id="facs_24_tr_1_tl_16" />
+				<zone points="156,2592 351,2652 433,2597 679,2581 871,2672 996,2572 1515,2563 1517,2494 1329,2545 1220,2476 1075,2530 762,2474 681,2532 592,2489 510,2554 391,2489 266,2541 157,2523" rendition="Line" xml:id="facs_24_tr_1_tl_17" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_25">
+		<surface ulx="0" uly="0" lrx="1877" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_025.tif" width="1877px" height="3000px" />
+			<zone points="1763,304 1521,304 1521,109 1763,109" rendition="TextRegion" subtype="page-number" xml:id="facs_25_region_1729682987979_210">
+				<zone points="1555,271 1590,274 1613,288 1655,263 1666,274 1688,269 1696,280 1711,278 1711,145 1696,145 1678,129 1651,137 1619,167 1580,163 1566,149 1555,149" rendition="Line" xml:id="facs_25_line_1729682996806_213" />
+			</zone>
+			<zone points="136,312 1796,312 1796,1142 136,1142" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_25_TextRegion_1729683091510_240">
+				<zone points="186,437 674,443 904,386 1490,404 1490,331 1302,335 1217,263 1019,312 827,265 459,290 186,233" rendition="Line" xml:id="facs_25_tr_1_tl_1" />
+				<zone points="725,502 1655,508 1682,504 1680,420 1584,435 1488,394 1272,457 1125,396 1096,423 1000,396 953,435 823,398 723,423" rendition="Line" xml:id="facs_25_tr_1_tl_3" />
+				<zone points="125,633 447,606 586,686 908,694 984,637 1072,637 1074,537 733,531 661,563 555,521 429,576 274,498 127,508" rendition="Line" xml:id="facs_25_tr_1_tl_4" />
+				<zone points="178,821 1502,849 1502,735 1453,723 851,765 719,719 590,770 178,710" rendition="Line" xml:id="facs_25_tr_1_tl_5" />
+				<zone points="194,947 1374,943 1645,890 1649,768 1449,863 1272,821 894,821 804,859 461,833 380,878 259,823 196,849" rendition="Line" xml:id="facs_25_tr_1_tl_8" />
+				<zone points="143,1057 396,1039 610,1106 704,1049 810,1088 859,1051 1115,1059 1500,1127 1770,1090 1737,992 1576,1006 1480,945 1213,996 1088,929 774,992 651,949 449,988 341,941 143,959" rendition="Line" xml:id="facs_25_tr_1_tl_10" />
+			</zone>
+			<zone points="136,1142 1796,1142 1796,2121 136,2121" rendition="TextRegion" subtype="hpl_ao_figure" xml:id="facs_25_TextRegion_1729683102294_245">
+				<zone points="345,1725 380,1731 406,1717 453,1721 488,1700 555,1690 584,1549 561,1553 547,1543 523,1557 500,1537 449,1539 427,1523 386,1521" rendition="Line" xml:id="facs_25_tr_1_tl_12" />
+				<zone points="966,1713 996,1706 1025,1717 1059,1690 1135,1690 1186,1715 1215,1706 1208,1496 1068,1543 959,1539" rendition="Line" xml:id="facs_25_tr_1_tl_11" />
+				<zone points="276,2094 992,2086 1090,2141 1315,2094 1315,1960 1161,2056 990,1988 859,2013 655,1964 484,2021 276,1976" rendition="Line" xml:id="facs_25_tr_1_tl_18" />
+			</zone>
+			<zone points="136,2121 1796,2121 1796,2813 136,2813" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_25_TextRegion_1729683102294_244">
+				<zone points="231,2229 500,2268 1286,2235 1404,2258 1490,2333 1664,2249 1664,2200 1570,2164 1376,2192 1278,2131 1084,2192 876,2123 774,2160 459,2123 231,2158" rendition="Line" xml:id="facs_25_tr_1_tl_19" />
+				<zone points="151,2349 843,2337 1025,2425 1133,2343 1378,2384 1496,2352 1496,2266 1286,2235 1117,2296 1045,2260 914,2292 831,2241 608,2237 420,2290 151,2254" rendition="Line" xml:id="facs_25_tr_1_tl_20" />
+				<zone points="155,2523 618,2452 1790,2480 1788,2405 1574,2415 1392,2339 1019,2433 919,2352 823,2343 592,2419 447,2352 153,2409" rendition="Line" xml:id="facs_25_tr_1_tl_21" />
+				<zone points="155,2594 441,2572 770,2639 929,2562 1112,2609 1298,2570 1451,2635 1547,2572 1700,2594 1700,2480 1447,2501 1396,2462 1237,2507 1110,2464 786,2494 588,2454 441,2523 155,2521" rendition="Line" xml:id="facs_25_tr_1_tl_22" />
+				<zone points="182,2741 345,2674 627,2723 794,2678 1266,2676 1378,2684 1431,2737 1486,2684 1633,2688 1633,2637 1413,2631 1359,2580 1270,2617 1155,2586 1094,2631 927,2564 770,2643 616,2586 510,2635 335,2576 182,2590" rendition="Line" xml:id="facs_25_tr_1_tl_23" />
+				<zone points="184,2848 282,2809 900,2819 1088,2782 1413,2790 1621,2868 1609,2684 1486,2682 1433,2735 1378,2684 1315,2717 1206,2680 1015,2743 806,2680 516,2743 333,2694 184,2741" rendition="Line" xml:id="facs_25_tr_1_tl_24" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_26">
+		<surface ulx="0" uly="0" lrx="1882" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_026.tif" width="1882px" height="3000px" />
+			<zone points="154,133 335,133 335,285 154,285" rendition="TextRegion" subtype="page-number" xml:id="facs_26_region_1729683143709_272">
+				<zone points="183,282 193,282 211,270 235,272 251,261 276,265 278,123 263,117 249,127 229,123 217,133 187,137" rendition="Line" xml:id="facs_26_line_1729683149410_275" />
+			</zone>
+			<zone points="106,333 1728,333 1728,1576 106,1576" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_26_TextRegion_1729683160601_287">
+				<zone points="119,398 1559,404 1561,280 1450,265 1289,304 1167,265 537,272 471,310 402,276 121,326" rendition="Line" xml:id="facs_26_tr_1_tl_1" />
+				<zone points="119,539 605,497 913,547 1034,495 1669,519 1669,402 1629,384 1476,477 1279,388 1104,428 734,392 571,455 428,400 288,457 119,451" rendition="Line" xml:id="facs_26_tr_1_tl_2" />
+				<zone points="135,654 235,617 1338,644 1716,603 1716,545 1400,491 1165,563 1050,513 965,555 801,503 698,569 465,523 135,571" rendition="Line" xml:id="facs_26_tr_1_tl_3" />
+				<zone points="127,732 513,726 624,772 746,732 1132,724 1326,770 1418,724 1722,732 1722,668 1595,603 1245,622 1171,664 919,617 871,648 821,605 672,690 308,628 127,664" rendition="Line" xml:id="facs_26_tr_1_tl_4" />
+				<zone points="123,857 392,907 491,841 714,827 861,869 959,821 1323,825 1414,867 1643,835 1645,754 1446,782 1390,728 1301,768 859,730 672,790 382,726 123,790" rendition="Line" xml:id="facs_26_tr_1_tl_5" />
+				<zone points="119,955 1609,963 1607,827 1414,869 1155,831 1054,889 768,827 344,927 177,855 119,873" rendition="Line" xml:id="facs_26_tr_1_tl_6" />
+				<zone points="125,1088 442,1064 553,1102 632,1056 813,1052 937,1120 1066,1054 1571,1076 1597,988 1450,933 1020,984 575,965 455,1024 127,988" rendition="Line" xml:id="facs_26_tr_1_tl_7" />
+				<zone points="97,1201 1446,1167 1549,1237 1607,1223 1607,1092 1533,1048 1340,1130 1161,1066 992,1128 438,1064 97,1134" rendition="Line" xml:id="facs_26_tr_1_tl_8" />
+				<zone points="131,1291 728,1319 893,1277 1008,1362 1207,1277 1428,1325 1428,1177 1325,1165 1042,1211 943,1173 865,1231 698,1247 565,1177 414,1227 356,1189 131,1197" rendition="Line" xml:id="facs_26_tr_1_tl_9" />
+				<zone points="167,1392 354,1426 440,1386 1547,1384 1547,1275 1446,1267 1092,1303 1004,1360 833,1307 722,1352 525,1289 167,1311" rendition="Line" xml:id="facs_26_tr_1_tl_10" />
+				<zone points="119,1498 334,1507 426,1571 696,1488 1323,1502 1323,1434 1187,1382 1054,1422 965,1390 907,1438 821,1400 740,1466 119,1396" rendition="Line" xml:id="facs_26_tr_1_tl_11" />
+			</zone>
+			<zone points="106,1576 1728,1576 1728,2110 106,2110" rendition="TextRegion" subtype="hpl_ao_figure" xml:id="facs_26_TextRegion_1729683160601_286">
+			</zone>
+			<zone points="106,2110 1728,2110 1728,2608 106,2608" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_26_TextRegion_1729683159134_282">
+				<zone points="141,2265 1074,2249 1199,2315 1336,2247 1416,2261 1404,2104 1287,2164 141,2146" rendition="Line" xml:id="facs_26_tr_1_tl_13" />
+				<zone points="95,2375 748,2359 945,2424 1036,2365 1330,2353 1521,2428 1591,2396 1593,2297 1277,2275 1165,2327 1012,2269 640,2289 517,2255 360,2321 97,2255" rendition="Line" xml:id="facs_26_tr_1_tl_14" />
+				<zone points="105,2478 296,2506 921,2466 1177,2508 1291,2462 1386,2528 1635,2484 1635,2396 1446,2420 1330,2355 1126,2365 1008,2430 644,2373 105,2424" rendition="Line" xml:id="facs_26_tr_1_tl_15" />
+				<zone points="151,2581 921,2579 1076,2657 1364,2579 1342,2466 1181,2510 1012,2478 965,2516 861,2468 807,2502 593,2466 332,2524 151,2488" rendition="Line" xml:id="facs_26_tr_1_tl_16" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_27">
+		<surface ulx="0" uly="0" lrx="1872" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_027.tif" width="1872px" height="3000px" />
+			<zone points="1520,106 1701,106 1701,276 1520,276" rendition="TextRegion" subtype="page-number" xml:id="facs_27_region_1729683211856_304">
+				<zone points="1553,255 1593,257 1601,249 1609,255 1621,249 1627,255 1643,257 1643,118 1615,124 1587,104 1577,110 1553,108" rendition="Line" xml:id="facs_27_line_1729683217070_307" />
+			</zone>
+			<zone points="150,320 1764,320 1764,1870 150,1870" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_27_TextRegion_1729683253256_320">
+				<zone points="142,387 897,389 949,435 1160,371 1272,409 1541,397 1539,349 1352,351 1140,279 1005,305 849,263 686,341 484,327 381,255 140,271" rendition="Line" xml:id="facs_27_tr_1_tl_1" />
+				<zone points="163,498 451,488 544,538 688,494 1747,502 1747,453 1553,467 1455,403 1324,425 1174,381 841,451 706,447 618,379 355,439 163,403" rendition="Line" xml:id="facs_27_tr_1_tl_2" />
+				<zone points="160,620 734,600 829,666 1067,602 1132,654 1406,604 1683,642 1758,614 1758,498 1180,506 907,562 576,566 451,488 160,528" rendition="Line" xml:id="facs_27_tr_1_tl_3" />
+				<zone points="171,724 821,708 891,754 965,700 1079,746 1619,708 1619,656 1364,612 1140,664 1069,602 881,666 710,664 578,600 171,624" rendition="Line" xml:id="facs_27_tr_1_tl_4" />
+				<zone points="177,831 642,819 837,871 1053,827 1182,863 1621,829 1621,784 1537,790 1449,730 1334,768 1214,716 1136,762 1049,726 742,758 498,704 345,754 175,738" rendition="Line" xml:id="facs_27_tr_1_tl_5" />
+				<zone points="187,957 229,929 305,925 389,991 473,939 506,951 560,927 656,951 682,933 756,943 756,873 692,867 630,823 572,845 510,829 453,865 373,835 311,871 187,837" rendition="Line" xml:id="facs_27_tr_1_tl_6" />
+				<zone points="205,1061 1212,1039 1473,1101 1651,1063 1651,973 1523,937 1376,991 1300,929 1204,999 965,931 867,991 688,933 560,927 469,997 285,925 205,943" rendition="Line" xml:id="facs_27_tr_1_tl_7" />
+				<zone points="171,1228 277,1196 542,1232 756,1148 1011,1178 1124,1142 1404,1150 1489,1212 1581,1146 1747,1204 1735,1043 1497,1103 1244,1047 1083,1101 919,1051 724,1105 606,1069 477,1095 353,1041 297,1083 171,1067" rendition="Line" xml:id="facs_27_tr_1_tl_8" />
+				<zone points="225,1360 498,1402 636,1362 827,1453 953,1396 1170,1432 1406,1372 1404,1276 1342,1264 1176,1260 1029,1330 925,1264 740,1254 594,1306 417,1246 225,1270" rendition="Line" xml:id="facs_27_tr_1_tl_9" />
+				<zone points="201,1575 1665,1589 1665,1531 1537,1483 1328,1533 1007,1463 558,1509 457,1469 357,1507 201,1485" rendition="Line" xml:id="facs_27_tr_1_tl_10" />
+				<zone points="152,1689 401,1695 510,1756 726,1685 1579,1693 1579,1591 1541,1587 1208,1653 1027,1601 604,1639 502,1585 303,1643 152,1585" rendition="Line" xml:id="facs_27_tr_1_tl_11" />
+				<zone points="165,1796 277,1858 419,1802 526,1872 893,1866 1023,1806 1214,1798 1340,1862 1597,1858 1599,1709 1358,1751 1262,1695 1158,1754 1049,1691 893,1743 596,1703 528,1756 427,1707 341,1754 165,1717" rendition="Line" xml:id="facs_27_tr_1_tl_12" />
+			</zone>
+			<zone points="150,1870 1764,1870 1764,2592 150,2592" rendition="TextRegion" subtype="hpl_ao_entry" xml:id="facs_27_TextRegion_1729683253256_319">
+				<zone points="167,2060 502,2050 600,2000 748,2040 1645,2026 1623,1920 1298,1980 1240,1940 1158,1962 1091,1904 877,1950 774,1912 692,1954 530,1904 167,1910" rendition="Line" xml:id="facs_27_tr_1_tl_15" />
+				<zone points="572,2133 847,2095 1216,2155 1372,2121 1591,2141 1589,2042 1103,2068 568,2020" rendition="Line" xml:id="facs_27_tr_1_tl_16" />
+				<zone points="144,2223 991,2233 1041,2275 1264,2223 1348,2299 1420,2267 1418,2153 1264,2133 1113,2207 857,2133 578,2137 504,2091 283,2165 229,2117 144,2129" rendition="Line" xml:id="facs_27_tr_1_tl_17" />
+				<zone points="160,2339 241,2383 381,2335 540,2371 893,2335 1111,2385 1220,2339 1756,2377 1725,2253 1641,2283 1485,2249 1402,2301 1294,2251 1216,2297 815,2295 742,2237 666,2281 554,2239 435,2299 160,2271" rendition="Line" xml:id="facs_27_tr_1_tl_18" />
+				<zone points="167,2444 307,2498 411,2446 1422,2480 1527,2450 1525,2394 1412,2345 939,2414 602,2347 423,2385 165,2341" rendition="Line" xml:id="facs_27_tr_1_tl_19" />
+				<zone points="177,2560 542,2596 784,2556 909,2626 1061,2560 1691,2572 1701,2506 1627,2528 1410,2470 1224,2500 1105,2460 975,2508 889,2470 811,2518 614,2472 488,2506 429,2464 307,2522 175,2508" rendition="Line" xml:id="facs_27_tr_1_tl_20" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_28">
+		<surface ulx="0" uly="0" lrx="1839" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_028.tif" width="1839px" height="3000px" />
+			<zone points="331,266 163,266 163,106 331,106" rendition="TextRegion" subtype="page-number" xml:id="facs_28_region_1730207296949_579">
+				<zone points="198,170 290,166 292,216 200,220" rendition="Line" xml:id="facs_28_line_1730207311406_582" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_29">
+		<surface ulx="0" uly="0" lrx="1834" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_029.tif" width="1834px" height="3000px" />
+			<zone points="1708,269 1510,269 1510,98 1708,98" rendition="TextRegion" subtype="page-number" xml:id="facs_29_region_1730207337016_592">
+				<zone points="1542,181 1670,184 1669,234 1541,231" rendition="Line" xml:id="facs_29_line_1730207342610_595" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_30">
+		<surface ulx="0" uly="0" lrx="1917" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_030.tif" width="1917px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_31">
+		<surface ulx="0" uly="0" lrx="1873" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_031.tif" width="1873px" height="3000px" />
+			<zone points="1534,108 1742,108 1742,267 1534,267" rendition="TextRegion" subtype="page-number" xml:id="facs_31_region_1730207364629_608">
+				<zone points="1574,190 1699,186 1700,236 1575,240" rendition="Line" xml:id="facs_31_line_1730207370362_611" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_32">
+		<surface ulx="0" uly="0" lrx="1935" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_032.tif" width="1935px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_33">
+		<surface ulx="0" uly="0" lrx="1898" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_033.tif" width="1898px" height="3000px" />
+			<zone points="1581,132 1766,132 1766,302 1581,302" rendition="TextRegion" subtype="page-number" xml:id="facs_33_region_1730207385363_621">
+				<zone points="1607,212 1740,211 1740,261 1607,262" rendition="Line" xml:id="facs_33_line_1730207390995_624" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_34">
+		<surface ulx="0" uly="0" lrx="1907" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_034.tif" width="1907px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_35">
+		<surface ulx="0" uly="0" lrx="1841" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_035.tif" width="1841px" height="3000px" />
+			<zone points="1517,117 1712,117 1712,263 1517,263" rendition="TextRegion" subtype="page-number" xml:id="facs_35_region_1730207409078_634">
+				<zone points="1547,188 1663,188 1663,238 1547,238" rendition="Line" xml:id="facs_35_line_1730207415012_637" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_36">
+		<surface ulx="0" uly="0" lrx="1895" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_036.tif" width="1895px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_37">
+		<surface ulx="0" uly="0" lrx="1853" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_037.tif" width="1853px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_38">
+		<surface ulx="0" uly="0" lrx="1938" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_038.tif" width="1938px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_39">
+		<surface ulx="0" uly="0" lrx="1925" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_039.tif" width="1925px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_40">
+		<surface ulx="0" uly="0" lrx="1910" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_040.tif" width="1910px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_41">
+		<surface ulx="0" uly="0" lrx="1908" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_041.tif" width="1908px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_42">
+		<surface ulx="0" uly="0" lrx="1973" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_042.tif" width="1973px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_43">
+		<surface ulx="0" uly="0" lrx="1942" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_043.tif" width="1942px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_44">
+		<surface ulx="0" uly="0" lrx="1928" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_044.tif" width="1928px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_45">
+		<surface ulx="0" uly="0" lrx="1917" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_045.tif" width="1917px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_46">
+		<surface ulx="0" uly="0" lrx="1933" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_046.tif" width="1933px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_47">
+		<surface ulx="0" uly="0" lrx="1917" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_047.tif" width="1917px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_48">
+		<surface ulx="0" uly="0" lrx="1924" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_048.tif" width="1924px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_49">
+		<surface ulx="0" uly="0" lrx="1926" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_049.tif" width="1926px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_50">
+		<surface ulx="0" uly="0" lrx="1913" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_050.tif" width="1913px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_51">
+		<surface ulx="0" uly="0" lrx="1914" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_051.tif" width="1914px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_52">
+		<surface ulx="0" uly="0" lrx="1893" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_052.tif" width="1893px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_53">
+		<surface ulx="0" uly="0" lrx="1925" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_053.tif" width="1925px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_54">
+		<surface ulx="0" uly="0" lrx="1916" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_054.tif" width="1916px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_55">
+		<surface ulx="0" uly="0" lrx="1906" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_055.tif" width="1906px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_56">
+		<surface ulx="0" uly="0" lrx="1919" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_056.tif" width="1919px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_57">
+		<surface ulx="0" uly="0" lrx="1900" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_057.tif" width="1900px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_58">
+		<surface ulx="0" uly="0" lrx="1949" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_058.tif" width="1949px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_59">
+		<surface ulx="0" uly="0" lrx="1894" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_059.tif" width="1894px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_60">
+		<surface ulx="0" uly="0" lrx="1931" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_060.tif" width="1931px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_61">
+		<surface ulx="0" uly="0" lrx="1915" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_061.tif" width="1915px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_62">
+		<surface ulx="0" uly="0" lrx="1916" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_062.tif" width="1916px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_63">
+		<surface ulx="0" uly="0" lrx="1922" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_063.tif" width="1922px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_64">
+		<surface ulx="0" uly="0" lrx="1918" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_064.tif" width="1918px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_65">
+		<surface ulx="0" uly="0" lrx="1922" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_065.tif" width="1922px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_66">
+		<surface ulx="0" uly="0" lrx="1926" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_066.tif" width="1926px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_67">
+		<surface ulx="0" uly="0" lrx="1912" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_067.tif" width="1912px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_68">
+		<surface ulx="0" uly="0" lrx="1831" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_068.tif" width="1831px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_69">
+		<surface ulx="0" uly="0" lrx="1904" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_069.tif" width="1904px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_70">
+		<surface ulx="0" uly="0" lrx="1848" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_070.tif" width="1848px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_71">
+		<surface ulx="0" uly="0" lrx="1911" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_071.tif" width="1911px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_72">
+		<surface ulx="0" uly="0" lrx="1824" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_072.tif" width="1824px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_73">
+		<surface ulx="0" uly="0" lrx="1908" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_073.tif" width="1908px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_74">
+		<surface ulx="0" uly="0" lrx="1836" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_074.tif" width="1836px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_75">
+		<surface ulx="0" uly="0" lrx="1908" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_075.tif" width="1908px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_76">
+		<surface ulx="0" uly="0" lrx="1863" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_076.tif" width="1863px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_77">
+		<surface ulx="0" uly="0" lrx="1914" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_077.tif" width="1914px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_78">
+		<surface ulx="0" uly="0" lrx="1893" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_078.tif" width="1893px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_79">
+		<surface ulx="0" uly="0" lrx="1905" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_079.tif" width="1905px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_80">
+		<surface ulx="0" uly="0" lrx="1908" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_080.tif" width="1908px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_81">
+		<surface ulx="0" uly="0" lrx="1917" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_081.tif" width="1917px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_82">
+		<surface ulx="0" uly="0" lrx="1877" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_082.tif" width="1877px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_83">
+		<surface ulx="0" uly="0" lrx="1888" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_083.tif" width="1888px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_84">
+		<surface ulx="0" uly="0" lrx="1878" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_084.tif" width="1878px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_85">
+		<surface ulx="0" uly="0" lrx="1898" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_085.tif" width="1898px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_86">
+		<surface ulx="0" uly="0" lrx="1875" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_086.tif" width="1875px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_87">
+		<surface ulx="0" uly="0" lrx="1903" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_087.tif" width="1903px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_88">
+		<surface ulx="0" uly="0" lrx="1880" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_088.tif" width="1880px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_89">
+		<surface ulx="0" uly="0" lrx="1896" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_089.tif" width="1896px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_90">
+		<surface ulx="0" uly="0" lrx="1903" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_090.tif" width="1903px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_91">
+		<surface ulx="0" uly="0" lrx="1906" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_091.tif" width="1906px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_92">
+		<surface ulx="0" uly="0" lrx="1865" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_092.tif" width="1865px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_93">
+		<surface ulx="0" uly="0" lrx="1906" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_093.tif" width="1906px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_94">
+		<surface ulx="0" uly="0" lrx="1850" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_094.tif" width="1850px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_95">
+		<surface ulx="0" uly="0" lrx="1899" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_095.tif" width="1899px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_96">
+		<surface ulx="0" uly="0" lrx="1853" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_096.tif" width="1853px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_97">
+		<surface ulx="0" uly="0" lrx="1902" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_097.tif" width="1902px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_98">
+		<surface ulx="0" uly="0" lrx="1842" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_098.tif" width="1842px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_99">
+		<surface ulx="0" uly="0" lrx="1904" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_099.tif" width="1904px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_100">
+		<surface ulx="0" uly="0" lrx="1855" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_100.tif" width="1855px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_101">
+		<surface ulx="0" uly="0" lrx="1898" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_101.tif" width="1898px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_102">
+		<surface ulx="0" uly="0" lrx="1864" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_102.tif" width="1864px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_103">
+		<surface ulx="0" uly="0" lrx="1882" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_103.tif" width="1882px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_104">
+		<surface ulx="0" uly="0" lrx="1884" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_104.tif" width="1884px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_105">
+		<surface ulx="0" uly="0" lrx="1891" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_105.tif" width="1891px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_106">
+		<surface ulx="0" uly="0" lrx="1894" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_106.tif" width="1894px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_107">
+		<surface ulx="0" uly="0" lrx="1910" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_107.tif" width="1910px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_108">
+		<surface ulx="0" uly="0" lrx="1892" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_108.tif" width="1892px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_109">
+		<surface ulx="0" uly="0" lrx="1898" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_109.tif" width="1898px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_110">
+		<surface ulx="0" uly="0" lrx="1890" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_110.tif" width="1890px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_111">
+		<surface ulx="0" uly="0" lrx="1902" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_111.tif" width="1902px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_112">
+		<surface ulx="0" uly="0" lrx="1891" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_112.tif" width="1891px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_113">
+		<surface ulx="0" uly="0" lrx="1921" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_113.tif" width="1921px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_114">
+		<surface ulx="0" uly="0" lrx="1866" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_114.tif" width="1866px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_115">
+		<surface ulx="0" uly="0" lrx="1889" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_115.tif" width="1889px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_116">
+		<surface ulx="0" uly="0" lrx="1852" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_116.tif" width="1852px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_117">
+		<surface ulx="0" uly="0" lrx="1891" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_117.tif" width="1891px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_118">
+		<surface ulx="0" uly="0" lrx="1820" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_118.tif" width="1820px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_119">
+		<surface ulx="0" uly="0" lrx="1903" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_119.tif" width="1903px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_120">
+		<surface ulx="0" uly="0" lrx="1861" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_120.tif" width="1861px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_121">
+		<surface ulx="0" uly="0" lrx="1886" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_121.tif" width="1886px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_122">
+		<surface ulx="0" uly="0" lrx="1867" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_122.tif" width="1867px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_123">
+		<surface ulx="0" uly="0" lrx="1897" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_123.tif" width="1897px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_124">
+		<surface ulx="0" uly="0" lrx="1847" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_124.tif" width="1847px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_125">
+		<surface ulx="0" uly="0" lrx="1859" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_125.tif" width="1859px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_126">
+		<surface ulx="0" uly="0" lrx="1858" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_126.tif" width="1858px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_127">
+		<surface ulx="0" uly="0" lrx="1884" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_127.tif" width="1884px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_128">
+		<surface ulx="0" uly="0" lrx="1862" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_128.tif" width="1862px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_129">
+		<surface ulx="0" uly="0" lrx="1865" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_129.tif" width="1865px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_130">
+		<surface ulx="0" uly="0" lrx="1868" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_130.tif" width="1868px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_131">
+		<surface ulx="0" uly="0" lrx="1882" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_131.tif" width="1882px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_132">
+		<surface ulx="0" uly="0" lrx="1874" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_132.tif" width="1874px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_133">
+		<surface ulx="0" uly="0" lrx="1887" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_133.tif" width="1887px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_134">
+		<surface ulx="0" uly="0" lrx="1864" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_134.tif" width="1864px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_135">
+		<surface ulx="0" uly="0" lrx="1887" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_135.tif" width="1887px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_136">
+		<surface ulx="0" uly="0" lrx="1868" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_136.tif" width="1868px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_137">
+		<surface ulx="0" uly="0" lrx="1892" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_137.tif" width="1892px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_138">
+		<surface ulx="0" uly="0" lrx="1904" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_138.tif" width="1904px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_139">
+		<surface ulx="0" uly="0" lrx="1889" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_139.tif" width="1889px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_140">
+		<surface ulx="0" uly="0" lrx="1849" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_140.tif" width="1849px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_141">
+		<surface ulx="0" uly="0" lrx="1884" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_141.tif" width="1884px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_142">
+		<surface ulx="0" uly="0" lrx="1849" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_142.tif" width="1849px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_143">
+		<surface ulx="0" uly="0" lrx="1877" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_143.tif" width="1877px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_144">
+		<surface ulx="0" uly="0" lrx="1849" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_144.tif" width="1849px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_145">
+		<surface ulx="0" uly="0" lrx="1877" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_145.tif" width="1877px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_146">
+		<surface ulx="0" uly="0" lrx="1853" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_146.tif" width="1853px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_147">
+		<surface ulx="0" uly="0" lrx="1881" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_147.tif" width="1881px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_148">
+		<surface ulx="0" uly="0" lrx="1873" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_148.tif" width="1873px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_149">
+		<surface ulx="0" uly="0" lrx="1893" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_149.tif" width="1893px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_150">
+		<surface ulx="0" uly="0" lrx="1873" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_150.tif" width="1873px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_151">
+		<surface ulx="0" uly="0" lrx="1890" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_151.tif" width="1890px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_152">
+		<surface ulx="0" uly="0" lrx="1866" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_152.tif" width="1866px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_153">
+		<surface ulx="0" uly="0" lrx="1890" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_153.tif" width="1890px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_154">
+		<surface ulx="0" uly="0" lrx="1876" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_154.tif" width="1876px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_155">
+		<surface ulx="0" uly="0" lrx="1890" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_155.tif" width="1890px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_156">
+		<surface ulx="0" uly="0" lrx="1871" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_156.tif" width="1871px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_157">
+		<surface ulx="0" uly="0" lrx="1899" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_157.tif" width="1899px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_158">
+		<surface ulx="0" uly="0" lrx="1878" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_158.tif" width="1878px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_159">
+		<surface ulx="0" uly="0" lrx="1883" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_159.tif" width="1883px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_160">
+		<surface ulx="0" uly="0" lrx="1864" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_160.tif" width="1864px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_161">
+		<surface ulx="0" uly="0" lrx="1883" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_161.tif" width="1883px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_162">
+		<surface ulx="0" uly="0" lrx="1877" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_162.tif" width="1877px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_163">
+		<surface ulx="0" uly="0" lrx="1894" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_163.tif" width="1894px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_164">
+		<surface ulx="0" uly="0" lrx="1875" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_164.tif" width="1875px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_165">
+		<surface ulx="0" uly="0" lrx="1864" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_165.tif" width="1864px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_166">
+		<surface ulx="0" uly="0" lrx="1905" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_166.tif" width="1905px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_167">
+		<surface ulx="0" uly="0" lrx="1897" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_167.tif" width="1897px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_168">
+		<surface ulx="0" uly="0" lrx="1894" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_168.tif" width="1894px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_169">
+		<surface ulx="0" uly="0" lrx="1865" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_169.tif" width="1865px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_170">
+		<surface ulx="0" uly="0" lrx="1854" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_170.tif" width="1854px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_171">
+		<surface ulx="0" uly="0" lrx="1865" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_171.tif" width="1865px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_172">
+		<surface ulx="0" uly="0" lrx="1858" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_172.tif" width="1858px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_173">
+		<surface ulx="0" uly="0" lrx="1857" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_173.tif" width="1857px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_174">
+		<surface ulx="0" uly="0" lrx="1879" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_174.tif" width="1879px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_175">
+		<surface ulx="0" uly="0" lrx="1870" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_175.tif" width="1870px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_176">
+		<surface ulx="0" uly="0" lrx="1884" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_176.tif" width="1884px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_177">
+		<surface ulx="0" uly="0" lrx="1865" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_177.tif" width="1865px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_178">
+		<surface ulx="0" uly="0" lrx="1870" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_178.tif" width="1870px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_179">
+		<surface ulx="0" uly="0" lrx="1868" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_179.tif" width="1868px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_180">
+		<surface ulx="0" uly="0" lrx="1884" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_180.tif" width="1884px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_181">
+		<surface ulx="0" uly="0" lrx="1872" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_181.tif" width="1872px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_182">
+		<surface ulx="0" uly="0" lrx="1893" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_182.tif" width="1893px" height="3000px" />
+			<zone points="190,349 1701,352 1701,441 190,441" rendition="TextRegion" subtype="heading" xml:id="facs_182_TextRegion_1735843352460_569">
+				<zone points="387,416 576,478 748,412 1059,447 1144,407 1231,440 1589,414 1569,321 1053,367 963,312 768,316 558,369 445,301 387,323" rendition="Line" xml:id="facs_182_tr_1_tl_1" />
+			</zone>
+			<zone points="190,441 1701,441 1701,1086 190,1086" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_182_TextRegion_1735843352460_568">
+				<zone points="218,570 416,534 554,585 694,516 863,581 954,518 1429,523 1429,456 1242,434 1133,470 1032,430 756,476 576,478 501,434 218,463" rendition="Line" xml:id="facs_182_tr_1_tl_2" />
+				<zone points="223,688 410,632 774,628 1010,690 1121,628 1311,668 1477,636 1477,583 1339,549 690,599 325,550 223,592" rendition="Line" xml:id="facs_182_tr_1_tl_3" />
+				<zone points="223,774 490,743 630,794 914,741 1311,770 1400,736 1569,783 1569,694 1211,699 1102,654 1015,707 739,661 590,721 412,661 223,687" rendition="Line" xml:id="facs_182_tr_1_tl_4" />
+				<zone points="216,899 481,843 618,881 752,839 1255,885 1433,841 1673,865 1673,792 1507,774 1162,825 992,763 632,825 523,770 216,790" rendition="Line" xml:id="facs_182_tr_1_tl_5" />
+				<zone points="220,957 1409,974 1399,872 790,932 681,877 220,899" rendition="Line" xml:id="facs_182_tr_1_tl_6" />
+				<zone points="229,1070 1093,1066 1093,1012 768,1024 687,981 623,1023 341,993 229,1017" rendition="Line" xml:id="facs_182_tr_1_tl_7" />
+			</zone>
+			<zone points="190,1086 1701,1086 1701,1406 190,1406" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_182_TextRegion_1735843348689_562">
+				<zone points="232,1097 757,1141 964,1130 1029,1086 1046,1086 1195,1137 1302,1092 1364,1135 1575,1101 1653,1133 1653,1191 1571,1237 1489,1182 1286,1188 1161,1262 1068,1184 977,1175 730,1221 331,1164 232,1197" rendition="Line" xml:id="facs_182_line_1735843348720_565" />
+				<zone points="240,1320 1437,1295 1437,1233 1320,1195 1162,1262 823,1191 467,1257 240,1208" rendition="Line" xml:id="facs_182_tr_1_tl_9" />
+				<zone points="249,1379 376,1399 418,1386 496,1397 518,1389 538,1399 538,1340 474,1331 407,1355 354,1313 345,1322 309,1313 249,1335" rendition="Line" xml:id="facs_182_tr_1_tl_10" />
+			</zone>
+			<zone points="190,1406 1701,1406 1701,1953 190,1953" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_182_TextRegion_1735843340928_558">
+				<zone points="222,1529 492,1489 1537,1515 1537,1448 1362,1411 1128,1446 970,1406 768,1442 220,1428" rendition="Line" xml:id="facs_182_tr_1_tl_11" />
+				<zone points="222,1613 574,1604 663,1662 797,1604 977,1646 1573,1607 1573,1533 1480,1518 1362,1567 1277,1522 1193,1567 895,1522 222,1529" rendition="Line" xml:id="facs_182_tr_1_tl_12" />
+				<zone points="220,1711 392,1744 716,1716 781,1756 975,1720 1035,1760 1488,1720 1473,1616 1024,1680 817,1631 690,1680 596,1631 478,1678 418,1642 220,1658" rendition="Line" xml:id="facs_182_tr_1_tl_13" />
+				<zone points="236,1822 498,1822 625,1867 726,1818 1015,1822 1090,1871 1181,1822 1520,1827 1520,1782 1311,1742 832,1735 663,1802 538,1747 236,1774" rendition="Line" xml:id="facs_182_tr_1_tl_14" />
+				<zone points="252,1922 349,1960 674,1934 839,1992 1026,1934 1152,2003 1542,1927 1687,1952 1687,1876 1558,1845 1504,1882 1351,1838 1119,1911 786,1836 645,1882 570,1840 425,1891 252,1869" rendition="Line" xml:id="facs_182_tr_1_tl_15" />
+			</zone>
+			<zone points="190,1953 1701,1953 1701,2278 190,2278" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_182_TextRegion_1735843338042_554">
+				<zone points="207,2054 757,2029 868,2078 948,2034 1186,2078 1304,2036 1522,2109 1562,2101 1560,1952 1233,1962 1137,2012 701,1991 574,1927 205,1947" rendition="Line" xml:id="facs_182_tr_1_tl_16" />
+				<zone points="252,2178 452,2136 1473,2172 1673,2141 1673,2078 1609,2061 1522,2109 1409,2072 992,2107 915,2065 768,2110 608,2096 525,2036 252,2100" rendition="Line" xml:id="facs_182_tr_1_tl_17" />
+				<zone points="289,2265 1662,2274 1685,2194 1546,2214 1355,2161 1250,2212 1117,2172 717,2227 287,2192" rendition="Line" xml:id="facs_182_tr_1_tl_18" />
+			</zone>
+			<zone points="190,2278 1701,2278 1701,2488 190,2488" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_182_TextRegion_1735843336015_550">
+				<zone points="223,2392 483,2348 647,2416 810,2352 1004,2427 1184,2359 1544,2417 1542,2314 1377,2252 1221,2307 1126,2270 848,2332 683,2259 222,2316" rendition="Line" xml:id="facs_182_tr_1_tl_19" />
+				<zone points="251,2465 509,2457 634,2534 730,2461 1097,2497 1095,2388 964,2436 783,2376 563,2428 483,2377 396,2416 312,2385 249,2416" rendition="Line" xml:id="facs_182_tr_1_tl_20" />
+			</zone>
+			<zone points="190,2488 1701,2488 1701,2933 190,2930" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_182_TextRegion_1735843332155_546">
+				<zone points="205,2601 452,2566 1377,2608 1364,2481 1037,2554 888,2490 688,2492 636,2532 203,2472" rendition="Line" xml:id="facs_182_tr_1_tl_21" />
+				<zone points="205,2683 1653,2719 1653,2608 1319,2630 786,2579 590,2635 205,2601" rendition="Line" xml:id="facs_182_tr_1_tl_22" />
+				<zone points="203,2792 325,2773 487,2837 721,2790 1651,2815 1649,2730 1478,2693 1339,2757 1023,2697 952,2739 774,2713 667,2766 401,2683 202,2721" rendition="Line" xml:id="facs_182_tr_1_tl_23" />
+				<zone points="227,2944 492,2993 1329,2968 1375,2959 1371,2804 972,2862 881,2819 645,2855 549,2802 454,2842 223,2801" rendition="Line" xml:id="facs_182_tr_1_tl_25" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_183">
+		<surface ulx="0" uly="0" lrx="1865" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_183.tif" width="1865px" height="3000px" />
+			<zone points="1499,110 1717,110 1717,263 1499,263" rendition="TextRegion" subtype="page-number" xml:id="facs_183_region_1730207569345_693">
+				<zone points="1524,193 1683,190 1684,240 1525,243" rendition="Line" xml:id="facs_183_line_1730207575458_696" />
+			</zone>
+			<zone points="236,267 1783,267 1783,560 236,560" rendition="TextRegion" subtype="paragraph" xml:id="facs_183_TextRegion_1735845394224_798">
+				<zone points="431,384 739,377 838,455 967,387 1382,399 1380,322 1254,342 1108,269 930,285 870,329 680,272 611,313 538,254 428,261" rendition="Line" xml:id="facs_183_tr_1_tl_2" />
+				<zone points="473,403 838,457 946,407 1209,400 1288,455 1549,431 1550,510 1437,530 933,499 770,560 740,560 619,486 475,484" rendition="Line" xml:id="facs_183_line_1735845394255_801" />
+			</zone>
+			<zone points="236,560 1783,560 1783,1243 236,1243" rendition="TextRegion" subtype="hpl_ao_note--inline" xml:id="facs_183_TextRegion_1735845394224_797">
+				<zone points="541,622 1140,601 1609,612 1630,735 1176,739 544,732" rendition="Line" xml:id="facs_183_line_1735845546243_836" />
+				<zone points="538,753 611,731 1139,718 1341,716 1602,727 1623,740 1623,825 1294,847 1013,855 627,841 539,820" rendition="Line" xml:id="facs_183_line_1735845549620_840" />
+				<zone points="572,876 619,859 752,841 821,839 1113,838 1286,844 1437,862 1534,904 1537,949 1335,956 1016,964 656,940 572,932" rendition="Line" xml:id="facs_183_line_1735845553259_844" />
+				<zone points="266,932 1586,946 1581,1008 1426,1048 786,1059 572,1059 227,1055 227,944" rendition="Line" xml:id="facs_183_line_1735845556934_848" />
+				<zone points="248,1034 616,1034 1521,1048 1754,1074 1766,1170 1353,1186 249,1207" rendition="Line" xml:id="facs_183_line_1735845561174_852" />
+			</zone>
+			<zone points="236,1243 1783,1243 1783,1378 236,1378" rendition="TextRegion" subtype="heading" xml:id="facs_183_TextRegion_1735845416065_812">
+				<zone points="598,1260 784,1291 951,1270 1024,1306 1507,1265 1509,1378 1442,1378 1262,1354 601,1359" rendition="Line" xml:id="facs_183_line_1735845416083_815" />
+			</zone>
+			<zone points="236,1378 1783,1378 1783,1926 236,1926" rendition="TextRegion" subtype="hpl_ao_note--inline" xml:id="facs_183_TextRegion_1735845416065_811">
+				<zone points="438,1378 708,1378 966,1426 1163,1380 1416,1432 1742,1387 1740,1464 1586,1503 1163,1464 437,1486" rendition="Line" xml:id="facs_183_line_1735845416083_816" />
+				<zone points="434,1602 949,1570 1162,1625 1280,1555 1618,1573 1618,1533 1471,1555 1314,1484 928,1534 437,1486" rendition="Line" xml:id="facs_183_tr_1_tl_19" />
+				<zone points="428,1758 1082,1704 1215,1737 1387,1691 1612,1716 1615,1630 1528,1612 1085,1604 875,1665 434,1633" rendition="Line" xml:id="facs_183_tr_1_tl_24" />
+				<zone points="395,1915 1539,1925 1541,1805 1497,1797 1296,1844 1103,1798 708,1850 397,1805" rendition="Line" xml:id="facs_183_tr_1_tl_27" />
+			</zone>
+			<zone points="236,1926 1783,1926 1783,2014 236,2014" rendition="TextRegion" subtype="heading" xml:id="facs_183_TextRegion_1735845410091_805">
+				<zone points="701,1908 789,1957 831,1947 935,1973 1021,1913 1038,1928 1084,1916 1084,2014 672,2014 672,1920" rendition="Line" xml:id="facs_183_line_1735845410107_808" />
+			</zone>
+			<zone points="236,2014 1783,2014 1783,2459 236,2459" rendition="TextRegion" subtype="hpl_ao_note--inline" xml:id="facs_183_TextRegion_1735845410091_804">
+				<zone points="361,2119 791,2138 1008,2093 1100,2138 1162,2108 1395,2153 1639,2124 1639,2067 1124,2009 1063,2064 906,2007 543,2067 360,2027" rendition="Line" xml:id="facs_183_tr_1_tl_29" />
+				<zone points="424,2216 1510,2239 1508,2145 1452,2121 1393,2153 1155,2117 1043,2185 873,2114 808,2153 424,2138" rendition="Line" xml:id="facs_183_tr_1_tl_32" />
+				<zone points="382,2354 526,2368 664,2326 823,2367 915,2326 1244,2357 1338,2325 1336,2245 1280,2239 1038,2279 987,2236 823,2236 719,2294 525,2231 381,2242" rendition="Line" xml:id="facs_183_tr_1_tl_33" />
+			</zone>
+			<zone points="236,2459 1783,2459 1783,2700 236,2700" rendition="TextRegion" subtype="hpl_ao_note--margin" xml:id="facs_183_TextRegion_1735845379262_785">
+				<zone points="497,2683 1082,2629 1150,2675 1754,2684 1753,2594 1706,2569 1549,2620 1364,2561 1218,2600 1066,2560 496,2560" rendition="Line" xml:id="facs_183_tr_1_tl_34" />
+			</zone>
+			<zone points="236,2700 1783,2700 1783,2915 236,2915" rendition="TextRegion" subtype="hpl_ao_note--margin" xml:id="facs_183_TextRegion_1735845376129_781">
+				<zone points="480,2807 1187,2854 1296,2817 1563,2830 1563,2741 1366,2717 1221,2777 1081,2717 1006,2759 881,2723 745,2782 666,2739 480,2746" rendition="Line" xml:id="facs_183_tr_1_tl_35" />
+				<zone points="382,2908 812,2884 868,2903 930,2884 930,2829 899,2822 862,2841 729,2817 625,2851 557,2820 499,2843 384,2829" rendition="Line" xml:id="facs_183_tr_1_tl_36" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_184">
+		<surface ulx="0" uly="0" lrx="1798" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_184.tif" width="1798px" height="3000px" />
+			<zone points="190,308 1624,308 1624,439 190,439" rendition="TextRegion" subtype="heading" xml:id="facs_184_TextRegion_1735844072561_667">
+				<zone points="474,392 666,432 827,390 859,411 920,390 1043,395 1041,293 1020,286 857,323 583,242 472,263" rendition="Line" xml:id="facs_184_tr_1_tl_1" />
+			</zone>
+			<zone points="190,439 1624,439 1624,1622 190,1622" rendition="TextRegion" subtype="paragraph" xml:id="facs_184_TextRegion_1735844072561_666">
+				<zone points="332,639 467,650 632,595 978,659 1205,585 1363,645 1459,611 1461,499 1289,536 1221,492 1050,499 933,567 843,536 488,564 334,518" rendition="Line" xml:id="facs_184_tr_1_tl_2" />
+				<zone points="181,820 502,859 553,815 757,820 815,780 947,820 1507,792 1563,824 1565,706 1338,760 1221,710 1073,766 183,720" rendition="Line" xml:id="facs_184_tr_1_tl_5" />
+				<zone points="195,936 334,994 402,948 869,957 973,915 1080,957 1605,922 1582,817 1349,811 1194,871 982,832 815,873 197,850" rendition="Line" xml:id="facs_184_tr_1_tl_6" />
+				<zone points="216,1050 1409,1041 1433,976 1333,931 1110,980 690,947 216,978" rendition="Line" xml:id="facs_184_tr_1_tl_7" />
+				<zone points="300,1163 1449,1142 1449,1078 1184,1082 1122,1040 300,1087" rendition="Line" xml:id="facs_184_tr_1_tl_8" />
+				<zone points="227,1264 369,1291 434,1259 564,1338 702,1257 1015,1252 1015,1215 913,1171 834,1196 727,1166 659,1200 499,1163 409,1212 285,1161 227,1180" rendition="Line" xml:id="facs_184_tr_1_tl_11" />
+				<zone points="241,1375 414,1433 713,1358 1126,1421 1263,1354 1574,1375 1575,1282 1175,1238 984,1317 831,1270 566,1338 427,1259 369,1291 242,1261" rendition="Line" xml:id="facs_184_tr_1_tl_12" />
+				<zone points="342,1473 887,1459 1514,1468 1565,1481 1567,1612 1549,1622 1012,1622 623,1609 341,1591" rendition="Line" xml:id="facs_184_line_1735844061430_664" />
+			</zone>
+			<zone points="190,1622 1624,1622 1624,1714 190,1714" rendition="TextRegion" subtype="heading" xml:id="facs_184_TextRegion_1735844061415_660">
+				<zone points="511,1690 1024,1697 1024,1591 917,1647 829,1653 727,1649 653,1619 511,1618" rendition="Line" xml:id="facs_184_tr_1_tl_15" />
+			</zone>
+			<zone points="190,1714 1624,1714 1624,1813 190,1813" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_184_TextRegion_1735844059640_656">
+				<zone points="299,1712 443,1762 567,1719 673,1760 743,1726 999,1749 1085,1707 1097,1813 522,1813 467,1797 297,1802" rendition="Line" xml:id="facs_184_line_1735844057540_652" />
+			</zone>
+			<zone points="190,1813 1624,1813 1624,1912 190,1912" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_184_TextRegion_1735844057508_648">
+				<zone points="323,1860 543,1823 732,1876 843,1828 1377,1855 1481,1813 1513,1813 1512,1895 1447,1904 775,1893 551,1937 444,1900 323,1935" rendition="Line" xml:id="facs_184_line_1735844057540_653" />
+			</zone>
+			<zone points="190,1912 1624,1912 1624,2022 190,2022" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_184_TextRegion_1735844055500_644">
+				<zone points="332,2025 527,2007 574,2046 669,2007 752,2046 831,2009 1389,1995 1621,2067 1593,1920 1345,1935 1266,1899 1063,1935 999,1897 808,1974 458,1911 334,1951" rendition="Line" xml:id="facs_184_tr_1_tl_18" />
+			</zone>
+			<zone points="190,2022 1624,2022 1624,2144 190,2144" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_184_TextRegion_1735844054258_638">
+				<zone points="318,2048 532,2078 801,2035 892,2074 1017,2022 1024,2022 1300,2078 1298,2150 1243,2116 1020,2146 861,2113 590,2185 430,2134 316,2160" rendition="Line" xml:id="facs_184_line_1735844054274_641" />
+			</zone>
+			<zone points="190,2144 1624,2144 1624,2252 190,2252" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_184_TextRegion_1735844052652_634">
+				<zone points="330,2273 497,2244 573,2302 1017,2218 1549,2237 1516,2137 1358,2187 1228,2130 1122,2192 771,2146 330,2194" rendition="Line" xml:id="facs_184_tr_1_tl_20" />
+			</zone>
+			<zone points="190,2252 1624,2252 1624,2363 190,2363" rendition="TextRegion" subtype="hpl_ao_list-item" xml:id="facs_184_TextRegion_1735844051248_630">
+				<zone points="327,2341 537,2383 1410,2367 1410,2246 1245,2283 817,2239 574,2301 499,2244 327,2274" rendition="Line" xml:id="facs_184_tr_1_tl_21" />
+			</zone>
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_185">
+		<surface ulx="0" uly="0" lrx="1787" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_185.tif" width="1787px" height="3000px" />
+		</surface>
+	</facsimile>
+	<facsimile xml:id="facs_186">
+		<surface ulx="0" uly="0" lrx="1879" lry="3000">
+			<graphic url="vudl_593351_MASTER_Seite_186.tif" width="1879px" height="3000px" />
+		</surface>
+	</facsimile>
+	<text xml:space="preserve">
+		<body>
+			<pb facs="#facs_1" n="1" />
+			<p facs="#facs_1_tr_1">
+				<lb facs="#facs_1_tr_1_tl_1" n="N001" />Astronomical
+				<lb facs="#facs_1_tr_1_tl_2" n="N002" />Observations
+				<lb facs="#facs_1_tr_1_tl_3" n="N003" />Made
+				<lb facs="#facs_1_tr_1_tl_4" n="N004" />By
+				<lb facs="#facs_1_tr_1_tl_5" n="N005" />H.P. Lovecraft,
+				<lb facs="#facs_1_tr_1_tl_6" n="N006" />598, Angell St.,
+				<lb facs="#facs_1_tr_1_tl_7" n="N007" />Providence,
+				<lb facs="#facs_1_tr_1_tl_8" n="N008" />R.I.
+				<lb facs="#facs_1_tr_1_tl_9" n="N009" />U.S.A.
+				<lb facs="#facs_1_tr_1_tl_10" n="N010" />Years:
+				<lb facs="#facs_1_tr_1_tl_11" n="N011" />1909
+				<lb facs="#facs_1_tr_1_tl_12" n="N012" />1910
+				<lb facs="#facs_1_tr_1_tl_13" n="N013" />1911
+				<lb facs="#facs_1_tr_1_tl_14" n="N014" />1912
+				<lb facs="#facs_1_line_1729682369118_14" n="N015" />1913
+				<lb facs="#facs_1_line_1729682376789_19" n="N016" />1914
+				<lb facs="#facs_1_tr_1_tl_15" n="N017" />1915
+			</p>
+			<pb facs="#facs_2" n="2" />
+			<pb facs="#facs_3" n="3" />
+			<pb facs="#facs_4" n="4" />
+			<pb facs="#facs_5" n="5" />
+			<p facs="#facs_5_TextRegion_1735839731810_49">
+				<lb facs="#facs_5_tr_1_tl_1" n="N001" />Comet, Halleys, <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs’</PER_name>d</abbr></choice> May 26, 1910 p. 1
+			</p>
+			<p facs="#facs_5_TextRegion_1735839731810_48">
+				<lb facs="#facs_5_tr_1_tl_2" n="N001" />Comet, Delavan’s, <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs’</PER_name>d</abbr></choice> <choice><expan>September</expan><abbr>Sep</abbr></choice> 16, 1914 p. 7
+			</p>
+			<p facs="#facs_5_TextRegion_1735839719108_40">
+				<lb facs="#facs_5_tr_1_tl_3" n="N001" />Eclipse of ☽︎ - June 3, 1909 p. a.
+			</p>
+			<p facs="#facs_5_TextRegion_1735839713892_36">
+				<lb facs="#facs_5_tr_1_tl_6" n="N001" />Eclipse of ☽︎ - <choice><expan><ORG_name>March</ORG_name></expan><abbr><PER_name>Mar</PER_name></abbr></choice> 11-12<choice><sic> </sic><corr>, </corr></choice>1914 p<choice><sic> </sic><corr>. </corr></choice>6
+			</p>
+			<pb facs="#facs_6" n="6" />
+			<pb facs="#facs_7" n="7" />
+			<p facs="#facs_7_TextRegion_1735840180243_100">
+				<lb facs="#facs_7_tr_1_tl_1" n="N001" />Halley's Comet - May 26, 1910<choice><sic>,</sic><corr> </corr></choice> p. 1
+			</p>
+			<p facs="#facs_7_TextRegion_1735840180243_99">
+				<lb facs="#facs_7_tr_1_tl_2" n="N001" />Halo around ☽︎, <choice><expan><PER_name>February</PER_name></expan><abbr>Feb.</abbr></choice> 1, 1912 p 3.
+			</p>
+			<pb facs="#facs_8" n="8" />
+			<pb facs="#facs_9" n="9" />
+			<p facs="#facs_9_TextRegion_1735840305168_133">
+				<lb facs="#facs_9_tr_1_tl_1" n="N001" />Mars, Occultation of, <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs’</PER_name>d</abbr></choice> <choice><expan>September</expan><abbr><hi rend="superscript">r</hi><PER_name>Sept</PER_name></abbr></choice> 1, 1909 p<choice><sic> </sic><corr>. </corr></choice>1
+			</p>
+			<p facs="#facs_9_TextRegion_1735840305168_132">
+				<lb facs="#facs_9_tr_1_tl_2" n="N001" />Moon, Eclipse of - June 3<choice><sic> -</sic><corr>,</corr></choice> 1909 p. a.
+			</p>
+			<p facs="#facs_9_TextRegion_1735840303968_128">
+				<lb facs="#facs_9_tr_1_tl_3" n="N001" />Moon, Halo around, <choice><expan><PER_name>February</PER_name></expan><abbr>Feb.</abbr></choice> 1, 1912 p. 3
+			</p>
+			<p facs="#facs_9_TextRegion_1735840302480_124">
+				<lb facs="#facs_9_tr_1_tl_4" n="N001" />Mercury near Moon - <choice><expan><PER_name>February</PER_name></expan><abbr>Feb.</abbr></choice> 26, 1914 pp<choice><sic> </sic><corr>. </corr></choice>5-6
+			</p>
+			<pb facs="#facs_10" n="10" />
+			<pb facs="#facs_11" n="11" />
+			<p facs="#facs_11_TextRegion_1735840857745_186">
+				<lb facs="#facs_11_line_1735840857745_189" n="N001" />Occultation of Mars - <a><b> <LOC_name>Lumpur</LOC_name></b><LOC_name>Kuala</LOC_name> </a><choice><expan>September</expan><abbr>Sep</abbr></choice> 1<choice><sic> -</sic><corr>,</corr></choice> 1909 p. 1
+			</p>
+			<p facs="#facs_11_TextRegion_1735840856033_181">
+				<lb facs="#facs_11_tr_1_tl_2" n="N001" />Paraselenae - Lunar Halo - <choice><expan><PER_name>February</PER_name></expan><abbr><PER_name>Feb</PER_name></abbr></choice> 1<choice><sic> -</sic><corr>,</corr></choice> 1912 p. 3<choice><sic>.</sic><corr> </corr></choice>
+			</p>
+			<pb facs="#facs_12" n="12" />
+			<pb facs="#facs_13" n="13" />
+			<pb facs="#facs_14" n="14" />
+			<pb facs="#facs_15" n="15" />
+			<pb facs="#facs_16" n="16" />
+			<pb facs="#facs_17" n="17" />
+			<pb facs="#facs_18" n="18" />
+			<p facs="#facs_18_tr_1">
+				<lb facs="#facs_18_tr_1_tl_1" n="N001" />a.
+			</p>
+			<p facs="#facs_18_tr_2">
+				<lb facs="#facs_18_tr_2_tl_1" n="N001" />Special Observation
+				<lb facs="#facs_18_tr_2_tl_2" n="N002" /><date when="1909-06-03">June 3 - 1909</date>
+				<lb facs="#facs_18_tr_2_tl_3" n="N003" /><name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name>’s Eclipse
+				<lb facs="#facs_18_tr_2_tl_4" n="N004" />Clouds interfered, but several
+				<lb facs="#facs_18_tr_2_tl_5" n="N005" />glimpses were obtained -
+				<lb facs="#facs_18_tr_2_tl_6" n="N006" />Total 7.58 -
+			</p>
+			<pb facs="#facs_19" n="19" />
+			<p facs="#facs_19_TextRegion_1728662210695_193">
+				<lb facs="#facs_19_tr_1_tl_1" n="N001" />1.
+			</p>
+			<p facs="#facs_19_TextRegion_1728662210695_192">
+				<lb facs="#facs_19_tr_1_tl_2" n="N001" />ASTRONOMICAL
+				<lb facs="#facs_19_tr_1_tl_3" n="N002" />OBSERVATIONS
+			</p>
+			<p facs="#facs_19_TextRegion_1728662174513_187">
+				<lb facs="#facs_19_tr_1_tl_4" n="N001" /><date when="1909">1909</date>
+			</p>
+			<p facs="#facs_19_TextRegion_1728662174513_186">
+				<lb facs="#facs_19_tr_1_tl_7" n="N001" />Begun <date when="1909-09-01"><choice><expan>September</expan><abbr><hi rend="superscript">r</hi>.<PER_name>Sept</PER_name></abbr></choice> 1, 1909</date>
+			</p>
+			<p facs="#facs_19_TextRegion_1728662288316_208">
+				<lb facs="#facs_19_tr_1_tl_9" n="N001" /><hi rend="underline"><date when="1909-09-01"><choice><expan>September</expan><abbr><hi rend="superscript">r</hi><PER_name>Sept</PER_name></abbr></choice> 1</date></hi> - <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs</PER_name>.</abbr></choice> Occultation of
+				<lb facs="#facs_19_tr_1_tl_10" n="N002" /><name ref="https://www.wikidata.org/wiki/Q111" type="planet"><MISC_name>Mars</MISC_name></name> by <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name>’s bright <term ref="https://en.wikipedia.org/wiki/Lunar_limb" key="limb">limb</term> at
+				<lb facs="#facs_19_tr_1_tl_12" n="N003" />8<hi rend="superscript">h</hi> 58<hi rend="superscript">m</hi> occultation took 40s.
+				<lb facs="#facs_19_tr_1_tl_13" n="N004" />Ending at 9:57 was not <choice><expan>observed</expan><abbr>obs’d</abbr></choice>.
+				<lb facs="#facs_19_tr_1_tl_14" n="N005" /><unclear>Shy</unclear> hazy. <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name> fair. <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs</PER_name></abbr></choice> <name ref="https://www.wikidata.org/wiki/Q197872" type="lunar_mare"><choice><expan><LOC_name>Mare</LOC_name></expan><abbr>M.</abbr></choice> <choice><expan>Humorum</expan><abbr><PER_name>Hum</PER_name>.</abbr></choice></name> <name ref="https://www.wikidata.org/wiki/Q1100489" type="lunar_crater"><choice><expan><LOC_name>Cleomedes</LOC_name></expan><abbr><MISC_name>Cleom</MISC_name>.</abbr></choice></name> <name ref="https://www.wikidata.org/wiki/Q1454954" type="lunar_crater"><choice><expan><PER_name>Langrenus</PER_name></expan><abbr><PER_name>Langr</PER_name>.</abbr></choice></name>
+			</p>
+			<p facs="#facs_19_TextRegion_1728662288316_207">
+				<lb facs="#facs_19_tr_1_tl_15" n="N001" /><hi rend="underline"><date when="1909-09-02"><hi rend="superscript">r</hi>. 2<PER_name>Sept</PER_name></date></hi> - <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs</PER_name>.</abbr></choice> <name ref="https://www.wikidata.org/wiki/Q111" type="planet"><choice><orig><ORG_name>♂</ORG_name></orig><reg><MISC_name>Mars</MISC_name></reg></choice></name> at 9<hi rend="superscript">h</hi>. Markings
+				<lb facs="#facs_19_tr_1_tl_17" n="N002" />faint <g ref="#hpl-and-sign">+</g> ill defined. Also <choice><expan>observed</expan><abbr><ORG_name>obs</ORG_name>.</abbr></choice> <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name>
+				<lb facs="#facs_19_tr_1_tl_18" n="N003" /><name ref="https://www.wikidata.org/wiki/Q197872" type="lunar_mare"><choice><expan><LOC_name>Mare</LOC_name></expan><abbr>M<unclear>.</unclear></abbr></choice> Humorum</name> appears similar to a
+				<lb facs="#facs_19_tr_1_tl_19" n="N004" />section “bitten” out of the <name ref="https://www.wikidata.org/wiki/Q405" type="moon">moon</name>’s
+				<lb facs="#facs_19_tr_1_tl_20" n="N005" /><term ref="https://en.wikipedia.org/wiki/Terminator_(solar)" key="terminator (line)">terminator</term>.
+			</p>
+			<p facs="#facs_19_TextRegion_1728662154859_170">
+				<lb facs="#facs_19_line_1728662152002_168" n="N001" /><date when="1910">1910</date>
+			</p>
+			<p facs="#facs_19_TextRegion_1728662152002_164">
+				<lb facs="#facs_19_tr_1_tl_22" n="N001" /><hi rend="underline"><choice><expan><LOC_name>Thursday</LOC_name></expan><abbr><MISC_name>Thu</MISC_name>.</abbr></choice>, <date when="1910-05-26"><PER_name>May</PER_name> 26</date></hi> <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs</PER_name>.</abbr></choice> <name ref="https://www.wikidata.org/wiki/Q23054" type="comet"><LOC_name>Halley’s</LOC_name></name>
+				<lb facs="#facs_19_tr_1_tl_24" n="N002" /><name ref="https://www.wikidata.org/wiki/Q23054" type="comet"><MISC_name>Comet</MISC_name></name> 8.45-9.30 p.m.
+				<lb facs="#facs_19_tr_1_tl_26" n="N003" />Visible in west<unclear>.</unclear> Head about
+				<lb facs="#facs_19_tr_1_tl_27" n="N004" /><measure unit="mag" quantity="1.5">1.5<term ref="https://en.wikipedia.org/wiki/Apparent_magnitude" key="mag (Apparent magnitude)">mag</term></measure>. (slightly less brilliant
+				<lb facs="#facs_19_tr_1_tl_29" n="N005" />than <name ref="https://www.wikidata.org/wiki/Q76493786" type="star"><PER_name>Regulus</PER_name></name>)<choice><sic> </sic><corr>. </corr></choice>Tail broad
+			</p>
+			<pb facs="#facs_20" n="20" />
+			<p facs="#facs_20_TextRegion_1729668693157_157">
+				<lb facs="#facs_20_tr_1_tl_2" n="N001" />2
+			</p>
+			<p facs="#facs_20_TextRegion_1729668921709_228">
+				<lb facs="#facs_20_tr_1_tl_1" n="N001" /><date when="1910-05-26"><PER_name>May</PER_name> 26, 1910</date>, Continued
+			</p>
+			<p facs="#facs_20_TextRegion_1729668921709_227">
+				<lb facs="#facs_20_tr_1_tl_3" n="N001" /><g ref="#hpl-and-sign">+</g> well defined. Quite bright
+				<lb facs="#facs_20_tr_1_tl_4" n="N002" />for about 15°, distinctly
+				<lb facs="#facs_20_tr_1_tl_6" n="N003" />traceable about 30° (to a
+				<lb facs="#facs_20_tr_1_tl_7" n="N004" />point above crater<choice><sic>.</sic><corr>).</corr></choice>
+				<lb facs="#facs_20_tr_1_tl_10" n="N005" />Head about 9<hi rend="superscript">h</hi> 30<hi rend="superscript">m</hi> R.A.
+				<lb facs="#facs_20_tr_1_tl_11" n="N006" />3° decl. on border of <name ref="https://www.wikidata.org/wiki/Q10578" type="constellation"><LOC_name>Hydra</LOC_name></name>
+				<lb facs="#facs_20_tr_1_tl_12" n="N007" /><g ref="#hpl-and-sign">+</g> <name ref="https://www.wikidata.org/wiki/Q10525" type="constellation"><LOC_name>Sextans</LOC_name></name>. <term ref="https://en.wikipedia.org/wiki/Comet_nucleus" key="nucleus (comet)"><PER_name>Nucleus</PER_name></term> <g ref="#hpl-and-sign">+</g> <term ref="https://en.wikipedia.org/wiki/Coma_(comet)" key="coma (comet)"><LOC_name>Coma</LOC_name></term>
+				<lb facs="#facs_20_tr_1_tl_13" n="N008" />well defined. Used B<g ref="#hpl-and-sign">+</g>S<note>Ggf. verweist "B+S" auf den Hersteller des Fernglases (https://en.wikipedia.org/wiki/Barr_and_Stroud). Unwahrscheinlicher: Verweis auf die <LOC_name>Ggf</LOC_name>. verweist "B+S" auf den Hersteller des Fernglases (https://en.wikipedia.org/wiki/Barr_and_Stroud). Unwahrscheinlicher: Verweis auf die Barrett-Serviss-Planisphäre, vgl. Aufzählung der Instrumente am Ende des Notizbuchs.<LOC_name>B+S</LOC_name>" auf den Hersteller des Fernglases (https://en.wikipedia.org/wiki/Barr_and_Stroud). Unwahrscheinlicher: Verweis auf die Barrett-Serviss-Planisphäre, vgl. Aufzählung der Instrumente am Ende des Notizbuchs.<MISC_name>Barrett-Serviss-Planisphäre</MISC_name>, vgl. Aufzählung der Instrumente am Ende des Notizbuchs.</note>
+				<lb facs="#facs_20_tr_1_tl_15" n="N009" />prism binoculars, <choice><expan>power</expan><abbr>pr.</abbr></choice> 8.
+			</p>
+			<p facs="#facs_20_TextRegion_1729668853607_195">
+				<lb facs="#facs_20_tr_1_tl_16" n="N001" /><name ref="https://www.wikidata.org/wiki/Q76493786" type="star"><PER_name>Regulus</PER_name></name>
+				<lb facs="#facs_20_tr_1_tl_17" n="N002" /><name ref="https://www.wikidata.org/wiki/Q10578" type="constellation"><LOC_name>Hydra</LOC_name></name>
+				<lb facs="#facs_20_tr_1_tl_19" n="N003" />Position at 9 p.m.
+				<lb facs="#facs_20_tr_1_tl_20" n="N004" /><choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs</PER_name></abbr></choice>. from Providence-Taunton Pike<note>Vmtl. die heutige US44 zw. Providence und Taunton (<MISC_name>US44</MISC_name> zw. Providence und Taunton (https://en.wikipedia.org/wiki/U.S._Route_44#Massachusetts)<ORG_name>Providence</ORG_name> und Taunton (https://en.wikipedia.org/wiki/U.S._Route_44#Massachusetts)<LOC_name>Taunton</LOC_name> (https://en.wikipedia.org/wiki/U.S._Route_44#Massachusetts)<LOC_name>https://en.wikipedia.org/wiki/U.S._Route_44#Massachusetts</LOC_name>)</note>
+				<lb facs="#facs_20_tr_1_tl_21" n="N005" />at a point just <choice><expan><LOC_name>northeast</LOC_name></expan><abbr>N.<subst rend="overwritten"><del>W</del><add><LOC_name>E</LOC_name></add></subst>.</abbr></choice> from Nichol’s
+				<lb facs="#facs_20_tr_1_tl_22" n="N006" />Crossing<note>Vmtl. diese Kreuzung: https://maps.app.goo.gl/R1M9gbk2RM6WTS5Q8 Vgl. <LOC_name>Vmtl</LOC_name>. diese Kreuzung: https://maps.app.goo.gl/R1M9gbk2RM6WTS5Q8 Vgl. https://www.town.rehoboth.ma.us/sites/g/files/vyhlif4911/f/uploads/rehoboth_historic_sites_booklet.pdf<LOC_name>Vgl</LOC_name>. https://www.town.rehoboth.ma.us/sites/g/files/vyhlif4911/f/uploads/rehoboth_historic_sites_booklet.pdf<PER_name>https://www.town.rehoboth.ma.us/sites/g/files/vyhlif4911/f/uploads/rehoboth_historic_sites_booklet.pdf</PER_name></note>. Looking westward
+			</p>
+			<pb facs="#facs_21" n="21" />
+			<p facs="#facs_21_region_1729668962254_248">
+				<lb facs="#facs_21_line_1729668985752_254" n="N001" /><subst rend="overwritten"><del><choice><unclear>7</unclear><unclear>5</unclear></choice></del><add>3</add></subst>
+			</p>
+			<p facs="#facs_21_TextRegion_1729669026587_278">
+				<lb facs="#facs_21_tr_1_tl_4" n="N001" />Head of Comet
+			</p>
+			<p facs="#facs_21_TextRegion_1729669026587_277">
+				<lb facs="#facs_21_tr_1_tl_2" n="N001" />ι
+				<lb facs="#facs_21_line_1729669101555_297" n="N002" />θ
+				<lb facs="#facs_21_line_1729669105597_302" n="N003" />ζ
+				<lb facs="#facs_21_line_1729669109416_307" n="N004" />ρ<note><LOC_name>Evtl</LOC_name>. liegt eine Verwechslung mit η vor.</note>
+				<lb facs="#facs_21_tr_1_tl_3" n="N005" />Position of Head
+				<lb facs="#facs_21_tr_1_tl_5" n="N006" />in <name ref="https://www.wikidata.org/wiki/Q10578" type="constellation"><LOC_name>Hydra</LOC_name></name>
+			</p>
+			<p facs="#facs_21_TextRegion_1729669022242_273">
+				<lb facs="#facs_21_line_1729669020367_271" n="N001" /><date when="1911">1911</date>
+			</p>
+			<p facs="#facs_21_TextRegion_1729669160616_330">
+				<lb facs="#facs_21_tr_1_tl_7" n="N001" />No observations
+			</p>
+			<p facs="#facs_21_TextRegion_1729669160616_329">
+				<lb facs="#facs_21_tr_1_tl_8" n="N001" /><date when="1912">1912</date>
+			</p>
+			<p facs="#facs_21_TextRegion_1729669156460_323">
+				<lb facs="#facs_21_tr_1_tl_11" n="N001" /><date when="1912-02-01"><hi rend="underline"><choice><expan><PER_name>February</PER_name></expan><abbr><LOC_name>Febr</LOC_name>.</abbr></choice> 1</hi><hi rend="superscript"><LOC_name>st.</LOC_name></hi></date> <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Observ’d</PER_name></abbr></choice> a lunar halo
+				<lb facs="#facs_21_tr_1_tl_13" n="N002" />at about 6:30 p.m. <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name> 1<choice><expan>day</expan><abbr>d.</abbr></choice> of full
+				<lb facs="#facs_21_tr_1_tl_14" n="N003" />Halo was of about 4<subst rend="overwritten"><del><gap unit="char" quantity="1" reason="deleted" /></del><add>5</add></subst>° diameter,
+				<lb facs="#facs_21_tr_1_tl_16" n="N004" />with rather noticeable <term ref="https://en.wikipedia.org/wiki/Moon_dog" key="paraselenae">paraselenae</term>
+				<lb facs="#facs_21_tr_1_tl_17" n="N005" />on an horizontal line with the
+				<lb facs="#facs_21_tr_1_tl_18" n="N006" /><name ref="https://www.wikidata.org/wiki/Q405" type="moon">moon</name>. No prismatic colours
+				<lb facs="#facs_21_tr_1_tl_19" n="N007" />were apparent. The left hand
+				<lb facs="#facs_21_tr_1_tl_20" n="N008" />(northern) <term ref="https://en.wikipedia.org/wiki/Moon_dog" key="paraselenae">paraselena</term> was
+				<lb facs="#facs_21_tr_1_tl_21" n="N009" />more or <choice><orig><LOC_name>leſs</LOC_name></orig><reg><MISC_name>less</MISC_name></reg></choice> <choice><expan>obscured</expan><abbr>obscur’d</abbr></choice> by clouds
+				<lb facs="#facs_21_tr_1_tl_22" n="N010" />and <choice><expan><PER_name>appeared</PER_name></expan><abbr>appear’d</abbr></choice> only at intervals.
+				<lb facs="#facs_21_tr_1_tl_23" n="N011" />The right-hand <term ref="https://en.wikipedia.org/wiki/Moon_dog" key="mock-moon → cf. paraselenae">mock-moon</term>
+				<lb facs="#facs_21_tr_1_tl_24" n="N012" />was prominent, and attracted
+				<lb facs="#facs_21_tr_1_tl_25" n="N013" />much attention. The two
+				<lb facs="#facs_21_tr_1_tl_26" n="N014" /><term ref="https://en.wikipedia.org/wiki/Moon_dog" key="paraselenae">paraselenae</term> were <unclear>seen</unclear> as
+			</p>
+			<pb facs="#facs_22" n="22" />
+			<p facs="#facs_22_TextRegion_1729669393151_408">
+				<lb facs="#facs_22_line_1729669404552_411" n="N001" />4
+			</p>
+			<p facs="#facs_22_TextRegion_1729669454897_434">
+				<lb facs="#facs_22_tr_1_tl_1" n="N001" /><hi rend="underline"><date when="1912-02-01"><choice><expan><PER_name>February</PER_name></expan><abbr>Feb.</abbr></choice> 1, 1912</date>, Continued</hi>
+			</p>
+			<p facs="#facs_22_TextRegion_1730130501206_271">
+				<lb facs="#facs_22_tr_1_tl_4" n="N001" /><choice><expan>diffused</expan><abbr>diffus’d</abbr></choice> patches of light.
+			</p>
+			<p facs="#facs_22_TextRegion_1730205974666_439">
+				<lb facs="#facs_22_tr_1_tl_5" n="N001" />This part of halo most prominent<choice><sic> </sic><corr>.</corr></choice>
+				<lb facs="#facs_22_tr_1_tl_6" n="N002" /><choice><expan><LOC_name>North</LOC_name></expan><abbr>N.</abbr></choice>
+				<lb facs="#facs_22_tr_1_tl_8" n="N003" /><term ref="https://en.wikipedia.org/wiki/Moon_dog" key="paraselenae">Paraselena</term>
+				<lb facs="#facs_22_tr_1_tl_11" n="N004" />(faint <g ref="#hpl-and-sign">+</g> visible
+				<lb facs="#facs_22_tr_1_tl_13" n="N005" />only at intervals)
+				<lb facs="#facs_22_tr_1_tl_7" n="N006" /><name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name>
+				<lb facs="#facs_22_line_1729682603147_50" n="N007" /><choice><expan><LOC_name>South</LOC_name></expan><abbr>S.</abbr></choice>
+				<lb facs="#facs_22_tr_1_tl_9" n="N008" /><term ref="https://en.wikipedia.org/wiki/Moon_dog" key="paraselenae">Paraselena</term>
+				<lb facs="#facs_22_tr_1_tl_12" n="N009" />(Prominent -
+				<lb facs="#facs_22_tr_1_tl_14" n="N010" />attracted much attention<choice><sic> </sic><corr>)</corr></choice>
+				<lb facs="#facs_22_tr_1_tl_15" n="N011" />Clouds
+				<lb facs="#facs_22_tr_1_tl_17" n="N012" />EASTERN HORIZON
+			</p>
+			<p facs="#facs_22_TextRegion_1730205974666_438">
+				<lb facs="#facs_22_tr_1_tl_18" n="N001" />The northern arc of the halo
+				<lb facs="#facs_22_tr_1_tl_19" n="N002" />was by far the brightest part.
+			</p>
+			<pb facs="#facs_23" n="23" />
+			<p facs="#facs_23_region_1729669636791_479">
+				<lb facs="#facs_23_line_1729669642063_482" n="N001" /><subst rend="overwritten"><del><unclear>8</unclear></del><add>5</add></subst>
+			</p>
+			<p facs="#facs_23_TextRegion_1729669694013_517">
+				<lb facs="#facs_23_line_1730132427324_360" n="N001" /><hi rend="underline"><date when="1912-10-19"><choice><expan>October</expan><abbr>Oct<hi rend="superscript">r.</hi></abbr></choice><hi rend="underline"> 19</hi></date></hi>, 11:00p.m. <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs</PER_name>.</abbr></choice> <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name>, 2<choice><expan>days</expan><abbr>d.</abbr></choice> <choice><expan>gibbous</expan><abbr>gib’s</abbr></choice>.
+				<lb facs="#facs_23_tr_1_tl_4" n="N002" /><name ref="https://www.wikidata.org/wiki/Q1131154" type="lunar_crater"><PER_name>Copernicus</PER_name></name> on <term ref="https://en.wikipedia.org/wiki/Terminator_(solar)" key="terminator (line)">terminator</term>.
+				<lb facs="#facs_23_tr_1_tl_5" n="N003" /><name ref="https://www.wikidata.org/wiki/Q631696" type="lunar_crater">Tycho</name>, <name ref="https://www.wikidata.org/wiki/Q1099137" type="lunar_crater"><PER_name>Clavius</PER_name></name> <g ref="#hpl-and-sign">+</g> <name ref="https://www.wikidata.org/wiki/Q1429041" type="lunar_crater"><PER_name>Maginus</PER_name></name> were
+				<lb facs="#facs_23_tr_1_tl_6" n="N004" />favourably situate in the
+				<lb facs="#facs_23_tr_1_tl_7" n="N005" />southern part of the disc.
+			</p>
+			<p facs="#facs_23_TextRegion_1729669694013_516">
+				<lb facs="#facs_23_tr_1_tl_9" n="N001" /><date when="1913">1913</date>
+			</p>
+			<p facs="#facs_23_TextRegion_1729669693128_512">
+				<lb facs="#facs_23_tr_1_tl_11" n="N001" />No observations
+			</p>
+			<p facs="#facs_23_TextRegion_1729669692244_508">
+				<lb facs="#facs_23_line_1729669691295_506" n="N001" /><date when="1914">1914</date>
+			</p>
+			<p facs="#facs_23_TextRegion_1729669691257_502">
+				<lb facs="#facs_23_tr_1_tl_14" n="N001" />In <date when="1914-01"><LOC_name>January</LOC_name></date>, <name ref="https://www.wikidata.org/wiki/Q111" type="planet"><MISC_name>Mars</MISC_name></name> <g ref="#hpl-and-sign">+</g> <name ref="https://www.wikidata.org/wiki/Q193" type="planet"><ORG_name>Saturn</ORG_name></name> were
+				<lb facs="#facs_23_tr_1_tl_15" n="N002" />observed.
+			</p>
+			<p facs="#facs_23_TextRegion_1729669690077_498">
+				<lb facs="#facs_23_tr_1_tl_17" n="N001" /><date when="1914-02-26"><hi rend="underline"><choice><expan><PER_name>February</PER_name></expan><abbr>Feb.</abbr></choice> 26</hi></date>, 6:<hi rend="superscript">h</hi> 15<hi rend="superscript">m</hi> p.m. <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs</PER_name>.</abbr></choice> <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name>, 2<choice><expan>days</expan><abbr>d.</abbr></choice> old,
+				<lb facs="#facs_23_tr_1_tl_18" n="N002" />and <name ref="https://www.wikidata.org/wiki/Q308" type="planet"><choice><orig><MISC_name>☿</MISC_name></orig><reg><MISC_name>Mercury</MISC_name></reg></choice></name>.
+				<lb facs="#facs_23_tr_1_tl_19" n="N003" /><name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name>'s crescent very thin. Earthshine
+				<lb facs="#facs_23_tr_1_tl_20" n="N004" />visible even in strong twilight.
+				<lb facs="#facs_23_tr_1_tl_21" n="N005" /><name ref="https://www.wikidata.org/wiki/Q308" type="planet"><choice><orig><MISC_name>☿</MISC_name></orig><reg><MISC_name>Mercury</MISC_name></reg></choice></name> appeared about 5° below and to
+				<lb facs="#facs_23_tr_1_tl_22" n="N006" />the right of <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name>, twinkling like a
+				<lb facs="#facs_23_tr_1_tl_23" n="N007" />bright star in the increasing
+				<lb facs="#facs_23_tr_1_tl_24" n="N008" />dusk.
+				<lb facs="#facs_23_tr_1_tl_26" n="N009" /><name ref="https://www.wikidata.org/wiki/Q405" type="moon">☽<MISC_name>☽</MISC_name>︎<LOC_name>︎</LOC_name></name> <term ref="https://en.wikipedia.org/wiki/Right_ascension" key="right ascension (R.A.)"><PER_name>R.A.</PER_name></term> 23<hi rend="superscript">h</hi> 56<hi rend="superscript">m</hi> <term ref="https://en.wikipedia.org/wiki/Declination" key="declination (Dec. / Decl.)"><ORG_name>Dec</ORG_name></term> +1°
+				<lb facs="#facs_23_tr_1_tl_32" n="N010" /><name ref="https://www.wikidata.org/wiki/Q308" type="planet"><MISC_name>☿</MISC_name></name> <term ref="https://en.wikipedia.org/wiki/Right_ascension" key="right ascension (R.A.)"><PER_name>R.A.</PER_name></term> 23<hi rend="superscript">h</hi> 35<hi rend="superscript">m</hi> <term ref="https://en.wikipedia.org/wiki/Declination" key="declination (Dec. / Decl.)"><ORG_name>Dec</ORG_name></term> -0° 3'
+				<lb facs="#facs_23_tr_1_tl_34" n="N011" />The above position very rough.
+			</p>
+			<pb facs="#facs_24" n="24" />
+			<p facs="#facs_24_TextRegion_1729682796859_141">
+				<lb facs="#facs_24_line_1730133630290_447" n="N001" />6
+			</p>
+			<p facs="#facs_24_TextRegion_1729682841075_153">
+				<lb facs="#facs_24_tr_1_tl_1" n="N001" /><hi rend="underline"><date when="1914-02-26"><choice><expan><PER_name>February</PER_name></expan><abbr><LOC_name>Febr</LOC_name>.</abbr></choice> 26, 1914</date>, Continued</hi>
+			</p>
+			<p facs="#facs_24_TextRegion_1729682896504_178">
+				<lb facs="#facs_24_tr_1_tl_4" n="N001" />The <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><ORG_name>Moon</ORG_name></name> was almost at the
+				<lb facs="#facs_24_tr_1_tl_6" n="N002" />Vernal Equinox.
+			</p>
+			<p facs="#facs_24_TextRegion_1729682911853_185">
+				<lb facs="#facs_24_tr_1_tl_7" n="N001" /><name ref="https://www.wikidata.org/wiki/Q308" type="planet"><choice><orig><MISC_name>☿</MISC_name></orig><reg><MISC_name>Mercury</MISC_name></reg></choice></name>
+				<lb facs="#facs_24_tr_1_tl_10" n="N002" />View looking <choice><expan><LOC_name>northwest</LOC_name></expan><abbr>N.W.</abbr></choice>
+				<lb facs="#facs_24_tr_1_tl_11" n="N003" />Earlier in the day the <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><ORG_name>Moon</ORG_name></name>
+				<lb facs="#facs_24_tr_1_tl_12" n="N004" />and <name ref="https://www.wikidata.org/wiki/Q308" type="planet"><MISC_name>Mercury</MISC_name></name> had been in
+				<lb facs="#facs_24_tr_1_tl_13" n="N005" />conjunction.
+			</p>
+			<p facs="#facs_24_TextRegion_1729682911853_184">
+				<lb facs="#facs_24_tr_1_tl_14" n="N001" /><hi rend="underline"><date when="1914-03-11"><MISC_name>March 11</MISC_name></date>-<date when="1914-03-12">12</date></hi> <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs</PER_name>.</abbr></choice> partial
+				<lb facs="#facs_24_tr_1_tl_16" n="N002" />eclipse of <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name>. Over 0.9 of disc
+				<lb facs="#facs_24_tr_1_tl_17" n="N003" />eclipsed. Very well seen.
+			</p>
+			<pb facs="#facs_25" n="25" />
+			<p facs="#facs_25_region_1729682987979_210">
+				<lb facs="#facs_25_line_1729682996806_213" n="N001" /><subst rend="overwritten"><del>9</del><add>7</add></subst>
+			</p>
+			<p facs="#facs_25_TextRegion_1729683091510_240">
+				<lb facs="#facs_25_tr_1_tl_1" n="N001" /><hi rend="underline"><date when="1914-09-16"><choice><expan>September</expan><abbr><LOC_name>Septr</LOC_name>.</abbr></choice> 16</date> -</hi> 4 a.m. to dawn -
+				<lb facs="#facs_25_tr_1_tl_3" n="N002" /><choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs</PER_name>.</abbr></choice> <hi rend="underline"><name type="comet"><PER_name>Delavan’s Comet</PER_name></name></hi>
+				<lb facs="#facs_25_tr_1_tl_4" n="N003" /><g ref="#hpl-and-sign">+</g>heavens in general.
+				<lb facs="#facs_25_tr_1_tl_5" n="N004" /><name type="comet"><PER_name>Delavan’s Comet</PER_name></name> lay in <term ref="https://en.wikipedia.org/wiki/Right_ascension" key="right ascension (R.A.)"><PER_name>R.A.</PER_name></term>
+				<lb facs="#facs_25_tr_1_tl_8" n="N005" />10<hi rend="superscript">h</hi> 08<hi rend="superscript">m</hi> 06<hi rend="superscript">s</hi>., <term ref="https://en.wikipedia.org/wiki/Declination" key="declination (Dec. / Decl.)"><ORG_name>Dec</ORG_name>.</term> 49° 51' 14"
+				<lb facs="#facs_25_tr_1_tl_10" n="N006" />in <name ref="https://www.wikidata.org/wiki/Q8918" type="constellation"><PER_name>Ursa Major</PER_name></name>, as shown by diagram.
+			</p>
+			<p facs="#facs_25_TextRegion_1729683102294_245">
+				<lb facs="#facs_25_tr_1_tl_12" n="N001" /><name ref="https://www.wikidata.org/wiki/Q10460" type="asterism"><PER_name>Plough</PER_name></name>
+				<lb facs="#facs_25_tr_1_tl_11" n="N002" />Comet
+				<lb facs="#facs_25_tr_1_tl_18" n="N003" />Northeast Horizon
+			</p>
+			<p facs="#facs_25_TextRegion_1729683102294_244">
+				<lb facs="#facs_25_tr_1_tl_19" n="N001" />It had about the brightness of a
+				<lb facs="#facs_25_tr_1_tl_20" n="N002" />star of the 4th. <term ref="https://en.wikipedia.org/wiki/Apparent_magnitude" key="mag (Apparent magnitude)"><LOC_name>magnitude</LOC_name></term>,
+				<lb facs="#facs_25_tr_1_tl_21" n="N003" />appearing to the naked eye, as a
+				<lb facs="#facs_25_tr_1_tl_22" n="N004" />blurred spot of light; rather faint,
+				<lb facs="#facs_25_tr_1_tl_23" n="N005" />yet easily visible. In the opera
+				<lb facs="#facs_25_tr_1_tl_24" n="N006" />glasses this blur resolved itself
+			</p>
+			<pb facs="#facs_26" n="26" />
+			<p facs="#facs_26_region_1729683143709_272">
+				<lb facs="#facs_26_line_1729683149410_275" n="N001" />8
+			</p>
+			<p facs="#facs_26_TextRegion_1729683160601_287">
+				<lb facs="#facs_26_tr_1_tl_1" n="N001" />into a star-like <term ref="https://en.wikipedia.org/wiki/Comet_nucleus" key="nucleus (comet)"><PER_name>nucleus</PER_name></term>, a bright
+				<lb facs="#facs_26_tr_1_tl_2" n="N002" /><term ref="https://en.wikipedia.org/wiki/Coma_(comet)" key="coma (comet)"><LOC_name>coma</LOC_name></term>, <g ref="#hpl-and-sign">+</g> a short, broad tail. In the
+				<lb facs="#facs_26_tr_1_tl_3" n="N003" />prism binoculars these details were
+				<lb facs="#facs_26_tr_1_tl_4" n="N004" />better seen, whilst in the 3" telescope
+				<lb facs="#facs_26_tr_1_tl_5" n="N005" />with powers of 50 <g ref="#hpl-and-sign">+</g> 100 the comet
+				<lb facs="#facs_26_tr_1_tl_6" n="N006" />was indeed a beautiful sight.
+				<lb facs="#facs_26_tr_1_tl_7" n="N007" />A small <unclear><LOC_name>telescope</LOC_name></unclear> star could
+				<lb facs="#facs_26_tr_1_tl_8" n="N008" />at that time be seen shining through
+				<lb facs="#facs_26_tr_1_tl_9" n="N009" />the faint luminosity of the tail.
+				<lb facs="#facs_26_tr_1_tl_10" n="N010" />The best view was with 3" <choice><expan><LOC_name>telescope</LOC_name></expan><abbr><LOC_name>tel</LOC_name>.</abbr></choice>
+				<lb facs="#facs_26_tr_1_tl_11" n="N011" /><choice><expan>terrestrial</expan><abbr>terr.</abbr></choice> Eyepiece 50 diameters.
+			</p>
+			<p facs="#facs_26_TextRegion_1729683159134_282">
+				<lb facs="#facs_26_tr_1_tl_13" n="N001" />Tail about 1° in length.
+				<lb facs="#facs_26_tr_1_tl_14" n="N002" />Observations made from grounds of
+				<lb facs="#facs_26_tr_1_tl_15" n="N003" />residence, <g ref="#hpl-and-sign">+</g> somewhat hampered
+				<lb facs="#facs_26_tr_1_tl_16" n="N004" />by electric street lights.
+			</p>
+			<pb facs="#facs_27" n="27" />
+			<p facs="#facs_27_region_1729683211856_304">
+				<lb facs="#facs_27_line_1729683217070_307" n="N001" /><subst rend="overwritten"><del>10</del><add>9</add></subst>
+			</p>
+			<p facs="#facs_27_TextRegion_1729683253256_320">
+				<lb facs="#facs_27_tr_1_tl_1" n="N001" />At this same time <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name> was a
+				<lb facs="#facs_27_tr_1_tl_2" n="N002" />beautiful crescent 3<choice><expan>days</expan><abbr>d.</abbr></choice> before new.
+				<lb facs="#facs_27_tr_1_tl_3" n="N003" />Earthshine very powerful: Could see
+				<lb facs="#facs_27_tr_1_tl_4" n="N004" />Maria <name ref="https://www.wikidata.org/wiki/Q168416" type="lunar_mare"><ORG_name>Crisium</ORG_name></name>, <name ref="https://www.wikidata.org/wiki/Q169625" type="lunar_mare"><choice><expan><LOC_name>Serenitatis</LOC_name></expan><abbr>Seren.</abbr></choice></name> <name ref="https://www.wikidata.org/wiki/Q320936" type="lunar_mare"><choice><expan><PER_name>Tranquillitatis</PER_name></expan><abbr><LOC_name>Tranq</LOC_name>.</abbr></choice></name>
+				<lb facs="#facs_27_tr_1_tl_5" n="N005" /><name ref="https://www.wikidata.org/wiki/Q26210" type="lunar_mare"><choice><sic><PER_name>Fcec</PER_name>.</sic><corr><choice><abbr><PER_name>Fec</PER_name>.</abbr><expan><PER_name>Fecunditatis</PER_name></expan></choice></corr></choice></name> <name ref="https://www.wikidata.org/wiki/Q210964" type="lunar_mare"><choice><expan><PER_name>Nectaris</PER_name></expan><abbr><PER_name>Nect</PER_name>.</abbr></choice></name> very plainly on dark
+				<lb facs="#facs_27_tr_1_tl_6" n="N006" />part of disc.
+				<lb facs="#facs_27_tr_1_tl_7" n="N007" /><name ref="https://www.wikidata.org/wiki/Q2234212" type="lunar_crater"><ORG_name>Schickard</ORG_name></name> on <term ref="https://en.wikipedia.org/wiki/Terminator_(solar)" key="terminator (line)">terminator</term> - fine
+				<lb facs="#facs_27_tr_1_tl_8" n="N008" />sight. <name ref="https://www.wikidata.org/wiki/Q1408928" type="lunar_crater"><PER_name>Grimaldi</PER_name></name> visible - very dark.
+				<lb facs="#facs_27_tr_1_tl_9" n="N009" /><name ref="https://www.wikidata.org/wiki/Q193" type="planet"><ORG_name>Saturn</ORG_name></name> also fine object.
+				<lb facs="#facs_27_tr_1_tl_10" n="N010" />Winter stars fully in view - <name ref="https://www.wikidata.org/wiki/Q8860" type="constellation"><PER_name>Orion</PER_name></name>,
+				<lb facs="#facs_27_tr_1_tl_11" n="N011" /><name ref="https://www.wikidata.org/wiki/Q10538" type="constellation"><PER_name>Canis Major</PER_name></name>, <unclear>+c</unclear>. <name ref="https://www.wikidata.org/wiki/Q13903" type="nebula"><PER_name>Orion's</PER_name> nebula</name>
+				<lb facs="#facs_27_tr_1_tl_12" n="N012" />very beautiful in 3" with <choice><expan>power</expan><abbr>pr.</abbr></choice> 50
+			</p>
+			<p facs="#facs_27_TextRegion_1729683253256_319">
+				<lb facs="#facs_27_tr_1_tl_15" n="N001" /><date when="1914-09-17"><hi rend="underline"><choice><expan>September</expan><abbr><LOC_name>Septr</LOC_name>.</abbr></choice> 17</hi></date> - <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs</PER_name>.</abbr></choice> <name type="comet"><PER_name>Delavan’s Comet</PER_name></name>
+				<lb facs="#facs_27_tr_1_tl_16" n="N002" />4-5 a.m. Also <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name>.
+				<lb facs="#facs_27_tr_1_tl_17" n="N003" />Earthshine on <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name> very strong,
+				<lb facs="#facs_27_tr_1_tl_18" n="N004" />especially when rising above house top
+				<lb facs="#facs_27_tr_1_tl_19" n="N005" /><g ref="#hpl-and-sign">+</g> bright thin crescent hidden.
+				<lb facs="#facs_27_tr_1_tl_20" n="N006" />Comet appears brighter as <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name> wanes.
+			</p>
+			<pb facs="#facs_28" n="28" />
+			<p facs="#facs_28_region_1730207296949_579">
+				<lb facs="#facs_28_line_1730207311406_582" n="N001" />10
+			</p>
+			<pb facs="#facs_29" n="29" />
+			<p facs="#facs_29_region_1730207337016_592">
+				<lb facs="#facs_29_line_1730207342610_595" n="N001" />11
+			</p>
+			<pb facs="#facs_30" n="30" />
+			<pb facs="#facs_31" n="31" />
+			<p facs="#facs_31_region_1730207364629_608">
+				<lb facs="#facs_31_line_1730207370362_611" n="N001" />12
+			</p>
+			<pb facs="#facs_32" n="32" />
+			<pb facs="#facs_33" n="33" />
+			<p facs="#facs_33_region_1730207385363_621">
+				<lb facs="#facs_33_line_1730207390995_624" n="N001" />13
+			</p>
+			<pb facs="#facs_34" n="34" />
+			<pb facs="#facs_35" n="35" />
+			<p facs="#facs_35_region_1730207409078_634">
+				<lb facs="#facs_35_line_1730207415012_637" n="N001" />14
+			</p>
+			<pb facs="#facs_36" n="36" />
+			<pb facs="#facs_37" n="37" />
+			<pb facs="#facs_38" n="38" />
+			<pb facs="#facs_39" n="39" />
+			<pb facs="#facs_40" n="40" />
+			<pb facs="#facs_41" n="41" />
+			<pb facs="#facs_42" n="42" />
+			<pb facs="#facs_43" n="43" />
+			<pb facs="#facs_44" n="44" />
+			<pb facs="#facs_45" n="45" />
+			<pb facs="#facs_46" n="46" />
+			<pb facs="#facs_47" n="47" />
+			<pb facs="#facs_48" n="48" />
+			<pb facs="#facs_49" n="49" />
+			<pb facs="#facs_50" n="50" />
+			<pb facs="#facs_51" n="51" />
+			<pb facs="#facs_52" n="52" />
+			<pb facs="#facs_53" n="53" />
+			<pb facs="#facs_54" n="54" />
+			<pb facs="#facs_55" n="55" />
+			<pb facs="#facs_56" n="56" />
+			<pb facs="#facs_57" n="57" />
+			<pb facs="#facs_58" n="58" />
+			<pb facs="#facs_59" n="59" />
+			<pb facs="#facs_60" n="60" />
+			<pb facs="#facs_61" n="61" />
+			<pb facs="#facs_62" n="62" />
+			<pb facs="#facs_63" n="63" />
+			<pb facs="#facs_64" n="64" />
+			<pb facs="#facs_65" n="65" />
+			<pb facs="#facs_66" n="66" />
+			<pb facs="#facs_67" n="67" />
+			<pb facs="#facs_68" n="68" />
+			<pb facs="#facs_69" n="69" />
+			<pb facs="#facs_70" n="70" />
+			<pb facs="#facs_71" n="71" />
+			<pb facs="#facs_72" n="72" />
+			<pb facs="#facs_73" n="73" />
+			<pb facs="#facs_74" n="74" />
+			<pb facs="#facs_75" n="75" />
+			<pb facs="#facs_76" n="76" />
+			<pb facs="#facs_77" n="77" />
+			<pb facs="#facs_78" n="78" />
+			<pb facs="#facs_79" n="79" />
+			<pb facs="#facs_80" n="80" />
+			<pb facs="#facs_81" n="81" />
+			<pb facs="#facs_82" n="82" />
+			<pb facs="#facs_83" n="83" />
+			<pb facs="#facs_84" n="84" />
+			<pb facs="#facs_85" n="85" />
+			<pb facs="#facs_86" n="86" />
+			<pb facs="#facs_87" n="87" />
+			<pb facs="#facs_88" n="88" />
+			<pb facs="#facs_89" n="89" />
+			<pb facs="#facs_90" n="90" />
+			<pb facs="#facs_91" n="91" />
+			<pb facs="#facs_92" n="92" />
+			<pb facs="#facs_93" n="93" />
+			<pb facs="#facs_94" n="94" />
+			<pb facs="#facs_95" n="95" />
+			<pb facs="#facs_96" n="96" />
+			<pb facs="#facs_97" n="97" />
+			<pb facs="#facs_98" n="98" />
+			<pb facs="#facs_99" n="99" />
+			<pb facs="#facs_100" n="100" />
+			<pb facs="#facs_101" n="101" />
+			<pb facs="#facs_102" n="102" />
+			<pb facs="#facs_103" n="103" />
+			<pb facs="#facs_104" n="104" />
+			<pb facs="#facs_105" n="105" />
+			<pb facs="#facs_106" n="106" />
+			<pb facs="#facs_107" n="107" />
+			<pb facs="#facs_108" n="108" />
+			<pb facs="#facs_109" n="109" />
+			<pb facs="#facs_110" n="110" />
+			<pb facs="#facs_111" n="111" />
+			<pb facs="#facs_112" n="112" />
+			<pb facs="#facs_113" n="113" />
+			<pb facs="#facs_114" n="114" />
+			<pb facs="#facs_115" n="115" />
+			<pb facs="#facs_116" n="116" />
+			<pb facs="#facs_117" n="117" />
+			<pb facs="#facs_118" n="118" />
+			<pb facs="#facs_119" n="119" />
+			<pb facs="#facs_120" n="120" />
+			<pb facs="#facs_121" n="121" />
+			<pb facs="#facs_122" n="122" />
+			<pb facs="#facs_123" n="123" />
+			<pb facs="#facs_124" n="124" />
+			<pb facs="#facs_125" n="125" />
+			<pb facs="#facs_126" n="126" />
+			<pb facs="#facs_127" n="127" />
+			<pb facs="#facs_128" n="128" />
+			<pb facs="#facs_129" n="129" />
+			<pb facs="#facs_130" n="130" />
+			<pb facs="#facs_131" n="131" />
+			<pb facs="#facs_132" n="132" />
+			<pb facs="#facs_133" n="133" />
+			<pb facs="#facs_134" n="134" />
+			<pb facs="#facs_135" n="135" />
+			<pb facs="#facs_136" n="136" />
+			<pb facs="#facs_137" n="137" />
+			<pb facs="#facs_138" n="138" />
+			<pb facs="#facs_139" n="139" />
+			<pb facs="#facs_140" n="140" />
+			<pb facs="#facs_141" n="141" />
+			<pb facs="#facs_142" n="142" />
+			<pb facs="#facs_143" n="143" />
+			<pb facs="#facs_144" n="144" />
+			<pb facs="#facs_145" n="145" />
+			<pb facs="#facs_146" n="146" />
+			<pb facs="#facs_147" n="147" />
+			<pb facs="#facs_148" n="148" />
+			<pb facs="#facs_149" n="149" />
+			<pb facs="#facs_150" n="150" />
+			<pb facs="#facs_151" n="151" />
+			<pb facs="#facs_152" n="152" />
+			<pb facs="#facs_153" n="153" />
+			<pb facs="#facs_154" n="154" />
+			<pb facs="#facs_155" n="155" />
+			<pb facs="#facs_156" n="156" />
+			<pb facs="#facs_157" n="157" />
+			<pb facs="#facs_158" n="158" />
+			<pb facs="#facs_159" n="159" />
+			<pb facs="#facs_160" n="160" />
+			<pb facs="#facs_161" n="161" />
+			<pb facs="#facs_162" n="162" />
+			<pb facs="#facs_163" n="163" />
+			<pb facs="#facs_164" n="164" />
+			<pb facs="#facs_165" n="165" />
+			<pb facs="#facs_166" n="166" />
+			<pb facs="#facs_167" n="167" />
+			<pb facs="#facs_168" n="168" />
+			<pb facs="#facs_169" n="169" />
+			<pb facs="#facs_170" n="170" />
+			<pb facs="#facs_171" n="171" />
+			<pb facs="#facs_172" n="172" />
+			<pb facs="#facs_173" n="173" />
+			<pb facs="#facs_174" n="174" />
+			<pb facs="#facs_175" n="175" />
+			<pb facs="#facs_176" n="176" />
+			<pb facs="#facs_177" n="177" />
+			<pb facs="#facs_178" n="178" />
+			<pb facs="#facs_179" n="179" />
+			<pb facs="#facs_180" n="180" />
+			<pb facs="#facs_181" n="181" />
+			<pb facs="#facs_182" n="182" />
+			<p facs="#facs_182_TextRegion_1735843352460_569">
+				<lb facs="#facs_182_tr_1_tl_1" n="N001" />Principal Astronomical Work
+			</p>
+			<p facs="#facs_182_TextRegion_1735843352460_568">
+				<lb facs="#facs_182_tr_1_tl_2" n="N001" />(1) To keep track of all celestial
+				<lb facs="#facs_182_tr_1_tl_3" n="N002" />phenomena month by month, as
+				<lb facs="#facs_182_tr_1_tl_4" n="N003" />positions of planets, phases of moon,
+				<lb facs="#facs_182_tr_1_tl_5" n="N004" />Sign of Sun, Occultations, Meteor Showers,
+				<lb facs="#facs_182_tr_1_tl_6" n="N005" />unusual phenomena (record)
+				<lb facs="#facs_182_tr_1_tl_7" n="N006" />also new discoveries.
+			</p>
+			<p facs="#facs_182_TextRegion_1735843348689_562">
+				<lb facs="#facs_182_line_1735843348720_565" n="N001" />(2) To keep up a working knowledge
+				<lb facs="#facs_182_tr_1_tl_9" n="N002" />of the constellations and their
+				<lb facs="#facs_182_tr_1_tl_10" n="N003" />Seasons.
+			</p>
+			<p facs="#facs_182_TextRegion_1735843340928_558">
+				<lb facs="#facs_182_tr_1_tl_11" n="N001" />(3) To observe all planets, etc.
+				<lb facs="#facs_182_tr_1_tl_12" n="N002" />with a large telescope when they
+				<lb facs="#facs_182_tr_1_tl_13" n="N003" />are favourably situated (at 7<hi rend="superscript">h</hi> 30<hi rend="superscript">m</hi>
+				<lb facs="#facs_182_tr_1_tl_14" n="N004" />in winter, <choice><expan><LOC_name>about</LOC_name></expan><abbr>abt.</abbr></choice> 9<hi rend="superscript">h</hi> or <choice><orig><LOC_name>leſs</LOC_name></orig><reg><MISC_name>less</MISC_name></reg></choice> in Summer,
+				<lb facs="#facs_182_tr_1_tl_15" n="N005" />supplemented by morning observations)
+			</p>
+			<p facs="#facs_182_TextRegion_1735843338042_554">
+				<lb facs="#facs_182_tr_1_tl_16" n="N001" />(4) To observe opera or field <choice><orig>glaſs</orig><reg>glass</reg></choice>
+				<lb facs="#facs_182_tr_1_tl_17" n="N002" />objects among the stars with a low
+				<lb facs="#facs_182_tr_1_tl_18" n="N003" />power instrument, recording results,
+			</p>
+			<p facs="#facs_182_TextRegion_1735843336015_550">
+				<lb facs="#facs_182_tr_1_tl_19" n="N001" />(5) To keep a careful record of
+				<lb facs="#facs_182_tr_1_tl_20" n="N002" />each night’s work.
+			</p>
+			<p facs="#facs_182_TextRegion_1735843332155_546">
+				<lb facs="#facs_182_tr_1_tl_21" n="N001" />(6) To contribute a monthly
+				<lb facs="#facs_182_tr_1_tl_22" n="N002" />astronomical article of about 7 p. M.S.
+				<lb facs="#facs_182_tr_1_tl_23" n="N003" />or 4 p. type, to the Providence Evening
+				<lb facs="#facs_182_tr_1_tl_25" n="N004" />News. (Began <date when="1914-01-01"><PER_name>Jan 1</PER_name>, 1914</date>.)
+			</p>
+			<pb facs="#facs_183" n="183" />
+			<p facs="#facs_183_region_1730207569345_693">
+				<lb facs="#facs_183_line_1730207575458_696" n="N001" />[DEL[UNCLEAR: 88]]
+			</p>
+			<p facs="#facs_183_TextRegion_1735845394224_798">
+				<lb facs="#facs_183_tr_1_tl_2" n="N001" />Position of Residence
+				<lb facs="#facs_183_line_1735845394255_801" n="N002" />598 Angell <choice><expan>Street</expan><abbr>St.</abbr></choice>, <choice><expan><MISC_name>Providence</MISC_name></expan><abbr><LOC_name>Prov</LOC_name>.</abbr></choice>, <choice><expan><LOC_name>Rhode Island</LOC_name></expan><abbr>R.I.</abbr></choice>
+			</p>
+			<p facs="#facs_183_TextRegion_1735845394224_797">
+				<lb facs="#facs_183_line_1735845546243_836" n="N001" />Latitude 41° 50' 00" <choice><expan><LOC_name>North</LOC_name></expan><abbr>N.</abbr></choice>
+				<lb facs="#facs_183_line_1735845549620_840" n="N002" />Longitude 71° 23' 09" <choice><expan>West</expan><abbr>W.</abbr></choice>
+				<lb facs="#facs_183_line_1735845553259_844" n="N003" /><choice><expan>local</expan><abbr><unclear>lo.</unclear></abbr></choice> Time 4<hi rend="superscript">h</hi> 45<hi rend="superscript">m</hi> 32.3s<hi rend="superscript">x</hi>
+				<lb facs="#facs_183_line_1735845556934_848" n="N004" />(Washington), <choice><expan>local</expan><abbr><unclear>lo.</unclear></abbr></choice> 0<hi rend="superscript">h</hi> 22<hi rend="superscript">m</hi> 43.5<hi rend="superscript">s#</hi>
+				<lb facs="#facs_183_line_1735845561174_852" n="N005" /><choice><expan><ORG_name>Difference</ORG_name></expan><abbr><PER_name>Diff</PER_name>.</abbr></choice> <choice><expan>between</expan><abbr><MISC_name>bet</MISC_name>’n</abbr></choice> <unclear><PER_name>Mn</PER_name>.</unclear> <g ref="#hpl-and-sign">+</g> <choice><expan>Standard</expan><abbr><PER_name>Stan</PER_name>.</abbr></choice> 0<hi rend="superscript">h</hi> 14<hi rend="superscript">m</hi> 27.7<hi rend="superscript">s</hi> (- <unclear>mn</unclear> to <choice><expan>standard</expan><abbr>stan</abbr></choice>)
+			</p>
+			<p facs="#facs_183_TextRegion_1735845416065_812">
+				<lb facs="#facs_183_line_1735845416083_815" n="N001" />Fundamental Data
+			</p>
+			<p facs="#facs_183_TextRegion_1735845416065_811">
+				<lb facs="#facs_183_line_1735845416083_816" n="N001" />1° <choice><expan><LOC_name>Latitude</LOC_name></expan><abbr><PER_name>Lat</PER_name>.</abbr></choice> = 69.23m at 41° 50'
+				<lb facs="#facs_183_tr_1_tl_19" n="N002" />1° <choice><expan><LOC_name>Longitude</LOC_name></expan><abbr><LOC_name>Lon</LOC_name>.</abbr></choice> = 52.00m <choice><orig>"</orig><reg>at</reg></choice> <choice><orig>"</orig><reg>41° 50'</reg></choice>
+				<lb facs="#facs_183_tr_1_tl_24" n="N003" />1s Time =  1146.5ft <choice><orig>"</orig><reg>at</reg></choice> <choice><orig>"</orig><reg>41° 50'</reg></choice>
+				<lb facs="#facs_183_tr_1_tl_27" n="N004" />1° <choice><expan><LOC_name>Longitude</LOC_name></expan><abbr><PER_name>Lon</PER_name></abbr></choice> = (1° <choice><expan><LOC_name>Latitude</LOC_name></expan><abbr><PER_name>Lat</PER_name></abbr></choice>) (<unclear><ORG_name>cos</ORG_name>.</unclear> <choice><expan><LOC_name>Latitude</LOC_name></expan><abbr><PER_name>Lat</PER_name></abbr></choice>)
+			</p>
+			<p facs="#facs_183_TextRegion_1735845410091_805">
+				<lb facs="#facs_183_line_1735845410107_808" n="N001" />Remarks
+			</p>
+			<p facs="#facs_183_TextRegion_1735845410091_804">
+				<lb facs="#facs_183_tr_1_tl_29" n="N001" />To <unclear><ORG_name>red</ORG_name>.</unclear> W.M.T.<note>https://en.wikipedia.org/wiki/Washington_Mean_Time</note> to <choice><expan><MISC_name>Eastern Standard Time</MISC_name></expan><abbr><PER_name>East</PER_name>. Stan</abbr></choice><note>https://en.wikipedia.org/wiki/Eastern_Time_Zone</note>
+				<lb facs="#facs_183_tr_1_tl_32" n="N002" />add 6<hi rend="superscript">m</hi> 16<hi rend="superscript">s</hi>. G.M.T.<note><LOC_name>https://en.wikipedia.org/wiki/Greenwich_Mean_Time</LOC_name></note> to
+				<lb facs="#facs_183_tr_1_tl_33" n="N003" /><choice><expan><MISC_name>Eastern Standard Time</MISC_name></expan><abbr><PER_name>E. Stan</PER_name>.</abbr></choice> Subtract 5<hi rend="superscript">h</hi>.
+			</p>
+			<p facs="#facs_183_TextRegion_1735845379262_785">
+				<lb facs="#facs_183_tr_1_tl_34" n="N001" /># To be added to W.M.T. for Local Time
+			</p>
+			<p facs="#facs_183_TextRegion_1735845376129_781">
+				<lb facs="#facs_183_tr_1_tl_35" n="N001" />x To be subtracted from G.M.T.
+				<lb facs="#facs_183_tr_1_tl_36" n="N002" />for Local Time.
+			</p>
+			<pb facs="#facs_184" n="184" />
+			<p facs="#facs_184_TextRegion_1735844072561_667">
+				<lb facs="#facs_184_tr_1_tl_1" n="N001" /><hi rend="underline">Instruments</hi>
+			</p>
+			<p facs="#facs_184_TextRegion_1735844072561_666">
+				<lb facs="#facs_184_tr_1_tl_2" n="N001" />Dimensions of Telescope
+				<lb facs="#facs_184_tr_1_tl_5" n="N002" />Clear Aperture ---- 3 inches
+				<lb facs="#facs_184_tr_1_tl_6" n="N003" />Eyepieces, 2. 50 (<choice><expan>terrestrial</expan><abbr>terr</abbr></choice>) and 125 (<choice><expan>astronomical</expan><abbr>ast.</abbr></choice>)
+				<lb facs="#facs_184_tr_1_tl_7" n="N004" />Focus (with <choice><expan>astronomical</expan><abbr><PER_name>astro</PER_name>.</abbr></choice>) --- 44in
+				<lb facs="#facs_184_tr_1_tl_8" n="N005" /><choice><orig>"</orig><reg><PER_name>Focus</PER_name></reg></choice> (<choice><orig>"</orig><reg>with</reg></choice> <choice><expan>terrestrial</expan><abbr>terr.</abbr></choice>) --- 52in
+				<lb facs="#facs_184_tr_1_tl_11" n="N006" /><choice><expan><PER_name>Manufactured</PER_name></expan><abbr><LOC_name>Manuf</LOC_name>.</abbr></choice> By Bardou<note>Manufacturer is probably: <MISC_name>Manufacturer is</MISC_name> probably: https://en.wikipedia.org/wiki/Denis_Albert_Bardou<MISC_name>https://en.wikipedia.org/wiki/Denis_Albert_Bardou</MISC_name></note>
+				<lb facs="#facs_184_tr_1_tl_12" n="N007" />Altazimuth<note><PER_name>Altazimuth</PER_name> mount: https://en.wikipedia.org/wiki/Altazimuth_mount</note> Stand by R.L. Allen
+				<lb facs="#facs_184_line_1735844061430_664" n="N008" />Purchased <date when="1906-09-13">1906 (<LOC_name>Sep. 13</LOC_name>)</date>
+			</p>
+			<p facs="#facs_184_TextRegion_1735844061415_660">
+				<lb facs="#facs_184_tr_1_tl_15" n="N001" />Accessories
+			</p>
+			<p facs="#facs_184_TextRegion_1735844059640_656">
+				<lb facs="#facs_184_line_1735844057540_652" n="N001" />Lunar Map By Wright
+			</p>
+			<p facs="#facs_184_TextRegion_1735844057508_648">
+				<lb facs="#facs_184_line_1735844057540_653" n="N001" />Year Book - Farmer’s Almanack<note>Probably: <PER_name>Probably</PER_name>: Vmtl. https://en.wikipedia.org/wiki/Farmers%27_Almanac, cf.: https://www.farmersalmanac.com/<PER_name>Vmtl</PER_name>. https://en.wikipedia.org/wiki/Farmers%27_Almanac, cf.: https://www.farmersalmanac.com/</note>
+			</p>
+			<p facs="#facs_184_TextRegion_1735844055500_644">
+				<lb facs="#facs_184_tr_1_tl_18" n="N001" />Planispheres - Whittaker <g ref="#hpl-and-sign">+</g> Barrett-<choice><orig><PER_name>Serviſs</PER_name></orig><reg><PER_name>Serviss</PER_name></reg></choice><note>Probably https://adsabs.harvard.edu/full/1906PA.....14..444. See also: <PER_name>Probably</PER_name> https://adsabs.harvard.edu/full/1906PA.....14..444. See also: https://de.pinterest.com/pin/astronomy-planisphere-barrittserviss-new-york-revolving-disk-on-card-antique-c-1930--548172585895879103/ <PER_name>See</PER_name> also: https://de.pinterest.com/pin/astronomy-planisphere-barrittserviss-new-york-revolving-disk-on-card-antique-c-1930--548172585895879103/ <LOC_name>https://de.pinterest.com/pin/astronomy-planisphere-barrittserviss-new-york-revolving-disk-on-card-antique-c-1930--548172585895879103</LOC_name>/ </note>
+			</p>
+			<p facs="#facs_184_TextRegion_1735844054258_638">
+				<lb facs="#facs_184_line_1735844054274_641" n="N001" />Atlas by Upton <g ref="#hpl-and-sign">+</g> Library
+			</p>
+			<p facs="#facs_184_TextRegion_1735844052652_634">
+				<lb facs="#facs_184_tr_1_tl_20" n="N001" />Opera <choice><orig>glaſses</orig><reg>glasses</reg></choice> - Prism Binoculars
+			</p>
+			<p facs="#facs_184_TextRegion_1735844051248_630">
+				<lb facs="#facs_184_tr_1_tl_21" n="N001" /><choice><expan><MISC_name>American Ephemeris and Nautical Almanack</MISC_name></expan><abbr>Am. Eph. <g ref="#hpl-and-sign">+</g> Naut. Almanack</abbr></choice>
+			</p>
+			<pb facs="#facs_185" n="185" />
+			<pb facs="#facs_186" n="186" />
+		</body>
+	</text>
+</TEI>
