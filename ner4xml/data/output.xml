@@ -3,19 +3,19 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title type="main">H. P. Lovecraft: Astronomical Observations (<persName>H. P. Lovecraft</persName>: Astronomical Observations (NAME)<PER_name>H. P. Lovecraft</PER_name>: Astronomical Observations (NAME)<ORG_name>NAME</ORG_name>)</title>
+				<title type="main"><name n="ner" type="PER">H. P. Lovecraft</name>: Astronomical Observations (<name n="ner" type="ORG">NAME</name>)</title>
 			</titleStmt>
 			<publicationStmt>
 				<publisher>tranScriptorium</publisher>
 			</publicationStmt>
 			<sourceDesc>
-				<bibl><publisher><ORG_name>TRP</ORG_name> document creator: fabian.etling@cedis.fu-berlin.de</publisher></bibl>
+				<bibl><publisher><name n="ner" type="ORG">TRP</name> document creator: fabian.etling@cedis.fu-berlin.de</publisher></bibl>
 			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
 			<charDecl>
 				<glyph xml:id="hpl-and-sign">
-					<desc><ORG_name>HPL</ORG_name> uses a plus-like and sign to represent the conjunction "and".</desc>
+					<desc><name n="ner" type="ORG">HPL</name> uses a plus-like and sign to represent the conjunction "and".</desc>
 					<mapping>&amp;</mapping>
 				</glyph>
 			</charDecl>
@@ -1428,16 +1428,16 @@
 			<pb facs="#facs_4" n="4" />
 			<pb facs="#facs_5" n="5" />
 			<p facs="#facs_5_TextRegion_1735839731810_49">
-				<lb facs="#facs_5_tr_1_tl_1" n="N001" />Comet, Halleys, <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs’</PER_name>d</abbr></choice> May 26, 1910 p. 1
+				<lb facs="#facs_5_tr_1_tl_1" n="N001" />Comet, Halleys, <choice><expan><name n="ner" type="LOC">Observed</name></expan><abbr><name n="ner" type="PER">Obs’</name>d</abbr></choice> May 26, 1910 p. 1
 			</p>
 			<p facs="#facs_5_TextRegion_1735839731810_48">
-				<lb facs="#facs_5_tr_1_tl_2" n="N001" />Comet, Delavan’s, <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs’</PER_name>d</abbr></choice> <choice><expan>September</expan><abbr>Sep</abbr></choice> 16, 1914 p. 7
+				<lb facs="#facs_5_tr_1_tl_2" n="N001" />Comet, Delavan’s, <choice><expan><name n="ner" type="LOC">Observed</name></expan><abbr><name n="ner" type="PER">Obs’</name>d</abbr></choice> <choice><expan>September</expan><abbr>Sep</abbr></choice> 16, 1914 p. 7
 			</p>
 			<p facs="#facs_5_TextRegion_1735839719108_40">
 				<lb facs="#facs_5_tr_1_tl_3" n="N001" />Eclipse of ☽︎ - June 3, 1909 p. a.
 			</p>
 			<p facs="#facs_5_TextRegion_1735839713892_36">
-				<lb facs="#facs_5_tr_1_tl_6" n="N001" />Eclipse of ☽︎ - <choice><expan><ORG_name>March</ORG_name></expan><abbr><PER_name>Mar</PER_name></abbr></choice> 11-12<choice><sic> </sic><corr>, </corr></choice>1914 p<choice><sic> </sic><corr>. </corr></choice>6
+				<lb facs="#facs_5_tr_1_tl_6" n="N001" />Eclipse of ☽︎ - <choice><expan><name n="ner" type="ORG">March</name></expan><abbr><name n="ner" type="PER">Mar</name></abbr></choice> 11-12<choice><sic> </sic><corr>, </corr></choice>1914 p<choice><sic> </sic><corr>. </corr></choice>6
 			</p>
 			<pb facs="#facs_6" n="6" />
 			<pb facs="#facs_7" n="7" />
@@ -1445,29 +1445,29 @@
 				<lb facs="#facs_7_tr_1_tl_1" n="N001" />Halley's Comet - May 26, 1910<choice><sic>,</sic><corr> </corr></choice> p. 1
 			</p>
 			<p facs="#facs_7_TextRegion_1735840180243_99">
-				<lb facs="#facs_7_tr_1_tl_2" n="N001" />Halo around ☽︎, <choice><expan><PER_name>February</PER_name></expan><abbr>Feb.</abbr></choice> 1, 1912 p 3.
+				<lb facs="#facs_7_tr_1_tl_2" n="N001" />Halo around ☽︎, <choice><expan><name n="ner" type="PER">February</name></expan><abbr>Feb.</abbr></choice> 1, 1912 p 3.
 			</p>
 			<pb facs="#facs_8" n="8" />
 			<pb facs="#facs_9" n="9" />
 			<p facs="#facs_9_TextRegion_1735840305168_133">
-				<lb facs="#facs_9_tr_1_tl_1" n="N001" />Mars, Occultation of, <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs’</PER_name>d</abbr></choice> <choice><expan>September</expan><abbr><hi rend="superscript">r</hi><PER_name>Sept</PER_name></abbr></choice> 1, 1909 p<choice><sic> </sic><corr>. </corr></choice>1
+				<lb facs="#facs_9_tr_1_tl_1" n="N001" />Mars, Occultation of, <choice><expan><name n="ner" type="LOC">Observed</name></expan><abbr><name n="ner" type="PER">Obs’</name>d</abbr></choice> <choice><expan>September</expan><abbr><hi rend="superscript">r</hi><name n="ner" type="PER">Sept</name></abbr></choice> 1, 1909 p<choice><sic> </sic><corr>. </corr></choice>1
 			</p>
 			<p facs="#facs_9_TextRegion_1735840305168_132">
 				<lb facs="#facs_9_tr_1_tl_2" n="N001" />Moon, Eclipse of - June 3<choice><sic> -</sic><corr>,</corr></choice> 1909 p. a.
 			</p>
 			<p facs="#facs_9_TextRegion_1735840303968_128">
-				<lb facs="#facs_9_tr_1_tl_3" n="N001" />Moon, Halo around, <choice><expan><PER_name>February</PER_name></expan><abbr>Feb.</abbr></choice> 1, 1912 p. 3
+				<lb facs="#facs_9_tr_1_tl_3" n="N001" />Moon, Halo around, <choice><expan><name n="ner" type="PER">February</name></expan><abbr>Feb.</abbr></choice> 1, 1912 p. 3
 			</p>
 			<p facs="#facs_9_TextRegion_1735840302480_124">
-				<lb facs="#facs_9_tr_1_tl_4" n="N001" />Mercury near Moon - <choice><expan><PER_name>February</PER_name></expan><abbr>Feb.</abbr></choice> 26, 1914 pp<choice><sic> </sic><corr>. </corr></choice>5-6
+				<lb facs="#facs_9_tr_1_tl_4" n="N001" />Mercury near Moon - <choice><expan><name n="ner" type="PER">February</name></expan><abbr>Feb.</abbr></choice> 26, 1914 pp<choice><sic> </sic><corr>. </corr></choice>5-6
 			</p>
 			<pb facs="#facs_10" n="10" />
 			<pb facs="#facs_11" n="11" />
 			<p facs="#facs_11_TextRegion_1735840857745_186">
-				<lb facs="#facs_11_line_1735840857745_189" n="N001" />Occultation of Mars - <a><b> <LOC_name>Lumpur</LOC_name></b><LOC_name>Kuala</LOC_name> </a><choice><expan>September</expan><abbr>Sep</abbr></choice> 1<choice><sic> -</sic><corr>,</corr></choice> 1909 p. 1
+				<lb facs="#facs_11_line_1735840857745_189" n="N001" />Occultation of Mars - <choice><expan>September</expan><abbr>Sep</abbr></choice> 1<choice><sic> -</sic><corr>,</corr></choice> 1909 p. 1
 			</p>
 			<p facs="#facs_11_TextRegion_1735840856033_181">
-				<lb facs="#facs_11_tr_1_tl_2" n="N001" />Paraselenae - Lunar Halo - <choice><expan><PER_name>February</PER_name></expan><abbr><PER_name>Feb</PER_name></abbr></choice> 1<choice><sic> -</sic><corr>,</corr></choice> 1912 p. 3<choice><sic>.</sic><corr> </corr></choice>
+				<lb facs="#facs_11_tr_1_tl_2" n="N001" />Paraselenae - Lunar Halo - <choice><expan><name n="ner" type="PER">February</name></expan><abbr><name n="ner" type="PER">Feb</name></abbr></choice> 1<choice><sic> -</sic><corr>,</corr></choice> 1912 p. 3<choice><sic>.</sic><corr> </corr></choice>
 			</p>
 			<pb facs="#facs_12" n="12" />
 			<pb facs="#facs_13" n="13" />
@@ -1482,7 +1482,7 @@
 			<p facs="#facs_18_tr_2">
 				<lb facs="#facs_18_tr_2_tl_1" n="N001" />Special Observation
 				<lb facs="#facs_18_tr_2_tl_2" n="N002" /><date when="1909-06-03">June 3 - 1909</date>
-				<lb facs="#facs_18_tr_2_tl_3" n="N003" /><name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name>’s Eclipse
+				<lb facs="#facs_18_tr_2_tl_3" n="N003" /><name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><name n="ner" type="ORG">☽</name></orig><reg><name n="ner" type="ORG">Moon</name></reg></choice></name>’s Eclipse
 				<lb facs="#facs_18_tr_2_tl_4" n="N004" />Clouds interfered, but several
 				<lb facs="#facs_18_tr_2_tl_5" n="N005" />glimpses were obtained -
 				<lb facs="#facs_18_tr_2_tl_6" n="N006" />Total 7.58 -
@@ -1499,19 +1499,19 @@
 				<lb facs="#facs_19_tr_1_tl_4" n="N001" /><date when="1909">1909</date>
 			</p>
 			<p facs="#facs_19_TextRegion_1728662174513_186">
-				<lb facs="#facs_19_tr_1_tl_7" n="N001" />Begun <date when="1909-09-01"><choice><expan>September</expan><abbr><hi rend="superscript">r</hi>.<PER_name>Sept</PER_name></abbr></choice> 1, 1909</date>
+				<lb facs="#facs_19_tr_1_tl_7" n="N001" />Begun <date when="1909-09-01"><choice><expan>September</expan><abbr><hi rend="superscript">r</hi>.<name n="ner" type="PER">Sept</name></abbr></choice> 1, 1909</date>
 			</p>
 			<p facs="#facs_19_TextRegion_1728662288316_208">
-				<lb facs="#facs_19_tr_1_tl_9" n="N001" /><hi rend="underline"><date when="1909-09-01"><choice><expan>September</expan><abbr><hi rend="superscript">r</hi><PER_name>Sept</PER_name></abbr></choice> 1</date></hi> - <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs</PER_name>.</abbr></choice> Occultation of
-				<lb facs="#facs_19_tr_1_tl_10" n="N002" /><name ref="https://www.wikidata.org/wiki/Q111" type="planet"><MISC_name>Mars</MISC_name></name> by <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name>’s bright <term ref="https://en.wikipedia.org/wiki/Lunar_limb" key="limb">limb</term> at
+				<lb facs="#facs_19_tr_1_tl_9" n="N001" /><hi rend="underline"><date when="1909-09-01"><choice><expan>September</expan><abbr><hi rend="superscript">r</hi><name n="ner" type="PER">Sept</name></abbr></choice> 1</date></hi> - <choice><expan><name n="ner" type="LOC">Observed</name></expan><abbr><name n="ner" type="PER">Obs</name>.</abbr></choice> Occultation of
+				<lb facs="#facs_19_tr_1_tl_10" n="N002" /><name ref="https://www.wikidata.org/wiki/Q111" type="planet"><name n="ner" type="MISC">Mars</name></name> by <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><name n="ner" type="ORG">☽</name></orig><reg><name n="ner" type="ORG">Moon</name></reg></choice></name>’s bright <term ref="https://en.wikipedia.org/wiki/Lunar_limb" key="limb">limb</term> at
 				<lb facs="#facs_19_tr_1_tl_12" n="N003" />8<hi rend="superscript">h</hi> 58<hi rend="superscript">m</hi> occultation took 40s.
 				<lb facs="#facs_19_tr_1_tl_13" n="N004" />Ending at 9:57 was not <choice><expan>observed</expan><abbr>obs’d</abbr></choice>.
-				<lb facs="#facs_19_tr_1_tl_14" n="N005" /><unclear>Shy</unclear> hazy. <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name> fair. <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs</PER_name></abbr></choice> <name ref="https://www.wikidata.org/wiki/Q197872" type="lunar_mare"><choice><expan><LOC_name>Mare</LOC_name></expan><abbr>M.</abbr></choice> <choice><expan>Humorum</expan><abbr><PER_name>Hum</PER_name>.</abbr></choice></name> <name ref="https://www.wikidata.org/wiki/Q1100489" type="lunar_crater"><choice><expan><LOC_name>Cleomedes</LOC_name></expan><abbr><MISC_name>Cleom</MISC_name>.</abbr></choice></name> <name ref="https://www.wikidata.org/wiki/Q1454954" type="lunar_crater"><choice><expan><PER_name>Langrenus</PER_name></expan><abbr><PER_name>Langr</PER_name>.</abbr></choice></name>
+				<lb facs="#facs_19_tr_1_tl_14" n="N005" /><unclear>Shy</unclear> hazy. <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><name n="ner" type="ORG">☽</name></orig><reg><name n="ner" type="ORG">Moon</name></reg></choice></name> fair. <choice><expan><name n="ner" type="LOC">Observed</name></expan><abbr><name n="ner" type="PER">Obs</name></abbr></choice> <name ref="https://www.wikidata.org/wiki/Q197872" type="lunar_mare"><choice><expan><name n="ner" type="LOC">Mare</name></expan><abbr>M.</abbr></choice> <choice><expan>Humorum</expan><abbr><name n="ner" type="PER">Hum</name>.</abbr></choice></name> <name ref="https://www.wikidata.org/wiki/Q1100489" type="lunar_crater"><choice><expan><name n="ner" type="LOC">Cleomedes</name></expan><abbr><name n="ner" type="MISC">Cleom</name>.</abbr></choice></name> <name ref="https://www.wikidata.org/wiki/Q1454954" type="lunar_crater"><choice><expan><name n="ner" type="PER">Langrenus</name></expan><abbr><name n="ner" type="PER">Langr</name>.</abbr></choice></name>
 			</p>
 			<p facs="#facs_19_TextRegion_1728662288316_207">
-				<lb facs="#facs_19_tr_1_tl_15" n="N001" /><hi rend="underline"><date when="1909-09-02"><hi rend="superscript">r</hi>. 2<PER_name>Sept</PER_name></date></hi> - <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs</PER_name>.</abbr></choice> <name ref="https://www.wikidata.org/wiki/Q111" type="planet"><choice><orig><ORG_name>♂</ORG_name></orig><reg><MISC_name>Mars</MISC_name></reg></choice></name> at 9<hi rend="superscript">h</hi>. Markings
-				<lb facs="#facs_19_tr_1_tl_17" n="N002" />faint <g ref="#hpl-and-sign">+</g> ill defined. Also <choice><expan>observed</expan><abbr><ORG_name>obs</ORG_name>.</abbr></choice> <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name>
-				<lb facs="#facs_19_tr_1_tl_18" n="N003" /><name ref="https://www.wikidata.org/wiki/Q197872" type="lunar_mare"><choice><expan><LOC_name>Mare</LOC_name></expan><abbr>M<unclear>.</unclear></abbr></choice> Humorum</name> appears similar to a
+				<lb facs="#facs_19_tr_1_tl_15" n="N001" /><hi rend="underline"><date when="1909-09-02"><hi rend="superscript">r</hi>. 2<name n="ner" type="PER">Sept</name></date></hi> - <choice><expan><name n="ner" type="LOC">Observed</name></expan><abbr><name n="ner" type="PER">Obs</name>.</abbr></choice> <name ref="https://www.wikidata.org/wiki/Q111" type="planet"><choice><orig><name n="ner" type="ORG">♂</name></orig><reg><name n="ner" type="MISC">Mars</name></reg></choice></name> at 9<hi rend="superscript">h</hi>. Markings
+				<lb facs="#facs_19_tr_1_tl_17" n="N002" />faint <g ref="#hpl-and-sign">+</g> ill defined. Also <choice><expan>observed</expan><abbr><name n="ner" type="ORG">obs</name>.</abbr></choice> <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><name n="ner" type="ORG">☽</name></orig><reg><name n="ner" type="ORG">Moon</name></reg></choice></name>
+				<lb facs="#facs_19_tr_1_tl_18" n="N003" /><name ref="https://www.wikidata.org/wiki/Q197872" type="lunar_mare"><choice><expan><name n="ner" type="LOC">Mare</name></expan><abbr>M<unclear>.</unclear></abbr></choice> Humorum</name> appears similar to a
 				<lb facs="#facs_19_tr_1_tl_19" n="N004" />section “bitten” out of the <name ref="https://www.wikidata.org/wiki/Q405" type="moon">moon</name>’s
 				<lb facs="#facs_19_tr_1_tl_20" n="N005" /><term ref="https://en.wikipedia.org/wiki/Terminator_(solar)" key="terminator (line)">terminator</term>.
 			</p>
@@ -1519,18 +1519,18 @@
 				<lb facs="#facs_19_line_1728662152002_168" n="N001" /><date when="1910">1910</date>
 			</p>
 			<p facs="#facs_19_TextRegion_1728662152002_164">
-				<lb facs="#facs_19_tr_1_tl_22" n="N001" /><hi rend="underline"><choice><expan><LOC_name>Thursday</LOC_name></expan><abbr><MISC_name>Thu</MISC_name>.</abbr></choice>, <date when="1910-05-26"><PER_name>May</PER_name> 26</date></hi> <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs</PER_name>.</abbr></choice> <name ref="https://www.wikidata.org/wiki/Q23054" type="comet"><LOC_name>Halley’s</LOC_name></name>
-				<lb facs="#facs_19_tr_1_tl_24" n="N002" /><name ref="https://www.wikidata.org/wiki/Q23054" type="comet"><MISC_name>Comet</MISC_name></name> 8.45-9.30 p.m.
+				<lb facs="#facs_19_tr_1_tl_22" n="N001" /><hi rend="underline"><choice><expan><name n="ner" type="LOC">Thursday</name></expan><abbr><name n="ner" type="MISC">Thu</name>.</abbr></choice>, <date when="1910-05-26"><name n="ner" type="PER">May</name> 26</date></hi> <choice><expan><name n="ner" type="LOC">Observed</name></expan><abbr><name n="ner" type="PER">Obs</name>.</abbr></choice> <name ref="https://www.wikidata.org/wiki/Q23054" type="comet"><name n="ner" type="LOC">Halley’s</name></name>
+				<lb facs="#facs_19_tr_1_tl_24" n="N002" /><name ref="https://www.wikidata.org/wiki/Q23054" type="comet"><name n="ner" type="MISC">Comet</name></name> 8.45-9.30 p.m.
 				<lb facs="#facs_19_tr_1_tl_26" n="N003" />Visible in west<unclear>.</unclear> Head about
 				<lb facs="#facs_19_tr_1_tl_27" n="N004" /><measure unit="mag" quantity="1.5">1.5<term ref="https://en.wikipedia.org/wiki/Apparent_magnitude" key="mag (Apparent magnitude)">mag</term></measure>. (slightly less brilliant
-				<lb facs="#facs_19_tr_1_tl_29" n="N005" />than <name ref="https://www.wikidata.org/wiki/Q76493786" type="star"><PER_name>Regulus</PER_name></name>)<choice><sic> </sic><corr>. </corr></choice>Tail broad
+				<lb facs="#facs_19_tr_1_tl_29" n="N005" />than <name ref="https://www.wikidata.org/wiki/Q76493786" type="star"><name n="ner" type="PER">Regulus</name></name>)<choice><sic> </sic><corr>. </corr></choice>Tail broad
 			</p>
 			<pb facs="#facs_20" n="20" />
 			<p facs="#facs_20_TextRegion_1729668693157_157">
 				<lb facs="#facs_20_tr_1_tl_2" n="N001" />2
 			</p>
 			<p facs="#facs_20_TextRegion_1729668921709_228">
-				<lb facs="#facs_20_tr_1_tl_1" n="N001" /><date when="1910-05-26"><PER_name>May</PER_name> 26, 1910</date>, Continued
+				<lb facs="#facs_20_tr_1_tl_1" n="N001" /><date when="1910-05-26"><name n="ner" type="PER">May</name> 26, 1910</date>, Continued
 			</p>
 			<p facs="#facs_20_TextRegion_1729668921709_227">
 				<lb facs="#facs_20_tr_1_tl_3" n="N001" /><g ref="#hpl-and-sign">+</g> well defined. Quite bright
@@ -1538,18 +1538,18 @@
 				<lb facs="#facs_20_tr_1_tl_6" n="N003" />traceable about 30° (to a
 				<lb facs="#facs_20_tr_1_tl_7" n="N004" />point above crater<choice><sic>.</sic><corr>).</corr></choice>
 				<lb facs="#facs_20_tr_1_tl_10" n="N005" />Head about 9<hi rend="superscript">h</hi> 30<hi rend="superscript">m</hi> R.A.
-				<lb facs="#facs_20_tr_1_tl_11" n="N006" />3° decl. on border of <name ref="https://www.wikidata.org/wiki/Q10578" type="constellation"><LOC_name>Hydra</LOC_name></name>
-				<lb facs="#facs_20_tr_1_tl_12" n="N007" /><g ref="#hpl-and-sign">+</g> <name ref="https://www.wikidata.org/wiki/Q10525" type="constellation"><LOC_name>Sextans</LOC_name></name>. <term ref="https://en.wikipedia.org/wiki/Comet_nucleus" key="nucleus (comet)"><PER_name>Nucleus</PER_name></term> <g ref="#hpl-and-sign">+</g> <term ref="https://en.wikipedia.org/wiki/Coma_(comet)" key="coma (comet)"><LOC_name>Coma</LOC_name></term>
-				<lb facs="#facs_20_tr_1_tl_13" n="N008" />well defined. Used B<g ref="#hpl-and-sign">+</g>S<note>Ggf. verweist "B+S" auf den Hersteller des Fernglases (https://en.wikipedia.org/wiki/Barr_and_Stroud). Unwahrscheinlicher: Verweis auf die <LOC_name>Ggf</LOC_name>. verweist "B+S" auf den Hersteller des Fernglases (https://en.wikipedia.org/wiki/Barr_and_Stroud). Unwahrscheinlicher: Verweis auf die Barrett-Serviss-Planisphäre, vgl. Aufzählung der Instrumente am Ende des Notizbuchs.<LOC_name>B+S</LOC_name>" auf den Hersteller des Fernglases (https://en.wikipedia.org/wiki/Barr_and_Stroud). Unwahrscheinlicher: Verweis auf die Barrett-Serviss-Planisphäre, vgl. Aufzählung der Instrumente am Ende des Notizbuchs.<MISC_name>Barrett-Serviss-Planisphäre</MISC_name>, vgl. Aufzählung der Instrumente am Ende des Notizbuchs.</note>
+				<lb facs="#facs_20_tr_1_tl_11" n="N006" />3° decl. on border of <name ref="https://www.wikidata.org/wiki/Q10578" type="constellation"><name n="ner" type="LOC">Hydra</name></name>
+				<lb facs="#facs_20_tr_1_tl_12" n="N007" /><g ref="#hpl-and-sign">+</g> <name ref="https://www.wikidata.org/wiki/Q10525" type="constellation"><name n="ner" type="LOC">Sextans</name></name>. <term ref="https://en.wikipedia.org/wiki/Comet_nucleus" key="nucleus (comet)"><name n="ner" type="PER">Nucleus</name></term> <g ref="#hpl-and-sign">+</g> <term ref="https://en.wikipedia.org/wiki/Coma_(comet)" key="coma (comet)"><name n="ner" type="LOC">Coma</name></term>
+				<lb facs="#facs_20_tr_1_tl_13" n="N008" />well defined. Used B<g ref="#hpl-and-sign">+</g>S<note><name n="ner" type="LOC">Ggf</name>. verweist "<name n="ner" type="LOC">B+S</name>" auf den Hersteller des Fernglases (https://en.wikipedia.org/wiki/Barr_and_Stroud). Unwahrscheinlicher: Verweis auf die <name n="ner" type="MISC">Barrett-Serviss-Planisphäre</name>, vgl. Aufzählung der Instrumente am Ende des Notizbuchs.</note>
 				<lb facs="#facs_20_tr_1_tl_15" n="N009" />prism binoculars, <choice><expan>power</expan><abbr>pr.</abbr></choice> 8.
 			</p>
 			<p facs="#facs_20_TextRegion_1729668853607_195">
-				<lb facs="#facs_20_tr_1_tl_16" n="N001" /><name ref="https://www.wikidata.org/wiki/Q76493786" type="star"><PER_name>Regulus</PER_name></name>
-				<lb facs="#facs_20_tr_1_tl_17" n="N002" /><name ref="https://www.wikidata.org/wiki/Q10578" type="constellation"><LOC_name>Hydra</LOC_name></name>
+				<lb facs="#facs_20_tr_1_tl_16" n="N001" /><name ref="https://www.wikidata.org/wiki/Q76493786" type="star"><name n="ner" type="PER">Regulus</name></name>
+				<lb facs="#facs_20_tr_1_tl_17" n="N002" /><name ref="https://www.wikidata.org/wiki/Q10578" type="constellation"><name n="ner" type="LOC">Hydra</name></name>
 				<lb facs="#facs_20_tr_1_tl_19" n="N003" />Position at 9 p.m.
-				<lb facs="#facs_20_tr_1_tl_20" n="N004" /><choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs</PER_name></abbr></choice>. from Providence-Taunton Pike<note>Vmtl. die heutige US44 zw. Providence und Taunton (<MISC_name>US44</MISC_name> zw. Providence und Taunton (https://en.wikipedia.org/wiki/U.S._Route_44#Massachusetts)<ORG_name>Providence</ORG_name> und Taunton (https://en.wikipedia.org/wiki/U.S._Route_44#Massachusetts)<LOC_name>Taunton</LOC_name> (https://en.wikipedia.org/wiki/U.S._Route_44#Massachusetts)<LOC_name>https://en.wikipedia.org/wiki/U.S._Route_44#Massachusetts</LOC_name>)</note>
-				<lb facs="#facs_20_tr_1_tl_21" n="N005" />at a point just <choice><expan><LOC_name>northeast</LOC_name></expan><abbr>N.<subst rend="overwritten"><del>W</del><add><LOC_name>E</LOC_name></add></subst>.</abbr></choice> from Nichol’s
-				<lb facs="#facs_20_tr_1_tl_22" n="N006" />Crossing<note>Vmtl. diese Kreuzung: https://maps.app.goo.gl/R1M9gbk2RM6WTS5Q8 Vgl. <LOC_name>Vmtl</LOC_name>. diese Kreuzung: https://maps.app.goo.gl/R1M9gbk2RM6WTS5Q8 Vgl. https://www.town.rehoboth.ma.us/sites/g/files/vyhlif4911/f/uploads/rehoboth_historic_sites_booklet.pdf<LOC_name>Vgl</LOC_name>. https://www.town.rehoboth.ma.us/sites/g/files/vyhlif4911/f/uploads/rehoboth_historic_sites_booklet.pdf<PER_name>https://www.town.rehoboth.ma.us/sites/g/files/vyhlif4911/f/uploads/rehoboth_historic_sites_booklet.pdf</PER_name></note>. Looking westward
+				<lb facs="#facs_20_tr_1_tl_20" n="N004" /><choice><expan><name n="ner" type="LOC">Observed</name></expan><abbr><name n="ner" type="PER">Obs</name></abbr></choice>. from Providence-Taunton Pike<note><name n="ner" type="MISC">US44</name> zw. <name n="ner" type="ORG">Providence</name> und <name n="ner" type="LOC">Taunton</name> (<name n="ner" type="LOC">https://en.wikipedia.org/wiki/U.S._Route_44#Massachusetts</name>)</note>
+				<lb facs="#facs_20_tr_1_tl_21" n="N005" />at a point just <choice><expan><name n="ner" type="LOC">northeast</name></expan><abbr>N.<subst rend="overwritten"><del>W</del><add><name n="ner" type="LOC">E</name></add></subst>.</abbr></choice> from Nichol’s
+				<lb facs="#facs_20_tr_1_tl_22" n="N006" />Crossing<note><name n="ner" type="LOC">Vmtl</name>. diese Kreuzung: https://maps.app.goo.gl/R1M9gbk2RM6WTS5Q8 <name n="ner" type="LOC">Vgl</name>. <name n="ner" type="PER">https://www.town.rehoboth.ma.us/sites/g/files/vyhlif4911/f/uploads/rehoboth_historic_sites_booklet.pdf</name></note>. Looking westward
 			</p>
 			<pb facs="#facs_21" n="21" />
 			<p facs="#facs_21_region_1729668962254_248">
@@ -1562,9 +1562,9 @@
 				<lb facs="#facs_21_tr_1_tl_2" n="N001" />ι
 				<lb facs="#facs_21_line_1729669101555_297" n="N002" />θ
 				<lb facs="#facs_21_line_1729669105597_302" n="N003" />ζ
-				<lb facs="#facs_21_line_1729669109416_307" n="N004" />ρ<note><LOC_name>Evtl</LOC_name>. liegt eine Verwechslung mit η vor.</note>
+				<lb facs="#facs_21_line_1729669109416_307" n="N004" />ρ<note><name n="ner" type="LOC">Evtl</name>. liegt eine Verwechslung mit η vor.</note>
 				<lb facs="#facs_21_tr_1_tl_3" n="N005" />Position of Head
-				<lb facs="#facs_21_tr_1_tl_5" n="N006" />in <name ref="https://www.wikidata.org/wiki/Q10578" type="constellation"><LOC_name>Hydra</LOC_name></name>
+				<lb facs="#facs_21_tr_1_tl_5" n="N006" />in <name ref="https://www.wikidata.org/wiki/Q10578" type="constellation"><name n="ner" type="LOC">Hydra</name></name>
 			</p>
 			<p facs="#facs_21_TextRegion_1729669022242_273">
 				<lb facs="#facs_21_line_1729669020367_271" n="N001" /><date when="1911">1911</date>
@@ -1576,16 +1576,16 @@
 				<lb facs="#facs_21_tr_1_tl_8" n="N001" /><date when="1912">1912</date>
 			</p>
 			<p facs="#facs_21_TextRegion_1729669156460_323">
-				<lb facs="#facs_21_tr_1_tl_11" n="N001" /><date when="1912-02-01"><hi rend="underline"><choice><expan><PER_name>February</PER_name></expan><abbr><LOC_name>Febr</LOC_name>.</abbr></choice> 1</hi><hi rend="superscript"><LOC_name>st.</LOC_name></hi></date> <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Observ’d</PER_name></abbr></choice> a lunar halo
-				<lb facs="#facs_21_tr_1_tl_13" n="N002" />at about 6:30 p.m. <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name> 1<choice><expan>day</expan><abbr>d.</abbr></choice> of full
+				<lb facs="#facs_21_tr_1_tl_11" n="N001" /><date when="1912-02-01"><hi rend="underline"><choice><expan><name n="ner" type="PER">February</name></expan><abbr><name n="ner" type="LOC">Febr</name>.</abbr></choice> 1</hi><hi rend="superscript"><name n="ner" type="LOC">st.</name></hi></date> <choice><expan><name n="ner" type="LOC">Observed</name></expan><abbr><name n="ner" type="PER">Observ’d</name></abbr></choice> a lunar halo
+				<lb facs="#facs_21_tr_1_tl_13" n="N002" />at about 6:30 p.m. <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><name n="ner" type="ORG">☽</name></orig><reg><name n="ner" type="ORG">Moon</name></reg></choice></name> 1<choice><expan>day</expan><abbr>d.</abbr></choice> of full
 				<lb facs="#facs_21_tr_1_tl_14" n="N003" />Halo was of about 4<subst rend="overwritten"><del><gap unit="char" quantity="1" reason="deleted" /></del><add>5</add></subst>° diameter,
 				<lb facs="#facs_21_tr_1_tl_16" n="N004" />with rather noticeable <term ref="https://en.wikipedia.org/wiki/Moon_dog" key="paraselenae">paraselenae</term>
 				<lb facs="#facs_21_tr_1_tl_17" n="N005" />on an horizontal line with the
 				<lb facs="#facs_21_tr_1_tl_18" n="N006" /><name ref="https://www.wikidata.org/wiki/Q405" type="moon">moon</name>. No prismatic colours
 				<lb facs="#facs_21_tr_1_tl_19" n="N007" />were apparent. The left hand
 				<lb facs="#facs_21_tr_1_tl_20" n="N008" />(northern) <term ref="https://en.wikipedia.org/wiki/Moon_dog" key="paraselenae">paraselena</term> was
-				<lb facs="#facs_21_tr_1_tl_21" n="N009" />more or <choice><orig><LOC_name>leſs</LOC_name></orig><reg><MISC_name>less</MISC_name></reg></choice> <choice><expan>obscured</expan><abbr>obscur’d</abbr></choice> by clouds
-				<lb facs="#facs_21_tr_1_tl_22" n="N010" />and <choice><expan><PER_name>appeared</PER_name></expan><abbr>appear’d</abbr></choice> only at intervals.
+				<lb facs="#facs_21_tr_1_tl_21" n="N009" />more or <choice><orig><name n="ner" type="LOC">leſs</name></orig><reg><name n="ner" type="MISC">less</name></reg></choice> <choice><expan>obscured</expan><abbr>obscur’d</abbr></choice> by clouds
+				<lb facs="#facs_21_tr_1_tl_22" n="N010" />and <choice><expan><name n="ner" type="PER">appeared</name></expan><abbr>appear’d</abbr></choice> only at intervals.
 				<lb facs="#facs_21_tr_1_tl_23" n="N011" />The right-hand <term ref="https://en.wikipedia.org/wiki/Moon_dog" key="mock-moon → cf. paraselenae">mock-moon</term>
 				<lb facs="#facs_21_tr_1_tl_24" n="N012" />was prominent, and attracted
 				<lb facs="#facs_21_tr_1_tl_25" n="N013" />much attention. The two
@@ -1596,19 +1596,19 @@
 				<lb facs="#facs_22_line_1729669404552_411" n="N001" />4
 			</p>
 			<p facs="#facs_22_TextRegion_1729669454897_434">
-				<lb facs="#facs_22_tr_1_tl_1" n="N001" /><hi rend="underline"><date when="1912-02-01"><choice><expan><PER_name>February</PER_name></expan><abbr>Feb.</abbr></choice> 1, 1912</date>, Continued</hi>
+				<lb facs="#facs_22_tr_1_tl_1" n="N001" /><hi rend="underline"><date when="1912-02-01"><choice><expan><name n="ner" type="PER">February</name></expan><abbr>Feb.</abbr></choice> 1, 1912</date>, Continued</hi>
 			</p>
 			<p facs="#facs_22_TextRegion_1730130501206_271">
 				<lb facs="#facs_22_tr_1_tl_4" n="N001" /><choice><expan>diffused</expan><abbr>diffus’d</abbr></choice> patches of light.
 			</p>
 			<p facs="#facs_22_TextRegion_1730205974666_439">
 				<lb facs="#facs_22_tr_1_tl_5" n="N001" />This part of halo most prominent<choice><sic> </sic><corr>.</corr></choice>
-				<lb facs="#facs_22_tr_1_tl_6" n="N002" /><choice><expan><LOC_name>North</LOC_name></expan><abbr>N.</abbr></choice>
+				<lb facs="#facs_22_tr_1_tl_6" n="N002" /><choice><expan><name n="ner" type="LOC">North</name></expan><abbr>N.</abbr></choice>
 				<lb facs="#facs_22_tr_1_tl_8" n="N003" /><term ref="https://en.wikipedia.org/wiki/Moon_dog" key="paraselenae">Paraselena</term>
 				<lb facs="#facs_22_tr_1_tl_11" n="N004" />(faint <g ref="#hpl-and-sign">+</g> visible
 				<lb facs="#facs_22_tr_1_tl_13" n="N005" />only at intervals)
-				<lb facs="#facs_22_tr_1_tl_7" n="N006" /><name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name>
-				<lb facs="#facs_22_line_1729682603147_50" n="N007" /><choice><expan><LOC_name>South</LOC_name></expan><abbr>S.</abbr></choice>
+				<lb facs="#facs_22_tr_1_tl_7" n="N006" /><name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><name n="ner" type="ORG">☽</name></orig><reg><name n="ner" type="ORG">Moon</name></reg></choice></name>
+				<lb facs="#facs_22_line_1729682603147_50" n="N007" /><choice><expan><name n="ner" type="LOC">South</name></expan><abbr>S.</abbr></choice>
 				<lb facs="#facs_22_tr_1_tl_9" n="N008" /><term ref="https://en.wikipedia.org/wiki/Moon_dog" key="paraselenae">Paraselena</term>
 				<lb facs="#facs_22_tr_1_tl_12" n="N009" />(Prominent -
 				<lb facs="#facs_22_tr_1_tl_14" n="N010" />attracted much attention<choice><sic> </sic><corr>)</corr></choice>
@@ -1624,9 +1624,9 @@
 				<lb facs="#facs_23_line_1729669642063_482" n="N001" /><subst rend="overwritten"><del><unclear>8</unclear></del><add>5</add></subst>
 			</p>
 			<p facs="#facs_23_TextRegion_1729669694013_517">
-				<lb facs="#facs_23_line_1730132427324_360" n="N001" /><hi rend="underline"><date when="1912-10-19"><choice><expan>October</expan><abbr>Oct<hi rend="superscript">r.</hi></abbr></choice><hi rend="underline"> 19</hi></date></hi>, 11:00p.m. <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs</PER_name>.</abbr></choice> <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name>, 2<choice><expan>days</expan><abbr>d.</abbr></choice> <choice><expan>gibbous</expan><abbr>gib’s</abbr></choice>.
-				<lb facs="#facs_23_tr_1_tl_4" n="N002" /><name ref="https://www.wikidata.org/wiki/Q1131154" type="lunar_crater"><PER_name>Copernicus</PER_name></name> on <term ref="https://en.wikipedia.org/wiki/Terminator_(solar)" key="terminator (line)">terminator</term>.
-				<lb facs="#facs_23_tr_1_tl_5" n="N003" /><name ref="https://www.wikidata.org/wiki/Q631696" type="lunar_crater">Tycho</name>, <name ref="https://www.wikidata.org/wiki/Q1099137" type="lunar_crater"><PER_name>Clavius</PER_name></name> <g ref="#hpl-and-sign">+</g> <name ref="https://www.wikidata.org/wiki/Q1429041" type="lunar_crater"><PER_name>Maginus</PER_name></name> were
+				<lb facs="#facs_23_line_1730132427324_360" n="N001" /><hi rend="underline"><date when="1912-10-19"><choice><expan>October</expan><abbr>Oct<hi rend="superscript">r.</hi></abbr></choice><hi rend="underline"> 19</hi></date></hi>, 11:00p.m. <choice><expan><name n="ner" type="LOC">Observed</name></expan><abbr><name n="ner" type="PER">Obs</name>.</abbr></choice> <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><name n="ner" type="ORG">☽</name></orig><reg><name n="ner" type="ORG">Moon</name></reg></choice></name>, 2<choice><expan>days</expan><abbr>d.</abbr></choice> <choice><expan>gibbous</expan><abbr>gib’s</abbr></choice>.
+				<lb facs="#facs_23_tr_1_tl_4" n="N002" /><name ref="https://www.wikidata.org/wiki/Q1131154" type="lunar_crater"><name n="ner" type="PER">Copernicus</name></name> on <term ref="https://en.wikipedia.org/wiki/Terminator_(solar)" key="terminator (line)">terminator</term>.
+				<lb facs="#facs_23_tr_1_tl_5" n="N003" /><name ref="https://www.wikidata.org/wiki/Q631696" type="lunar_crater">Tycho</name>, <name ref="https://www.wikidata.org/wiki/Q1099137" type="lunar_crater"><name n="ner" type="PER">Clavius</name></name> <g ref="#hpl-and-sign">+</g> <name ref="https://www.wikidata.org/wiki/Q1429041" type="lunar_crater"><name n="ner" type="PER">Maginus</name></name> were
 				<lb facs="#facs_23_tr_1_tl_6" n="N004" />favourably situate in the
 				<lb facs="#facs_23_tr_1_tl_7" n="N005" />southern part of the disc.
 			</p>
@@ -1640,20 +1640,20 @@
 				<lb facs="#facs_23_line_1729669691295_506" n="N001" /><date when="1914">1914</date>
 			</p>
 			<p facs="#facs_23_TextRegion_1729669691257_502">
-				<lb facs="#facs_23_tr_1_tl_14" n="N001" />In <date when="1914-01"><LOC_name>January</LOC_name></date>, <name ref="https://www.wikidata.org/wiki/Q111" type="planet"><MISC_name>Mars</MISC_name></name> <g ref="#hpl-and-sign">+</g> <name ref="https://www.wikidata.org/wiki/Q193" type="planet"><ORG_name>Saturn</ORG_name></name> were
+				<lb facs="#facs_23_tr_1_tl_14" n="N001" />In <date when="1914-01"><name n="ner" type="LOC">January</name></date>, <name ref="https://www.wikidata.org/wiki/Q111" type="planet"><name n="ner" type="MISC">Mars</name></name> <g ref="#hpl-and-sign">+</g> <name ref="https://www.wikidata.org/wiki/Q193" type="planet"><name n="ner" type="ORG">Saturn</name></name> were
 				<lb facs="#facs_23_tr_1_tl_15" n="N002" />observed.
 			</p>
 			<p facs="#facs_23_TextRegion_1729669690077_498">
-				<lb facs="#facs_23_tr_1_tl_17" n="N001" /><date when="1914-02-26"><hi rend="underline"><choice><expan><PER_name>February</PER_name></expan><abbr>Feb.</abbr></choice> 26</hi></date>, 6:<hi rend="superscript">h</hi> 15<hi rend="superscript">m</hi> p.m. <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs</PER_name>.</abbr></choice> <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name>, 2<choice><expan>days</expan><abbr>d.</abbr></choice> old,
-				<lb facs="#facs_23_tr_1_tl_18" n="N002" />and <name ref="https://www.wikidata.org/wiki/Q308" type="planet"><choice><orig><MISC_name>☿</MISC_name></orig><reg><MISC_name>Mercury</MISC_name></reg></choice></name>.
-				<lb facs="#facs_23_tr_1_tl_19" n="N003" /><name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name>'s crescent very thin. Earthshine
+				<lb facs="#facs_23_tr_1_tl_17" n="N001" /><date when="1914-02-26"><hi rend="underline"><choice><expan><name n="ner" type="PER">February</name></expan><abbr>Feb.</abbr></choice> 26</hi></date>, 6:<hi rend="superscript">h</hi> 15<hi rend="superscript">m</hi> p.m. <choice><expan><name n="ner" type="LOC">Observed</name></expan><abbr><name n="ner" type="PER">Obs</name>.</abbr></choice> <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><name n="ner" type="ORG">☽</name></orig><reg><name n="ner" type="ORG">Moon</name></reg></choice></name>, 2<choice><expan>days</expan><abbr>d.</abbr></choice> old,
+				<lb facs="#facs_23_tr_1_tl_18" n="N002" />and <name ref="https://www.wikidata.org/wiki/Q308" type="planet"><choice><orig><name n="ner" type="MISC">☿</name></orig><reg><name n="ner" type="MISC">Mercury</name></reg></choice></name>.
+				<lb facs="#facs_23_tr_1_tl_19" n="N003" /><name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><name n="ner" type="ORG">☽</name></orig><reg><name n="ner" type="ORG">Moon</name></reg></choice></name>'s crescent very thin. Earthshine
 				<lb facs="#facs_23_tr_1_tl_20" n="N004" />visible even in strong twilight.
-				<lb facs="#facs_23_tr_1_tl_21" n="N005" /><name ref="https://www.wikidata.org/wiki/Q308" type="planet"><choice><orig><MISC_name>☿</MISC_name></orig><reg><MISC_name>Mercury</MISC_name></reg></choice></name> appeared about 5° below and to
-				<lb facs="#facs_23_tr_1_tl_22" n="N006" />the right of <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name>, twinkling like a
+				<lb facs="#facs_23_tr_1_tl_21" n="N005" /><name ref="https://www.wikidata.org/wiki/Q308" type="planet"><choice><orig><name n="ner" type="MISC">☿</name></orig><reg><name n="ner" type="MISC">Mercury</name></reg></choice></name> appeared about 5° below and to
+				<lb facs="#facs_23_tr_1_tl_22" n="N006" />the right of <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><name n="ner" type="ORG">☽</name></orig><reg><name n="ner" type="ORG">Moon</name></reg></choice></name>, twinkling like a
 				<lb facs="#facs_23_tr_1_tl_23" n="N007" />bright star in the increasing
 				<lb facs="#facs_23_tr_1_tl_24" n="N008" />dusk.
-				<lb facs="#facs_23_tr_1_tl_26" n="N009" /><name ref="https://www.wikidata.org/wiki/Q405" type="moon">☽<MISC_name>☽</MISC_name>︎<LOC_name>︎</LOC_name></name> <term ref="https://en.wikipedia.org/wiki/Right_ascension" key="right ascension (R.A.)"><PER_name>R.A.</PER_name></term> 23<hi rend="superscript">h</hi> 56<hi rend="superscript">m</hi> <term ref="https://en.wikipedia.org/wiki/Declination" key="declination (Dec. / Decl.)"><ORG_name>Dec</ORG_name></term> +1°
-				<lb facs="#facs_23_tr_1_tl_32" n="N010" /><name ref="https://www.wikidata.org/wiki/Q308" type="planet"><MISC_name>☿</MISC_name></name> <term ref="https://en.wikipedia.org/wiki/Right_ascension" key="right ascension (R.A.)"><PER_name>R.A.</PER_name></term> 23<hi rend="superscript">h</hi> 35<hi rend="superscript">m</hi> <term ref="https://en.wikipedia.org/wiki/Declination" key="declination (Dec. / Decl.)"><ORG_name>Dec</ORG_name></term> -0° 3'
+				<lb facs="#facs_23_tr_1_tl_26" n="N009" /><name ref="https://www.wikidata.org/wiki/Q405" type="moon"><name n="ner" type="MISC">☽</name><name n="ner" type="LOC">︎</name></name> <term ref="https://en.wikipedia.org/wiki/Right_ascension" key="right ascension (R.A.)"><name n="ner" type="PER">R.A.</name></term> 23<hi rend="superscript">h</hi> 56<hi rend="superscript">m</hi> <term ref="https://en.wikipedia.org/wiki/Declination" key="declination (Dec. / Decl.)"><name n="ner" type="ORG">Dec</name></term> +1°
+				<lb facs="#facs_23_tr_1_tl_32" n="N010" /><name ref="https://www.wikidata.org/wiki/Q308" type="planet"><name n="ner" type="MISC">☿</name></name> <term ref="https://en.wikipedia.org/wiki/Right_ascension" key="right ascension (R.A.)"><name n="ner" type="PER">R.A.</name></term> 23<hi rend="superscript">h</hi> 35<hi rend="superscript">m</hi> <term ref="https://en.wikipedia.org/wiki/Declination" key="declination (Dec. / Decl.)"><name n="ner" type="ORG">Dec</name></term> -0° 3'
 				<lb facs="#facs_23_tr_1_tl_34" n="N011" />The above position very rough.
 			</p>
 			<pb facs="#facs_24" n="24" />
@@ -1661,22 +1661,22 @@
 				<lb facs="#facs_24_line_1730133630290_447" n="N001" />6
 			</p>
 			<p facs="#facs_24_TextRegion_1729682841075_153">
-				<lb facs="#facs_24_tr_1_tl_1" n="N001" /><hi rend="underline"><date when="1914-02-26"><choice><expan><PER_name>February</PER_name></expan><abbr><LOC_name>Febr</LOC_name>.</abbr></choice> 26, 1914</date>, Continued</hi>
+				<lb facs="#facs_24_tr_1_tl_1" n="N001" /><hi rend="underline"><date when="1914-02-26"><choice><expan><name n="ner" type="PER">February</name></expan><abbr><name n="ner" type="LOC">Febr</name>.</abbr></choice> 26, 1914</date>, Continued</hi>
 			</p>
 			<p facs="#facs_24_TextRegion_1729682896504_178">
-				<lb facs="#facs_24_tr_1_tl_4" n="N001" />The <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><ORG_name>Moon</ORG_name></name> was almost at the
+				<lb facs="#facs_24_tr_1_tl_4" n="N001" />The <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><name n="ner" type="ORG">Moon</name></name> was almost at the
 				<lb facs="#facs_24_tr_1_tl_6" n="N002" />Vernal Equinox.
 			</p>
 			<p facs="#facs_24_TextRegion_1729682911853_185">
-				<lb facs="#facs_24_tr_1_tl_7" n="N001" /><name ref="https://www.wikidata.org/wiki/Q308" type="planet"><choice><orig><MISC_name>☿</MISC_name></orig><reg><MISC_name>Mercury</MISC_name></reg></choice></name>
-				<lb facs="#facs_24_tr_1_tl_10" n="N002" />View looking <choice><expan><LOC_name>northwest</LOC_name></expan><abbr>N.W.</abbr></choice>
-				<lb facs="#facs_24_tr_1_tl_11" n="N003" />Earlier in the day the <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><ORG_name>Moon</ORG_name></name>
-				<lb facs="#facs_24_tr_1_tl_12" n="N004" />and <name ref="https://www.wikidata.org/wiki/Q308" type="planet"><MISC_name>Mercury</MISC_name></name> had been in
+				<lb facs="#facs_24_tr_1_tl_7" n="N001" /><name ref="https://www.wikidata.org/wiki/Q308" type="planet"><choice><orig><name n="ner" type="MISC">☿</name></orig><reg><name n="ner" type="MISC">Mercury</name></reg></choice></name>
+				<lb facs="#facs_24_tr_1_tl_10" n="N002" />View looking <choice><expan><name n="ner" type="LOC">northwest</name></expan><abbr>N.W.</abbr></choice>
+				<lb facs="#facs_24_tr_1_tl_11" n="N003" />Earlier in the day the <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><name n="ner" type="ORG">Moon</name></name>
+				<lb facs="#facs_24_tr_1_tl_12" n="N004" />and <name ref="https://www.wikidata.org/wiki/Q308" type="planet"><name n="ner" type="MISC">Mercury</name></name> had been in
 				<lb facs="#facs_24_tr_1_tl_13" n="N005" />conjunction.
 			</p>
 			<p facs="#facs_24_TextRegion_1729682911853_184">
-				<lb facs="#facs_24_tr_1_tl_14" n="N001" /><hi rend="underline"><date when="1914-03-11"><MISC_name>March 11</MISC_name></date>-<date when="1914-03-12">12</date></hi> <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs</PER_name>.</abbr></choice> partial
-				<lb facs="#facs_24_tr_1_tl_16" n="N002" />eclipse of <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name>. Over 0.9 of disc
+				<lb facs="#facs_24_tr_1_tl_14" n="N001" /><hi rend="underline"><date when="1914-03-11"><name n="ner" type="MISC">March 11</name></date>-<date when="1914-03-12">12</date></hi> <choice><expan><name n="ner" type="LOC">Observed</name></expan><abbr><name n="ner" type="PER">Obs</name>.</abbr></choice> partial
+				<lb facs="#facs_24_tr_1_tl_16" n="N002" />eclipse of <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><name n="ner" type="ORG">☽</name></orig><reg><name n="ner" type="ORG">Moon</name></reg></choice></name>. Over 0.9 of disc
 				<lb facs="#facs_24_tr_1_tl_17" n="N003" />eclipsed. Very well seen.
 			</p>
 			<pb facs="#facs_25" n="25" />
@@ -1684,21 +1684,21 @@
 				<lb facs="#facs_25_line_1729682996806_213" n="N001" /><subst rend="overwritten"><del>9</del><add>7</add></subst>
 			</p>
 			<p facs="#facs_25_TextRegion_1729683091510_240">
-				<lb facs="#facs_25_tr_1_tl_1" n="N001" /><hi rend="underline"><date when="1914-09-16"><choice><expan>September</expan><abbr><LOC_name>Septr</LOC_name>.</abbr></choice> 16</date> -</hi> 4 a.m. to dawn -
-				<lb facs="#facs_25_tr_1_tl_3" n="N002" /><choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs</PER_name>.</abbr></choice> <hi rend="underline"><name type="comet"><PER_name>Delavan’s Comet</PER_name></name></hi>
+				<lb facs="#facs_25_tr_1_tl_1" n="N001" /><hi rend="underline"><date when="1914-09-16"><choice><expan>September</expan><abbr><name n="ner" type="LOC">Septr</name>.</abbr></choice> 16</date> -</hi> 4 a.m. to dawn -
+				<lb facs="#facs_25_tr_1_tl_3" n="N002" /><choice><expan><name n="ner" type="LOC">Observed</name></expan><abbr><name n="ner" type="PER">Obs</name>.</abbr></choice> <hi rend="underline"><name type="comet"><name n="ner" type="PER">Delavan’s Comet</name></name></hi>
 				<lb facs="#facs_25_tr_1_tl_4" n="N003" /><g ref="#hpl-and-sign">+</g>heavens in general.
-				<lb facs="#facs_25_tr_1_tl_5" n="N004" /><name type="comet"><PER_name>Delavan’s Comet</PER_name></name> lay in <term ref="https://en.wikipedia.org/wiki/Right_ascension" key="right ascension (R.A.)"><PER_name>R.A.</PER_name></term>
-				<lb facs="#facs_25_tr_1_tl_8" n="N005" />10<hi rend="superscript">h</hi> 08<hi rend="superscript">m</hi> 06<hi rend="superscript">s</hi>., <term ref="https://en.wikipedia.org/wiki/Declination" key="declination (Dec. / Decl.)"><ORG_name>Dec</ORG_name>.</term> 49° 51' 14"
-				<lb facs="#facs_25_tr_1_tl_10" n="N006" />in <name ref="https://www.wikidata.org/wiki/Q8918" type="constellation"><PER_name>Ursa Major</PER_name></name>, as shown by diagram.
+				<lb facs="#facs_25_tr_1_tl_5" n="N004" /><name type="comet"><name n="ner" type="PER">Delavan’s Comet</name></name> lay in <term ref="https://en.wikipedia.org/wiki/Right_ascension" key="right ascension (R.A.)"><name n="ner" type="PER">R.A.</name></term>
+				<lb facs="#facs_25_tr_1_tl_8" n="N005" />10<hi rend="superscript">h</hi> 08<hi rend="superscript">m</hi> 06<hi rend="superscript">s</hi>., <term ref="https://en.wikipedia.org/wiki/Declination" key="declination (Dec. / Decl.)"><name n="ner" type="ORG">Dec</name>.</term> 49° 51' 14"
+				<lb facs="#facs_25_tr_1_tl_10" n="N006" />in <name ref="https://www.wikidata.org/wiki/Q8918" type="constellation"><name n="ner" type="PER">Ursa Major</name></name>, as shown by diagram.
 			</p>
 			<p facs="#facs_25_TextRegion_1729683102294_245">
-				<lb facs="#facs_25_tr_1_tl_12" n="N001" /><name ref="https://www.wikidata.org/wiki/Q10460" type="asterism"><PER_name>Plough</PER_name></name>
+				<lb facs="#facs_25_tr_1_tl_12" n="N001" /><name ref="https://www.wikidata.org/wiki/Q10460" type="asterism"><name n="ner" type="PER">Plough</name></name>
 				<lb facs="#facs_25_tr_1_tl_11" n="N002" />Comet
 				<lb facs="#facs_25_tr_1_tl_18" n="N003" />Northeast Horizon
 			</p>
 			<p facs="#facs_25_TextRegion_1729683102294_244">
 				<lb facs="#facs_25_tr_1_tl_19" n="N001" />It had about the brightness of a
-				<lb facs="#facs_25_tr_1_tl_20" n="N002" />star of the 4th. <term ref="https://en.wikipedia.org/wiki/Apparent_magnitude" key="mag (Apparent magnitude)"><LOC_name>magnitude</LOC_name></term>,
+				<lb facs="#facs_25_tr_1_tl_20" n="N002" />star of the 4th. <term ref="https://en.wikipedia.org/wiki/Apparent_magnitude" key="mag (Apparent magnitude)"><name n="ner" type="LOC">magnitude</name></term>,
 				<lb facs="#facs_25_tr_1_tl_21" n="N003" />appearing to the naked eye, as a
 				<lb facs="#facs_25_tr_1_tl_22" n="N004" />blurred spot of light; rather faint,
 				<lb facs="#facs_25_tr_1_tl_23" n="N005" />yet easily visible. In the opera
@@ -1709,16 +1709,16 @@
 				<lb facs="#facs_26_line_1729683149410_275" n="N001" />8
 			</p>
 			<p facs="#facs_26_TextRegion_1729683160601_287">
-				<lb facs="#facs_26_tr_1_tl_1" n="N001" />into a star-like <term ref="https://en.wikipedia.org/wiki/Comet_nucleus" key="nucleus (comet)"><PER_name>nucleus</PER_name></term>, a bright
-				<lb facs="#facs_26_tr_1_tl_2" n="N002" /><term ref="https://en.wikipedia.org/wiki/Coma_(comet)" key="coma (comet)"><LOC_name>coma</LOC_name></term>, <g ref="#hpl-and-sign">+</g> a short, broad tail. In the
+				<lb facs="#facs_26_tr_1_tl_1" n="N001" />into a star-like <term ref="https://en.wikipedia.org/wiki/Comet_nucleus" key="nucleus (comet)"><name n="ner" type="PER">nucleus</name></term>, a bright
+				<lb facs="#facs_26_tr_1_tl_2" n="N002" /><term ref="https://en.wikipedia.org/wiki/Coma_(comet)" key="coma (comet)"><name n="ner" type="LOC">coma</name></term>, <g ref="#hpl-and-sign">+</g> a short, broad tail. In the
 				<lb facs="#facs_26_tr_1_tl_3" n="N003" />prism binoculars these details were
 				<lb facs="#facs_26_tr_1_tl_4" n="N004" />better seen, whilst in the 3" telescope
 				<lb facs="#facs_26_tr_1_tl_5" n="N005" />with powers of 50 <g ref="#hpl-and-sign">+</g> 100 the comet
 				<lb facs="#facs_26_tr_1_tl_6" n="N006" />was indeed a beautiful sight.
-				<lb facs="#facs_26_tr_1_tl_7" n="N007" />A small <unclear><LOC_name>telescope</LOC_name></unclear> star could
+				<lb facs="#facs_26_tr_1_tl_7" n="N007" />A small <unclear><name n="ner" type="LOC">telescope</name></unclear> star could
 				<lb facs="#facs_26_tr_1_tl_8" n="N008" />at that time be seen shining through
 				<lb facs="#facs_26_tr_1_tl_9" n="N009" />the faint luminosity of the tail.
-				<lb facs="#facs_26_tr_1_tl_10" n="N010" />The best view was with 3" <choice><expan><LOC_name>telescope</LOC_name></expan><abbr><LOC_name>tel</LOC_name>.</abbr></choice>
+				<lb facs="#facs_26_tr_1_tl_10" n="N010" />The best view was with 3" <choice><expan><name n="ner" type="LOC">telescope</name></expan><abbr><name n="ner" type="LOC">tel</name>.</abbr></choice>
 				<lb facs="#facs_26_tr_1_tl_11" n="N011" /><choice><expan>terrestrial</expan><abbr>terr.</abbr></choice> Eyepiece 50 diameters.
 			</p>
 			<p facs="#facs_26_TextRegion_1729683159134_282">
@@ -1732,26 +1732,26 @@
 				<lb facs="#facs_27_line_1729683217070_307" n="N001" /><subst rend="overwritten"><del>10</del><add>9</add></subst>
 			</p>
 			<p facs="#facs_27_TextRegion_1729683253256_320">
-				<lb facs="#facs_27_tr_1_tl_1" n="N001" />At this same time <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name> was a
+				<lb facs="#facs_27_tr_1_tl_1" n="N001" />At this same time <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><name n="ner" type="ORG">☽</name></orig><reg><name n="ner" type="ORG">Moon</name></reg></choice></name> was a
 				<lb facs="#facs_27_tr_1_tl_2" n="N002" />beautiful crescent 3<choice><expan>days</expan><abbr>d.</abbr></choice> before new.
 				<lb facs="#facs_27_tr_1_tl_3" n="N003" />Earthshine very powerful: Could see
-				<lb facs="#facs_27_tr_1_tl_4" n="N004" />Maria <name ref="https://www.wikidata.org/wiki/Q168416" type="lunar_mare"><ORG_name>Crisium</ORG_name></name>, <name ref="https://www.wikidata.org/wiki/Q169625" type="lunar_mare"><choice><expan><LOC_name>Serenitatis</LOC_name></expan><abbr>Seren.</abbr></choice></name> <name ref="https://www.wikidata.org/wiki/Q320936" type="lunar_mare"><choice><expan><PER_name>Tranquillitatis</PER_name></expan><abbr><LOC_name>Tranq</LOC_name>.</abbr></choice></name>
-				<lb facs="#facs_27_tr_1_tl_5" n="N005" /><name ref="https://www.wikidata.org/wiki/Q26210" type="lunar_mare"><choice><sic><PER_name>Fcec</PER_name>.</sic><corr><choice><abbr><PER_name>Fec</PER_name>.</abbr><expan><PER_name>Fecunditatis</PER_name></expan></choice></corr></choice></name> <name ref="https://www.wikidata.org/wiki/Q210964" type="lunar_mare"><choice><expan><PER_name>Nectaris</PER_name></expan><abbr><PER_name>Nect</PER_name>.</abbr></choice></name> very plainly on dark
+				<lb facs="#facs_27_tr_1_tl_4" n="N004" />Maria <name ref="https://www.wikidata.org/wiki/Q168416" type="lunar_mare"><name n="ner" type="ORG">Crisium</name></name>, <name ref="https://www.wikidata.org/wiki/Q169625" type="lunar_mare"><choice><expan><name n="ner" type="LOC">Serenitatis</name></expan><abbr>Seren.</abbr></choice></name> <name ref="https://www.wikidata.org/wiki/Q320936" type="lunar_mare"><choice><expan><name n="ner" type="PER">Tranquillitatis</name></expan><abbr><name n="ner" type="LOC">Tranq</name>.</abbr></choice></name>
+				<lb facs="#facs_27_tr_1_tl_5" n="N005" /><name ref="https://www.wikidata.org/wiki/Q26210" type="lunar_mare"><choice><sic><name n="ner" type="PER">Fcec</name>.</sic><corr><choice><abbr><name n="ner" type="PER">Fec</name>.</abbr><expan><name n="ner" type="PER">Fecunditatis</name></expan></choice></corr></choice></name> <name ref="https://www.wikidata.org/wiki/Q210964" type="lunar_mare"><choice><expan><name n="ner" type="PER">Nectaris</name></expan><abbr><name n="ner" type="PER">Nect</name>.</abbr></choice></name> very plainly on dark
 				<lb facs="#facs_27_tr_1_tl_6" n="N006" />part of disc.
-				<lb facs="#facs_27_tr_1_tl_7" n="N007" /><name ref="https://www.wikidata.org/wiki/Q2234212" type="lunar_crater"><ORG_name>Schickard</ORG_name></name> on <term ref="https://en.wikipedia.org/wiki/Terminator_(solar)" key="terminator (line)">terminator</term> - fine
-				<lb facs="#facs_27_tr_1_tl_8" n="N008" />sight. <name ref="https://www.wikidata.org/wiki/Q1408928" type="lunar_crater"><PER_name>Grimaldi</PER_name></name> visible - very dark.
-				<lb facs="#facs_27_tr_1_tl_9" n="N009" /><name ref="https://www.wikidata.org/wiki/Q193" type="planet"><ORG_name>Saturn</ORG_name></name> also fine object.
-				<lb facs="#facs_27_tr_1_tl_10" n="N010" />Winter stars fully in view - <name ref="https://www.wikidata.org/wiki/Q8860" type="constellation"><PER_name>Orion</PER_name></name>,
-				<lb facs="#facs_27_tr_1_tl_11" n="N011" /><name ref="https://www.wikidata.org/wiki/Q10538" type="constellation"><PER_name>Canis Major</PER_name></name>, <unclear>+c</unclear>. <name ref="https://www.wikidata.org/wiki/Q13903" type="nebula"><PER_name>Orion's</PER_name> nebula</name>
+				<lb facs="#facs_27_tr_1_tl_7" n="N007" /><name ref="https://www.wikidata.org/wiki/Q2234212" type="lunar_crater"><name n="ner" type="ORG">Schickard</name></name> on <term ref="https://en.wikipedia.org/wiki/Terminator_(solar)" key="terminator (line)">terminator</term> - fine
+				<lb facs="#facs_27_tr_1_tl_8" n="N008" />sight. <name ref="https://www.wikidata.org/wiki/Q1408928" type="lunar_crater"><name n="ner" type="PER">Grimaldi</name></name> visible - very dark.
+				<lb facs="#facs_27_tr_1_tl_9" n="N009" /><name ref="https://www.wikidata.org/wiki/Q193" type="planet"><name n="ner" type="ORG">Saturn</name></name> also fine object.
+				<lb facs="#facs_27_tr_1_tl_10" n="N010" />Winter stars fully in view - <name ref="https://www.wikidata.org/wiki/Q8860" type="constellation"><name n="ner" type="PER">Orion</name></name>,
+				<lb facs="#facs_27_tr_1_tl_11" n="N011" /><name ref="https://www.wikidata.org/wiki/Q10538" type="constellation"><name n="ner" type="PER">Canis Major</name></name>, <unclear>+c</unclear>. <name ref="https://www.wikidata.org/wiki/Q13903" type="nebula"><name n="ner" type="PER">Orion's</name> nebula</name>
 				<lb facs="#facs_27_tr_1_tl_12" n="N012" />very beautiful in 3" with <choice><expan>power</expan><abbr>pr.</abbr></choice> 50
 			</p>
 			<p facs="#facs_27_TextRegion_1729683253256_319">
-				<lb facs="#facs_27_tr_1_tl_15" n="N001" /><date when="1914-09-17"><hi rend="underline"><choice><expan>September</expan><abbr><LOC_name>Septr</LOC_name>.</abbr></choice> 17</hi></date> - <choice><expan><LOC_name>Observed</LOC_name></expan><abbr><PER_name>Obs</PER_name>.</abbr></choice> <name type="comet"><PER_name>Delavan’s Comet</PER_name></name>
-				<lb facs="#facs_27_tr_1_tl_16" n="N002" />4-5 a.m. Also <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name>.
-				<lb facs="#facs_27_tr_1_tl_17" n="N003" />Earthshine on <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name> very strong,
+				<lb facs="#facs_27_tr_1_tl_15" n="N001" /><date when="1914-09-17"><hi rend="underline"><choice><expan>September</expan><abbr><name n="ner" type="LOC">Septr</name>.</abbr></choice> 17</hi></date> - <choice><expan><name n="ner" type="LOC">Observed</name></expan><abbr><name n="ner" type="PER">Obs</name>.</abbr></choice> <name type="comet"><name n="ner" type="PER">Delavan’s Comet</name></name>
+				<lb facs="#facs_27_tr_1_tl_16" n="N002" />4-5 a.m. Also <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><name n="ner" type="ORG">☽</name></orig><reg><name n="ner" type="ORG">Moon</name></reg></choice></name>.
+				<lb facs="#facs_27_tr_1_tl_17" n="N003" />Earthshine on <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><name n="ner" type="ORG">☽</name></orig><reg><name n="ner" type="ORG">Moon</name></reg></choice></name> very strong,
 				<lb facs="#facs_27_tr_1_tl_18" n="N004" />especially when rising above house top
 				<lb facs="#facs_27_tr_1_tl_19" n="N005" /><g ref="#hpl-and-sign">+</g> bright thin crescent hidden.
-				<lb facs="#facs_27_tr_1_tl_20" n="N006" />Comet appears brighter as <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><ORG_name>☽</ORG_name></orig><reg><ORG_name>Moon</ORG_name></reg></choice></name> wanes.
+				<lb facs="#facs_27_tr_1_tl_20" n="N006" />Comet appears brighter as <name ref="https://www.wikidata.org/wiki/Q405" type="moon"><choice><orig><name n="ner" type="ORG">☽</name></orig><reg><name n="ner" type="ORG">Moon</name></reg></choice></name> wanes.
 			</p>
 			<pb facs="#facs_28" n="28" />
 			<p facs="#facs_28_region_1730207296949_579">
@@ -1943,7 +1943,7 @@
 				<lb facs="#facs_182_tr_1_tl_11" n="N001" />(3) To observe all planets, etc.
 				<lb facs="#facs_182_tr_1_tl_12" n="N002" />with a large telescope when they
 				<lb facs="#facs_182_tr_1_tl_13" n="N003" />are favourably situated (at 7<hi rend="superscript">h</hi> 30<hi rend="superscript">m</hi>
-				<lb facs="#facs_182_tr_1_tl_14" n="N004" />in winter, <choice><expan><LOC_name>about</LOC_name></expan><abbr>abt.</abbr></choice> 9<hi rend="superscript">h</hi> or <choice><orig><LOC_name>leſs</LOC_name></orig><reg><MISC_name>less</MISC_name></reg></choice> in Summer,
+				<lb facs="#facs_182_tr_1_tl_14" n="N004" />in winter, <choice><expan><name n="ner" type="LOC">about</name></expan><abbr>abt.</abbr></choice> 9<hi rend="superscript">h</hi> or <choice><orig><name n="ner" type="LOC">leſs</name></orig><reg><name n="ner" type="MISC">less</name></reg></choice> in Summer,
 				<lb facs="#facs_182_tr_1_tl_15" n="N005" />supplemented by morning observations)
 			</p>
 			<p facs="#facs_182_TextRegion_1735843338042_554">
@@ -1959,7 +1959,7 @@
 				<lb facs="#facs_182_tr_1_tl_21" n="N001" />(6) To contribute a monthly
 				<lb facs="#facs_182_tr_1_tl_22" n="N002" />astronomical article of about 7 p. M.S.
 				<lb facs="#facs_182_tr_1_tl_23" n="N003" />or 4 p. type, to the Providence Evening
-				<lb facs="#facs_182_tr_1_tl_25" n="N004" />News. (Began <date when="1914-01-01"><PER_name>Jan 1</PER_name>, 1914</date>.)
+				<lb facs="#facs_182_tr_1_tl_25" n="N004" />News. (Began <date when="1914-01-01"><name n="ner" type="PER">Jan 1</name>, 1914</date>.)
 			</p>
 			<pb facs="#facs_183" n="183" />
 			<p facs="#facs_183_region_1730207569345_693">
@@ -1967,31 +1967,31 @@
 			</p>
 			<p facs="#facs_183_TextRegion_1735845394224_798">
 				<lb facs="#facs_183_tr_1_tl_2" n="N001" />Position of Residence
-				<lb facs="#facs_183_line_1735845394255_801" n="N002" />598 Angell <choice><expan>Street</expan><abbr>St.</abbr></choice>, <choice><expan><MISC_name>Providence</MISC_name></expan><abbr><LOC_name>Prov</LOC_name>.</abbr></choice>, <choice><expan><LOC_name>Rhode Island</LOC_name></expan><abbr>R.I.</abbr></choice>
+				<lb facs="#facs_183_line_1735845394255_801" n="N002" />598 Angell <choice><expan>Street</expan><abbr>St.</abbr></choice>, <choice><expan><name n="ner" type="MISC">Providence</name></expan><abbr><name n="ner" type="LOC">Prov</name>.</abbr></choice>, <choice><expan><name n="ner" type="LOC">Rhode Island</name></expan><abbr>R.I.</abbr></choice>
 			</p>
 			<p facs="#facs_183_TextRegion_1735845394224_797">
-				<lb facs="#facs_183_line_1735845546243_836" n="N001" />Latitude 41° 50' 00" <choice><expan><LOC_name>North</LOC_name></expan><abbr>N.</abbr></choice>
+				<lb facs="#facs_183_line_1735845546243_836" n="N001" />Latitude 41° 50' 00" <choice><expan><name n="ner" type="LOC">North</name></expan><abbr>N.</abbr></choice>
 				<lb facs="#facs_183_line_1735845549620_840" n="N002" />Longitude 71° 23' 09" <choice><expan>West</expan><abbr>W.</abbr></choice>
 				<lb facs="#facs_183_line_1735845553259_844" n="N003" /><choice><expan>local</expan><abbr><unclear>lo.</unclear></abbr></choice> Time 4<hi rend="superscript">h</hi> 45<hi rend="superscript">m</hi> 32.3s<hi rend="superscript">x</hi>
 				<lb facs="#facs_183_line_1735845556934_848" n="N004" />(Washington), <choice><expan>local</expan><abbr><unclear>lo.</unclear></abbr></choice> 0<hi rend="superscript">h</hi> 22<hi rend="superscript">m</hi> 43.5<hi rend="superscript">s#</hi>
-				<lb facs="#facs_183_line_1735845561174_852" n="N005" /><choice><expan><ORG_name>Difference</ORG_name></expan><abbr><PER_name>Diff</PER_name>.</abbr></choice> <choice><expan>between</expan><abbr><MISC_name>bet</MISC_name>’n</abbr></choice> <unclear><PER_name>Mn</PER_name>.</unclear> <g ref="#hpl-and-sign">+</g> <choice><expan>Standard</expan><abbr><PER_name>Stan</PER_name>.</abbr></choice> 0<hi rend="superscript">h</hi> 14<hi rend="superscript">m</hi> 27.7<hi rend="superscript">s</hi> (- <unclear>mn</unclear> to <choice><expan>standard</expan><abbr>stan</abbr></choice>)
+				<lb facs="#facs_183_line_1735845561174_852" n="N005" /><choice><expan><name n="ner" type="ORG">Difference</name></expan><abbr><name n="ner" type="PER">Diff</name>.</abbr></choice> <choice><expan>between</expan><abbr><name n="ner" type="MISC">bet</name>’n</abbr></choice> <unclear><name n="ner" type="PER">Mn</name>.</unclear> <g ref="#hpl-and-sign">+</g> <choice><expan>Standard</expan><abbr><name n="ner" type="PER">Stan</name>.</abbr></choice> 0<hi rend="superscript">h</hi> 14<hi rend="superscript">m</hi> 27.7<hi rend="superscript">s</hi> (- <unclear>mn</unclear> to <choice><expan>standard</expan><abbr>stan</abbr></choice>)
 			</p>
 			<p facs="#facs_183_TextRegion_1735845416065_812">
 				<lb facs="#facs_183_line_1735845416083_815" n="N001" />Fundamental Data
 			</p>
 			<p facs="#facs_183_TextRegion_1735845416065_811">
-				<lb facs="#facs_183_line_1735845416083_816" n="N001" />1° <choice><expan><LOC_name>Latitude</LOC_name></expan><abbr><PER_name>Lat</PER_name>.</abbr></choice> = 69.23m at 41° 50'
-				<lb facs="#facs_183_tr_1_tl_19" n="N002" />1° <choice><expan><LOC_name>Longitude</LOC_name></expan><abbr><LOC_name>Lon</LOC_name>.</abbr></choice> = 52.00m <choice><orig>"</orig><reg>at</reg></choice> <choice><orig>"</orig><reg>41° 50'</reg></choice>
+				<lb facs="#facs_183_line_1735845416083_816" n="N001" />1° <choice><expan><name n="ner" type="LOC">Latitude</name></expan><abbr><name n="ner" type="PER">Lat</name>.</abbr></choice> = 69.23m at 41° 50'
+				<lb facs="#facs_183_tr_1_tl_19" n="N002" />1° <choice><expan><name n="ner" type="LOC">Longitude</name></expan><abbr><name n="ner" type="LOC">Lon</name>.</abbr></choice> = 52.00m <choice><orig>"</orig><reg>at</reg></choice> <choice><orig>"</orig><reg>41° 50'</reg></choice>
 				<lb facs="#facs_183_tr_1_tl_24" n="N003" />1s Time =  1146.5ft <choice><orig>"</orig><reg>at</reg></choice> <choice><orig>"</orig><reg>41° 50'</reg></choice>
-				<lb facs="#facs_183_tr_1_tl_27" n="N004" />1° <choice><expan><LOC_name>Longitude</LOC_name></expan><abbr><PER_name>Lon</PER_name></abbr></choice> = (1° <choice><expan><LOC_name>Latitude</LOC_name></expan><abbr><PER_name>Lat</PER_name></abbr></choice>) (<unclear><ORG_name>cos</ORG_name>.</unclear> <choice><expan><LOC_name>Latitude</LOC_name></expan><abbr><PER_name>Lat</PER_name></abbr></choice>)
+				<lb facs="#facs_183_tr_1_tl_27" n="N004" />1° <choice><expan><name n="ner" type="LOC">Longitude</name></expan><abbr><name n="ner" type="PER">Lon</name></abbr></choice> = (1° <choice><expan><name n="ner" type="LOC">Latitude</name></expan><abbr><name n="ner" type="PER">Lat</name></abbr></choice>) (<unclear><name n="ner" type="ORG">cos</name>.</unclear> <choice><expan><name n="ner" type="LOC">Latitude</name></expan><abbr><name n="ner" type="PER">Lat</name></abbr></choice>)
 			</p>
 			<p facs="#facs_183_TextRegion_1735845410091_805">
 				<lb facs="#facs_183_line_1735845410107_808" n="N001" />Remarks
 			</p>
 			<p facs="#facs_183_TextRegion_1735845410091_804">
-				<lb facs="#facs_183_tr_1_tl_29" n="N001" />To <unclear><ORG_name>red</ORG_name>.</unclear> W.M.T.<note>https://en.wikipedia.org/wiki/Washington_Mean_Time</note> to <choice><expan><MISC_name>Eastern Standard Time</MISC_name></expan><abbr><PER_name>East</PER_name>. Stan</abbr></choice><note>https://en.wikipedia.org/wiki/Eastern_Time_Zone</note>
-				<lb facs="#facs_183_tr_1_tl_32" n="N002" />add 6<hi rend="superscript">m</hi> 16<hi rend="superscript">s</hi>. G.M.T.<note><LOC_name>https://en.wikipedia.org/wiki/Greenwich_Mean_Time</LOC_name></note> to
-				<lb facs="#facs_183_tr_1_tl_33" n="N003" /><choice><expan><MISC_name>Eastern Standard Time</MISC_name></expan><abbr><PER_name>E. Stan</PER_name>.</abbr></choice> Subtract 5<hi rend="superscript">h</hi>.
+				<lb facs="#facs_183_tr_1_tl_29" n="N001" />To <unclear><name n="ner" type="ORG">red</name>.</unclear> W.M.T.<note>https://en.wikipedia.org/wiki/Washington_Mean_Time</note> to <choice><expan><name n="ner" type="MISC">Eastern Standard Time</name></expan><abbr><name n="ner" type="PER">East</name>. Stan</abbr></choice><note>https://en.wikipedia.org/wiki/Eastern_Time_Zone</note>
+				<lb facs="#facs_183_tr_1_tl_32" n="N002" />add 6<hi rend="superscript">m</hi> 16<hi rend="superscript">s</hi>. G.M.T.<note><name n="ner" type="LOC">https://en.wikipedia.org/wiki/Greenwich_Mean_Time</name></note> to
+				<lb facs="#facs_183_tr_1_tl_33" n="N003" /><choice><expan><name n="ner" type="MISC">Eastern Standard Time</name></expan><abbr><name n="ner" type="PER">E. Stan</name>.</abbr></choice> Subtract 5<hi rend="superscript">h</hi>.
 			</p>
 			<p facs="#facs_183_TextRegion_1735845379262_785">
 				<lb facs="#facs_183_tr_1_tl_34" n="N001" /># To be added to W.M.T. for Local Time
@@ -2008,11 +2008,11 @@
 				<lb facs="#facs_184_tr_1_tl_2" n="N001" />Dimensions of Telescope
 				<lb facs="#facs_184_tr_1_tl_5" n="N002" />Clear Aperture ---- 3 inches
 				<lb facs="#facs_184_tr_1_tl_6" n="N003" />Eyepieces, 2. 50 (<choice><expan>terrestrial</expan><abbr>terr</abbr></choice>) and 125 (<choice><expan>astronomical</expan><abbr>ast.</abbr></choice>)
-				<lb facs="#facs_184_tr_1_tl_7" n="N004" />Focus (with <choice><expan>astronomical</expan><abbr><PER_name>astro</PER_name>.</abbr></choice>) --- 44in
-				<lb facs="#facs_184_tr_1_tl_8" n="N005" /><choice><orig>"</orig><reg><PER_name>Focus</PER_name></reg></choice> (<choice><orig>"</orig><reg>with</reg></choice> <choice><expan>terrestrial</expan><abbr>terr.</abbr></choice>) --- 52in
-				<lb facs="#facs_184_tr_1_tl_11" n="N006" /><choice><expan><PER_name>Manufactured</PER_name></expan><abbr><LOC_name>Manuf</LOC_name>.</abbr></choice> By Bardou<note>Manufacturer is probably: <MISC_name>Manufacturer is</MISC_name> probably: https://en.wikipedia.org/wiki/Denis_Albert_Bardou<MISC_name>https://en.wikipedia.org/wiki/Denis_Albert_Bardou</MISC_name></note>
-				<lb facs="#facs_184_tr_1_tl_12" n="N007" />Altazimuth<note><PER_name>Altazimuth</PER_name> mount: https://en.wikipedia.org/wiki/Altazimuth_mount</note> Stand by R.L. Allen
-				<lb facs="#facs_184_line_1735844061430_664" n="N008" />Purchased <date when="1906-09-13">1906 (<LOC_name>Sep. 13</LOC_name>)</date>
+				<lb facs="#facs_184_tr_1_tl_7" n="N004" />Focus (with <choice><expan>astronomical</expan><abbr><name n="ner" type="PER">astro</name>.</abbr></choice>) --- 44in
+				<lb facs="#facs_184_tr_1_tl_8" n="N005" /><choice><orig>"</orig><reg><name n="ner" type="PER">Focus</name></reg></choice> (<choice><orig>"</orig><reg>with</reg></choice> <choice><expan>terrestrial</expan><abbr>terr.</abbr></choice>) --- 52in
+				<lb facs="#facs_184_tr_1_tl_11" n="N006" /><choice><expan><name n="ner" type="PER">Manufactured</name></expan><abbr><name n="ner" type="LOC">Manuf</name>.</abbr></choice> By Bardou<note><name n="ner" type="MISC">Manufacturer is</name> probably: <name n="ner" type="MISC">https://en.wikipedia.org/wiki/Denis_Albert_Bardou</name></note>
+				<lb facs="#facs_184_tr_1_tl_12" n="N007" />Altazimuth<note><name n="ner" type="PER">Altazimuth</name> mount: https://en.wikipedia.org/wiki/Altazimuth_mount</note> Stand by R.L. Allen
+				<lb facs="#facs_184_line_1735844061430_664" n="N008" />Purchased <date when="1906-09-13">1906 (<name n="ner" type="LOC">Sep. 13</name>)</date>
 			</p>
 			<p facs="#facs_184_TextRegion_1735844061415_660">
 				<lb facs="#facs_184_tr_1_tl_15" n="N001" />Accessories
@@ -2021,10 +2021,10 @@
 				<lb facs="#facs_184_line_1735844057540_652" n="N001" />Lunar Map By Wright
 			</p>
 			<p facs="#facs_184_TextRegion_1735844057508_648">
-				<lb facs="#facs_184_line_1735844057540_653" n="N001" />Year Book - Farmer’s Almanack<note>Probably: <PER_name>Probably</PER_name>: Vmtl. https://en.wikipedia.org/wiki/Farmers%27_Almanac, cf.: https://www.farmersalmanac.com/<PER_name>Vmtl</PER_name>. https://en.wikipedia.org/wiki/Farmers%27_Almanac, cf.: https://www.farmersalmanac.com/</note>
+				<lb facs="#facs_184_line_1735844057540_653" n="N001" />Year Book - Farmer’s Almanack<note><name n="ner" type="PER">Probably</name>: <name n="ner" type="PER">Vmtl</name>. https://en.wikipedia.org/wiki/Farmers%27_Almanac, cf.: https://www.farmersalmanac.com/</note>
 			</p>
 			<p facs="#facs_184_TextRegion_1735844055500_644">
-				<lb facs="#facs_184_tr_1_tl_18" n="N001" />Planispheres - Whittaker <g ref="#hpl-and-sign">+</g> Barrett-<choice><orig><PER_name>Serviſs</PER_name></orig><reg><PER_name>Serviss</PER_name></reg></choice><note>Probably https://adsabs.harvard.edu/full/1906PA.....14..444. See also: <PER_name>Probably</PER_name> https://adsabs.harvard.edu/full/1906PA.....14..444. See also: https://de.pinterest.com/pin/astronomy-planisphere-barrittserviss-new-york-revolving-disk-on-card-antique-c-1930--548172585895879103/ <PER_name>See</PER_name> also: https://de.pinterest.com/pin/astronomy-planisphere-barrittserviss-new-york-revolving-disk-on-card-antique-c-1930--548172585895879103/ <LOC_name>https://de.pinterest.com/pin/astronomy-planisphere-barrittserviss-new-york-revolving-disk-on-card-antique-c-1930--548172585895879103</LOC_name>/ </note>
+				<lb facs="#facs_184_tr_1_tl_18" n="N001" />Planispheres - Whittaker <g ref="#hpl-and-sign">+</g> Barrett-<choice><orig><name n="ner" type="PER">Serviſs</name></orig><reg><name n="ner" type="PER">Serviss</name></reg></choice><note><name n="ner" type="PER">Probably</name> https://adsabs.harvard.edu/full/1906PA.....14..444. <name n="ner" type="PER">See</name> also: <name n="ner" type="LOC">https://de.pinterest.com/pin/astronomy-planisphere-barrittserviss-new-york-revolving-disk-on-card-antique-c-1930--548172585895879103</name>/ </note>
 			</p>
 			<p facs="#facs_184_TextRegion_1735844054258_638">
 				<lb facs="#facs_184_line_1735844054274_641" n="N001" />Atlas by Upton <g ref="#hpl-and-sign">+</g> Library
@@ -2033,7 +2033,7 @@
 				<lb facs="#facs_184_tr_1_tl_20" n="N001" />Opera <choice><orig>glaſses</orig><reg>glasses</reg></choice> - Prism Binoculars
 			</p>
 			<p facs="#facs_184_TextRegion_1735844051248_630">
-				<lb facs="#facs_184_tr_1_tl_21" n="N001" /><choice><expan><MISC_name>American Ephemeris and Nautical Almanack</MISC_name></expan><abbr>Am. Eph. <g ref="#hpl-and-sign">+</g> Naut. Almanack</abbr></choice>
+				<lb facs="#facs_184_tr_1_tl_21" n="N001" /><choice><expan><name n="ner" type="MISC">American Ephemeris and Nautical Almanack</name></expan><abbr>Am. Eph. <g ref="#hpl-and-sign">+</g> Naut. Almanack</abbr></choice>
 			</p>
 			<pb facs="#facs_185" n="185" />
 			<pb facs="#facs_186" n="186" />
