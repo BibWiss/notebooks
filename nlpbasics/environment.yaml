@@ -1,0 +1,10 @@
+# environment.yaml
+
+name: nlp-env
+channels:
+  - conda-forge
+dependencies:
+  - anaconda
+  - pip
+  - pip:
+    - -r requirements.txt

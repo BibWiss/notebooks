@@ -1,0 +1,11 @@
+notebook 
+spacy
+spacy-entity-linker
+spacytextblob
+nltk
+pandas
+numpy
+scikit-learn
+plotly
+wordcloud
+matplotlib
